@@ -43,7 +43,7 @@ hero_media = "examtools_logo_ss.svg"
 #  icon_pack = "fas"
 #  icon = "download"
   
-[cta_alt]
+[cta]
   url = "docs/"
   label = "View Documentation"
 
