@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
-  url = "docs/"
+  name = "ExamTools"
+  url = "https://exam.tools"
+  weight = 1
+
+[[main]]
+  name = "Docs"
+  url = "https://docs.exam.tools/"
   weight = 10
