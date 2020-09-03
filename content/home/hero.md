@@ -36,11 +36,12 @@ hero_media = "examtools_logo_ss.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "start/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+
+#[cta]
+#  url = "start/"
+#  label = "Get Started"
+#  icon_pack = "fas"
+#  icon = "download"
   
 [cta_alt]
   url = "docs/"
