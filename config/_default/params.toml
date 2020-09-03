@@ -75,7 +75,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/hamstudy/examtools-docs.git", content_dir = "content/", repo_branch = "master", editable = {book = true}}
+edit_page = {repo_url = "https://github.com/hamstudy/examtools-docs", content_dir = "content/", repo_branch = "master", editable = {book = true}}
 
 # Show related content at the bottom of pages?
 show_related = {book = true}
