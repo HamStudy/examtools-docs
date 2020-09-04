@@ -12,5 +12,5 @@ weight: 1
 2. Add your callsign on https://ham.study/profile
 3. Go to https://exam.tools.
 4. Under "Assist with an Exam" signin with your hamstudy credentials.
-5. Fillout this form:
+5. Fillout this form: https://forms.gle/cD9fTqv5ognik6XC9
 6. Inform your Team Lead/CVE that your setup on ExamTools and ready to participate in sessions. 
