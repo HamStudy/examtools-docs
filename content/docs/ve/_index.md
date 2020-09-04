@@ -18,7 +18,7 @@ The following are resources to help you get started with ExamTools
 
 * ** What is ExamTools **
 * ** Creating an ExamTools Account **
-* ** Adding a Signature to your File **
+* ** Adding a Signature to your Profile **
 * ** Changed Callsign Process **
 
 
