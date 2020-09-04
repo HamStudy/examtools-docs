@@ -8,7 +8,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-# Adding a Signature to your Profile
 
 1. Go to https://exam.tools
 2. Under "Assist with an Exam" signin with your hamstudy credentials
