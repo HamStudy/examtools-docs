@@ -120,7 +120,7 @@ VEC. You do this by deleting them from the Old Manifest prior to
 Finalizing the session. See the next question if your team policy is
 to retain fees for no-shows:
 
-# How are retained fees for pre-registered no-shows handled?
+## How are retained fees for pre-registered no-shows handled?
 
 The no-show candidate fees can be listed separately in "other fees collected"
 or all test fees could be added together. VE teams are
