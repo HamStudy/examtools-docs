@@ -12,7 +12,7 @@ draft: false
 
 ![ARRL The National Association for Amateur Radio](logo.jpg)
 
-## Can a VE volunteer to join existing teams performing remote exams?
+## Can a VE volunteer join existing teams performing remote exams?
 
 Yes. Go into the `#arrl` channel in Discord and volunteer. Several team
 leads monitor the channel and will get in touch, especially if they
@@ -91,11 +91,12 @@ details.
 
 ## Can I get reimbursed for expenses like Zoom Pro and PayPal transaction fees?
 
-Yes. Simply keep records of your "necessary and prudent " expenses
+Yes. Simply keep records of your "necessary and prudent" expenses
 required to run the exam session and submit for reimbursement,
-remembering the [limit](http://www.arrl.org/arrl-vec-exam-fees) of "up to $7 per candidate." For a monthly fee
+remembering the [limit](http://www.arrl.org/arrl-vec-exam-fees)
+of up to \$7 per candidate. For a monthly fee
 like that of Zoom Pro, prorate it over several exam sessions if the
-expense exceeds the $7 per candidate limit for a single session. See
+expense exceeds the per candidate limit for a single session. See
 Retaining A Portion of the Fees on page 61 of the VE Manual for
 complete rules and record-keeping requirements.
 
@@ -121,9 +122,9 @@ to retain fees for no-shows:
 
 # How are retained fees for pre-registered no-shows handled?
 
-The no-show candidate fees can be listed separately in "other fees
-collected" or all test fees could be added together. VE teams are
-allowed to retain up to $7 per candidate for reasonable expenses
+The no-show candidate fees can be listed separately in "other fees collected"
+or all test fees could be added together. VE teams are
+allowed to retain up to \$7 per candidate for reasonable expenses
 including the no-shows. No-show candidates that are not refunded the
 test fee could be listed on the roster or a note should be included
 explaining the additional fee. Candidates that give the team ample
@@ -151,7 +152,7 @@ file with the VEC department to pay for the exam session fees. Contact
 the VEC to make arrangements. Do not email your credit card
 information.
 
-## Can I charge more (or less) than the $15 ARRL/VEC fee?
+## Can I charge more (or less) than the \$15 ARRL/VEC fee?
 
 No.
 
@@ -165,7 +166,7 @@ to be applied uniformly throughout the calendar year to ensure every
 applicant is treated equally and without discrimination.
 
 The exam fee cannot be increased for a particular group of
-applicants. Therefore, teams should hold back a portion of each $15
+applicants. Therefore, teams should hold back a portion of each \$15
 exam fee to offset a credit card company’s payment fee. The exam fee
 should be not increased to offset the credit card fees.
 
