@@ -18,8 +18,8 @@ some things have already been updated since these videos were
 made). Here's the playlist:
 https://www.youtube.com/playlist?list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp
 
-Here is the one particularly important video for @VE Team Leads to
-share with their VEs and any other @ExamTools Beta User: How to be a
+Here is the one particularly important video for VE Team Leads to
+share with their VEs and any other ExamTools Beta User: How to be a
 VE for a Fully-Remote Exam using ExamTools Tier 2 and Zoom! Please
 share it with your teams!  https://youtu.be/KoImr4UtMPE
 
@@ -46,20 +46,20 @@ Here is the DRAFT "ExamTools Beta Tier 2 Getting Started Guide" available for pe
 
 ## Process Tip #4: VE Registration Form
 
-@VE Team Lead We made this Google Form for you to share with the VEs
+VE Team Leads - We made this Google Form for you to share with the VEs
 you are on-boarding into the Tier 2 software. Go ahead and send them
 this link as it will give them the instructions to walk through in
-order for @Experienced Support to give them permission to be added to
+order for Experienced Support to give them permission to be added to
 sessions. We'll be processing the submissions to there as we are able,
-but ping @Experienced Support if you need any expedited. Thanks!
+but ping Experienced Support if you need any expedited. Thanks!
 https://forms.gle/cD9fTqv5ognik6XC9
 
-@VE Team Lead make sure you fill this out yourself, even if you were
+VE Team Lead - make sure you fill this out yourself, even if you were
 setup to use Tier 1, since we need to add the permissions for your VEC
 in the new system.
 
 If you would like access to the sandbox / testing platform, fill out
-this form and @Experienced Support will get you added:
+this form and Experienced Support will get you added:
 https://forms.gle/NiAeLFpX7R7E7NZC9
 
 ## Process Tip #5: Setting the VE Number
@@ -75,7 +75,7 @@ all participating VECs.
 
 ## Process Tip #6: Process Flowchart
 
-@Nick [n1cck][E][VE] and @Marcel AI6MS just made a overview of the
+Nick N1CCK and Marcel AI6MS just made a overview of the
 ExamTools Tier 2 Process Flowchart which should help those folks
 trying to understand how to use the system. Please check it out and
 play with the sandbox beta at https://beta.examtools.dev/
@@ -110,7 +110,7 @@ Note 2: Anchorage ARC VEC continues to do Proctored Remote Testing. Details here
 
 Here's a nice step-by-step guide for VEs to use as a reference for how
 to run both single-room AND multi-room exam sessions. Special thanks
-to @Sarah | N6OPE for putting this together for GLAARG sessions. Feel
+to Sarah N6OPE for putting this together for GLAARG sessions. Feel
 free to use/modify for your teams. (Also note that some of these
 nuances are already fixed or being improved in the tool since writing,
 so as with all documentation, will be getting updates as the software
@@ -123,13 +123,13 @@ document with some tips and procedures for running a multi-exam-room
 session using breakout-rooms in Zoom. Check out:
 https://docs.google.com/document/d/1R0Z2DPbaCFeOSwUJnRnQdWe5S7BOLOCrR7QV75IrRTw/edit?usp=sharing
 (this link is open for commenting so we can get more tips from other
-teams as well). Special thanks to @Norm K6YXH @Loyal @Jonah KJ0NAH
-@Saito W4KEK @Lucky225 [WA6VPS][E][VE] and @Nick {N1CCK}{E} for
+teams as well). Special thanks to Norm K6YXH, Loyal, Jonah KJ0NAH,
+Grant W4KEK, Lucky225, and Nick N1CCK for
 helping put this together!
 
 ## Process Tip #12: More Tips for Running Exams Simulatneously
 
-From @Todd N7TMS who has been running some #w5yi sessions wrote up
+From Todd N7TMS who has been running some W5YI sessions wrote up
 this little flow for how he's running remote sessions. Similar to how
 GLAARG is doing it too. See below:
 
@@ -157,7 +157,7 @@ mic and camera as the VEs proceed with the exam.
 
 ## Process Tip #13: Zoom Pin Video
 
-From @Rick 1210E WM6M If you're using Zoom: "when asking the applicant
+From Rick WM6M If you're using Zoom: "when asking the applicant
 to show his/her room and ID, click on the applicant's ellipsis (those
 three dots) and select "Pin Video". That will make him full screen
 regardless of who is speaking while you check the room and ID." One
@@ -167,7 +167,7 @@ exam
 
 ## Process Tip #14: Hybrid In-Person Exams
 
-courtesy of @Nick AA0NM : "So this is the down and dirty draft of our
+Courtesy of Nick AA0NM: "So this is the down and dirty draft of our
 process (still being refined) that we will be testing out next week
 based on how things went this week (and some wishful thinking that a
 couple of the suggests we made will be in place). Remember we are
@@ -176,7 +176,7 @@ Suggestions welcome: https://bit.ly/2AXUgDl
 
 ## Process Tip #15: Markdown for Other Notes
 
-Courtesy of @Saito W4KEK/WN4BCC: Wanting to know more about what you
+Courtesy of Grant W4KEK: Wanting to know more about what you
 can put in your Other Notes box when creating a session? Examtools
 uses a format called Markdown, it can do a whole lot, to see some of
 the things it can do take a look though
@@ -184,8 +184,8 @@ https://www.markdowntutorial.com/
 
 ##Process Tip #16: Pre-Check Breakout Room Script
 
-Here's a nice little "Pre-Check Script" that was made by @Connor
-[KD9LSV][E][ IL], one of the VEs with GLAARG. It's a nice reference
+Here's a nice little "Pre-Check Script" that was made by Connor KD9LSV,
+one of the VEs with GLAARG. It's a nice reference
 for those groups using a separate pre-check room in Zoom for
 candidates before sending them to the Exam Breakout Room:
 https://bit.ly/3130hJH
@@ -193,20 +193,20 @@ https://bit.ly/3130hJH
 ## Process Tip #17: Discord for Dummies
 
 Here's a "Discord for Dummies" user guide that was put together by
-@Sarah | N6OPE to share with any VEs new to Discord that need a simple
+Sarah N6OPE to share with any VEs new to Discord that need a simple
 into:
-https://docs.google.com/document/d/1q4jjBoJkbhRpi5t6YhdtsatRBpCG_zRXjMze97sE69E/edit?usp=sharing
+https://bit.ly/2ZJAswO
 
 Here's a 2nd document as well added on 5/16/20:
-https://docs.google.com/document/d/1kKwHhtwqFgFHZS4d5cWD0PPZdDnp6sEfW4Y6MFKYh1U/edit?usp=sharing
+https://bit.ly/3cdUpRy
 
 ## Process Tip #18: Steps for New Team Lead
 
 If you are a new VE Team Lead looking to get started with ExamTools, here are our recommended steps:
 
-1. Read through all the #process-tips and watch all the videos
+1. Read through all the FAQs and watch all the videos
 
-2. Get yourself setup in the Sandbox environment using section “How to create a sandbox account” from the guide listed in #process-tips #3)
+2. Get yourself setup in the Sandbox environment using section “How to create a sandbox account” from the guide listed in FAQ #3)
 
 3. Optional: Set up 2 or more of your more experienced VEs that you would like to bring along on this journey using the same guide
      3a. If you do not have VEs that can train with you in the sandbox environment, you can use dummy VEs referenced in the instructions.
@@ -215,19 +215,17 @@ If you are a new VE Team Lead looking to get started with ExamTools, here are ou
 
 5. Ask in the appropriate VEC channel on the Discord to shadow another team already running live exams
 
-6. @VE Team Lead - Once you are ready to run real exams in the production environment, get explicit permission from your VEC to run fully-remote or in-person exams using ExamTools and send the confirmation of your approval to verifications@examtools.org
+6. VE Team Lead - Once you are ready to run real exams in the production environment, get explicit permission from your VEC to run fully-remote or in-person exams using ExamTools and send the confirmation of your approval to verifications@examtools.org
 
-7. At this point you’ll need to get all VEs on your team set up in the production environment to assist with your exams. Send them the sign up form from #process-tips #4 to get them registered with ExamTools and configured to help with your session.
+7. At this point you’ll need to get all VEs on your team set up in the production environment to assist with your exams. Send them the sign up form from FAQ #4 to get them registered with ExamTools and configured to help with your session.
 
 8. Create your first real exam session in the production environment and run your session!
 
-9. At any time, use the Discord to ask questions or ping @Experienced Support for any specific or urgent needs. We’re all here to help each other out and expand testing for everyone!
+9. At any time, use the Discord to ask questions or ping Experienced Support for any specific or urgent needs. We’re all here to help each other out and expand testing for everyone!
 
 ## Do Not Share Passwords
 
-From the man, @Richard (KD7BBC, HamStudy.org) - not a tip, but vital, so I am putting it here so that it does not get lost:
-
-@everyone Sorry for the blast, but this is very important.
+From the man, Richard KD7BBC - not a tip, but vital, so I am putting it here so that it does not get lost:
 
 Do not share your password with your team lead. If you have passwords
 belonging to your VEs please ask them to reset them. That password
@@ -252,7 +250,7 @@ https://ham.study/reset HamStudy.org: Reset your password
 
 ## COPPA
 
-@ExamTools User Please note that all COPPA forms should be sent to
+ExamTools User Please note that all COPPA forms should be sent to
 coppa@examtools.org and not to support@examtools.org -- it's not
 catestrophic if it goes to the wrong place as they both get to me, but
 they get filtered to a different place which makes it harder for me to
@@ -266,6 +264,6 @@ the coppa form can be found on the first page of registration.
 Direct the VE to https://ham.study/profile and have them login with
 their examtools login, and update that callsign to their new one.
 
-Ping a fellow @Experienced Support after setting up the callsign, and
+Ping Experienced Support after setting up the callsign, and
 we should be able to do a ULS refresh on examtools.
 
