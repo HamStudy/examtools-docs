@@ -12,16 +12,17 @@ draft: false
 
 ## Process Tip #1: ExamTools Training Videos
 
-ExamTools Training Videos are available for teams wanting to reference
+ExamTools [Training Videos](https://www.youtube.com/playlist?list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp)
+are available for teams wanting to reference
 the new work flow and processes. (Note that we're still in beta, so
 some things have already been updated since these videos were
-made). Here's the playlist:
-https://www.youtube.com/playlist?list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp
+made).
 
-Here is the one particularly important video for VE Team Leads to
+
+[Here is the one particularly important video](https://youtu.be/KoImr4UtMPE) for VE Team Leads to
 share with their VEs and any other ExamTools Beta User: How to be a
 VE for a Fully-Remote Exam using ExamTools Tier 2 and Zoom! Please
-share it with your teams!  https://youtu.be/KoImr4UtMPE
+share it with your teams!
 
 ## Process Tip #2: Web Site Decoder
 
@@ -42,25 +43,26 @@ There are a LOT of websites! Here's the decoder to help you figure out where you
 
 ## Process Tip #3: Getting Started Guide
 
-Here is the DRAFT "ExamTools Beta Tier 2 Getting Started Guide" available for people to reference here: https://bit.ly/2YJqb2p (note that this is a living document and is actively being updated to help guide you through using the new Tier 2 Software)
+Here is the [DRAFT "ExamTools Beta Tier 2 Getting Started Guide"](https://bit.ly/2YJqb2p).
+Note that this is a living document and is actively being updated to help
+guide you through using the new Tier 2 Software.
 
 ## Process Tip #4: VE Registration Form
 
-VE Team Leads - We made this Google Form for you to share with the VEs
-you are on-boarding into the Tier 2 software. Go ahead and send them
+VE Team Leads - We made [this Google Form](https://forms.gle/cD9fTqv5ognik6XC9)
+for you to share with the VEs you are on-boarding into the Tier 2 software. Go ahead and send them
 this link as it will give them the instructions to walk through in
 order for Experienced Support to give them permission to be added to
 sessions. We'll be processing the submissions to there as we are able,
 but ping Experienced Support if you need any expedited. Thanks!
-https://forms.gle/cD9fTqv5ognik6XC9
 
 VE Team Lead - make sure you fill this out yourself, even if you were
 setup to use Tier 1, since we need to add the permissions for your VEC
 in the new system.
 
 If you would like access to the sandbox / testing platform, fill out
-this form and Experienced Support will get you added:
-https://forms.gle/NiAeLFpX7R7E7NZC9
+[this form](https://forms.gle/NiAeLFpX7R7E7NZC9) and Experienced Support will get you added.
+
 
 ## Process Tip #5: Setting the VE Number
 
@@ -76,16 +78,15 @@ all participating VECs.
 ## Process Tip #6: Process Flowchart
 
 Nick N1CCK and Marcel AI6MS just made a overview of the
-ExamTools Tier 2 Process Flowchart which should help those folks
+[ExamTools Tier 2 Process Flowchart](https://bit.ly/3etpqkQ) which should help those folks
 trying to understand how to use the system. Please check it out and
 play with the sandbox beta at https://beta.examtools.dev/
-https://bit.ly/3etpqkQ
+
 
 ## Process Tip #7: Roles
 
-Here’s a brief overview of the roles within a session, and what each
-role is currently allowed to
-do. https://1drv.ms/w/s!Aqg8Vopj2nblhgsJVq8k7yBxhTDk?e=BdXeMm
+Here’s a [brief overview of the roles](https://1drv.ms/w/s!Aqg8Vopj2nblhgsJVq8k7yBxhTDk?e=BdXeMm)
+within a session, and what each role is currently allowed to do. 
 
 ## Process Tip #8: Want a Feature?
 
@@ -102,27 +103,30 @@ As of 2020-05-03, we are only aware of the following VECs doing fully-remote tes
 3. ARRL VEC - Contact the ARRL/VEC office for more information, visit the #arrl channel, and read
    [this FAQ]({{< relref "../arrl" >}}).
 
-Note 1: You must get explicit approvals from your VEC to administer fully-remote exams. DO NOT try to do this otherwise, or your session will likely be rejected/invalidated.
+Note 1: You must get explicit approvals from your VEC to administer
+fully-remote exams. DO NOT try to do this otherwise, or your session
+will likely be rejected/invalidated.
 
-Note 2: Anchorage ARC VEC continues to do Proctored Remote Testing. Details here: https://kl7aa.org/vec/remote-testing/
+Note 2: Anchorage ARC VEC continues to do [Proctored Remote Testing](https://kl7aa.org/vec/remote-testing/).
 
 ## Process Tip #10: How to Run Single & Multi-Room Exams
 
-Here's a nice step-by-step guide for VEs to use as a reference for how
+Here's a nice [step-by-step guide](https://bit.ly/2Bp7NE6) for VEs to use as a reference for how
 to run both single-room AND multi-room exam sessions. Special thanks
 to Sarah N6OPE for putting this together for GLAARG sessions. Feel
 free to use/modify for your teams. (Also note that some of these
 nuances are already fixed or being improved in the tool since writing,
 so as with all documentation, will be getting updates as the software
-matures). https://bit.ly/2Bp7NE6
+matures). 
 
 ## Process Tip #11: More Tips for Multi-Room Exam Sessions
 
 We worked with the VE Team from GLAARG to put together a DRAFT
-document with some tips and procedures for running a multi-exam-room
-session using breakout-rooms in Zoom. Check out:
-https://docs.google.com/document/d/1R0Z2DPbaCFeOSwUJnRnQdWe5S7BOLOCrR7QV75IrRTw/edit?usp=sharing
-(this link is open for commenting so we can get more tips from other
+document with some
+[tips and procedures](https://docs.google.com/document/d/1R0Z2DPbaCFeOSwUJnRnQdWe5S7BOLOCrR7QV75IrRTw/edit?usp=sharing)
+for running a multi-exam-room session using breakout-rooms in Zoom. Check out:
+
+(This document is open for commenting so we can get more tips from other
 teams as well). Special thanks to Norm K6YXH, Loyal, Jonah KJ0NAH,
 Grant W4KEK, Lucky225, and Nick N1CCK for
 helping put this together!
@@ -167,12 +171,12 @@ exam
 
 ## Process Tip #14: Hybrid In-Person Exams
 
-Courtesy of Nick AA0NM: "So this is the down and dirty draft of our
-process (still being refined) that we will be testing out next week
+Courtesy of Nick AA0NM: "So this is the down and dirty [draft of our process](https://bit.ly/2AXUgDl)
+(still being refined) that we will be testing out next week
 based on how things went this week (and some wishful thinking that a
 couple of the suggests we made will be in place). Remember we are
 running hybrid in person sessions with computer and paper exams.
-Suggestions welcome: https://bit.ly/2AXUgDl
+Suggestions welcome: 
 
 ## Process Tip #15: Markdown for Other Notes
 
@@ -184,21 +188,20 @@ https://www.markdowntutorial.com/
 
 ##Process Tip #16: Pre-Check Breakout Room Script
 
-Here's a nice little "Pre-Check Script" that was made by Connor KD9LSV,
+Here's a nice little ["Pre-Check Script"](https://bit.ly/3130hJH) that was made by Connor KD9LSV,
 one of the VEs with GLAARG. It's a nice reference
 for those groups using a separate pre-check room in Zoom for
-candidates before sending them to the Exam Breakout Room:
-https://bit.ly/3130hJH
+candidates before sending them to the Exam Breakout Room.
+
 
 ## Process Tip #17: Discord for Dummies
 
-Here's a "Discord for Dummies" user guide that was put together by
+Here's a ["Discord for Dummies" user guide](https://bit.ly/2ZJAswO) that was put together by
 Sarah N6OPE to share with any VEs new to Discord that need a simple
 into:
-https://bit.ly/2ZJAswO
 
-Here's a 2nd document as well added on 5/16/20:
-https://bit.ly/3cdUpRy
+Here's a [2nd document](https://bit.ly/3cdUpRy) as well added on 5/16/20:
+
 
 ## Process Tip #18: Steps for New Team Lead
 
