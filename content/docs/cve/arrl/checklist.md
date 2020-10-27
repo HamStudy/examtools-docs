@@ -8,6 +8,7 @@ date: 2020-06-18T00:00:00
 lastmod: 2020-09-14T00:00:00
 featured: false
 draft: false
+weight: 5
 
 ---
 _The following was the Columbia University ARC VE Team Checklist as of June 18, 2020.
@@ -67,7 +68,7 @@ send them the unlisted hamstudy session link(s) before publishing.
 * Examtools: Start session.
 * For each candidate
   * CVE co-owner/VE admin assigns 3 VEs to each candidate 
-  * Follow greeter script . 
+  * Follow [greeter script]({{< relref "greeter-script.md" >}}).
     * Admit candidate, run exam(s), get examinee signature, etc. 
   * VE's sign successful candidates. 
   * CVE Finalizes candidate.
