@@ -12,7 +12,7 @@ weight: 10
 
 ---
 CUARC VE Greeter Script
-v2.4 10/99/20
+v2.4 10/19/20
 
 
 _CVE: make sure Zoom is in Gallery view_
@@ -26,6 +26,32 @@ _CVE: queue up recorded greeting in QuickTime Player_
 Hello and welcome to our Amateur Radio exam session. [Roundtable VE introductions – name, callsign, location].
 
 _play recorded greeting – Share QT window w/audio_
+
+**BEGIN Recorded Video Script**
+
+We ask that you please bear with us as we refine the process for
+performing a fully-remote proctored exam. The process may seem onerous
+and somewhat invasive. It may seem like we suspect that each candidate
+might try to cheat. The CUARC VE team did not come up with the
+complete process and requirements, but we have a liability to uphold
+the trust put in us.
+
+
+Before we begin, some additional reminders:
+1. Make sure you have your photo ID handy.
+2. Ensure you are 100% focused during the entire exam session.
+3. Any distractions or anomalies could be cause to void the exam at the sole discretion of the VE Team. Anomalies include, but are not limited to:
+   1. Notable distraction by you, such as eyes not remaining on the exam and/or wandering around the room, or any noises.
+   2. Your appearing to reference or use unauthorized materials (e.g. looking at cell phone, even just the lock screen, changing windows on computer, etc.)
+   3. Another person entering the exam space (on camera, physically, or audibly).
+   4. Your getting up or leaving the room during the exam.
+4. Once you start the exam, the Volunteer Examiners will all turn off their video and audio so as to not distract you – but we’ll be listening and watching. Please leave your audio and video on. Give us a shout if you need anything and when you are ready for grading click the "grade exam" button and let us know you are ready.
+5. Make sure to answer all the questions: Only correct answers add points; incorrect answers don't subtract, so it's best to guess rather than leave an answer blank. Good luck with the exam
+
+
+Please respond to the next questions, and, if you don’t agree or can't comply, we'll end this now and refund your fee.
+
+**END Recorded Video Script**
 
 * Are you 18 years of age or over?
    * No, Under 13: Did parent send in COPPA form?
