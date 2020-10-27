@@ -14,8 +14,6 @@ type: book  # Do not modify.
 
 ## Flexibility
 
-Test Commit.
-
 This feature can be used for publishing content such as:
 
 * **Online courses**
