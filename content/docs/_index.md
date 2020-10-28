@@ -1,6 +1,6 @@
 ---
-title: Docs
+title: ExamTools Documentation
 type: book  # Do not modify.
 ---
 
-Welcome to the _book_ template!
+

@@ -4,3 +4,7 @@
 # Hugo
 resources/
 public/
+.DS_Store
+# editor temp files
+*~
+*#
