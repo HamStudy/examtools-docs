@@ -22,12 +22,9 @@ are short-handed.
 
 First, make sure you are accredited with the ARRL/VEC and confirm that
 you are listed at http://www.arrl.org/ve-session-counts for your
-state. Once you've done that, notify your ARRL VE Team Liaison (CVE)
-who will ask that your ARRL/VEC affiliation be added to your ExamTools
-profile. If you are already in Discord, you can send a message to
-`@Experienced Support` in the `#examtools-requests` channel requesting
-that they add you as an ARRL VE. If you are not in Discord, ask your
-VE Team Liaison to do it for you.
+state. Once you've done that, notify your ARRL VE Team Liaison (CVE).
+The CVE will need to ensure you are accredited before adding you to one of their examtools sessions.
+If you are already using ExamTools Discord, you should join the ARRL role by typing **?rank ARRL**.
 
 
 ## Is there a checklist of what my VE team needs to do?
