@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## To Add a Session to HamStudy.
+## To Add a Session to HamStudy
 
 Login to **Exam.Tools** by clicking on [SIGN IN] under Assist with an Exam.
 
@@ -68,7 +68,7 @@ You may want to do this to see the posting online, but for some reason do not wa
 
 Review your listing and click [Save] when done.
 
-## To View Your Session on HamStudy:
+## To View Your Session on HamStudy
 
 To view your listing on the web, navigate to the **Session List** and click on the session which you are interested in.  
 
@@ -78,6 +78,6 @@ Click on the icon and the link to your session on HamStudy will automatically co
 
 Search for your session by clicking on the **Find a Session** from the right side navigation on HamStudy.  If the session is not hidden, then it should come up.  Find all your sessions by adding your callsign to the end of the following link: https://ham.study/sessions/yourcallsign  Use this url to link to all your sessions live on HamStudy.  Include it in the session descriptions or share in email. This link will not include hidden sessions.
 
-## To Edit an Existing Session:
+## To Edit an Existing Session
 
 Return to **Manage Sessions** and click on **Edit Schedule** to update or change your listing.  Do this within the session from the **Current or Session List**.  Open your session.  Along the top of the window, look for a button for **EDIT SCHEDULE**.  This button will take you to the Edit Session window where you can make changes to your exam.  
