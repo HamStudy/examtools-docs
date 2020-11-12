@@ -54,7 +54,7 @@ If you select In-Person Session, a **Location** field will appear.  Enter the st
 
 [Schedule and Registration] - Your exam will appear on the schedule and online registration will be enabled, but users will not receive a PIN.  Use this option if you plan to use a method other than ET to test applicants.
 
-[Schedule only] - Your exam will appear on the schedule and online registration will be disabled.  Use this option for listing your in-person, walk-up exam or if you are going to be registering applicants in manner.  Add registration information to the session description in the Other Notes field.
+[Schedule only] - Your exam will appear on the schedule and online registration will be disabled.  Use this option for listing your in-person, walk-up exam or if you are going to be registering applicants in this manner.  Add registration information to the session description in the Other Notes field.
 
 Options:  
 * Pre-registration required
