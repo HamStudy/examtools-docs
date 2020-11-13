@@ -8,9 +8,9 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
-1. Create an account on https://ham.study
-2. Add your callsign on https://ham.study/profile
-3. Go to https://exam.tools.
-4. Under "Assist with an Exam" signin with your hamstudy credentials.
-5. Fillout this form: https://forms.gle/cD9fTqv5ognik6XC9
-6. Inform your Team Lead/CVE that your setup on ExamTools and ready to participate in sessions. 
+* Create an account on https://ham.study.  If you have a previously existing account, you may use the same login information for ExamTools
+* Navigate to http://ham.study/profile and add your call sign.
+* Go to https://exam.tools
+* Under "Assist with an Exam" sign in using the credentials you created previously
+* Fill out this form: https://forms.gle/cD9fTqv5ognik6XC9
+* Inform your Team Lead/CVE that your setup on ExamTools and ready to participate in sessions.

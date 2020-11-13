@@ -9,8 +9,8 @@ weight: 2
 ---
 
 
-1. Go to https://exam.tools
-2. Under "Assist with an Exam" signin with your hamstudy credentials
-3. Click on "Profile".
-4. In the box that says "sign here" use your mouse or touchscreen to draw your signature. 
-5. Click "Save".
+* Go to https://exam.tools
+* Under **Assist with an Exam** sign in with your HamStudy credentials
+* Click on "Profile"
+* Look for a white box at the top of your screen that says **Sign Here**.  Use your mouse or a touchescreen device to draw your signature 
+* When you are happy with the image click **Save**
