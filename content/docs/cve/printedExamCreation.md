@@ -20,7 +20,7 @@ Follow these instructions to print out randomly generated exams for use with a m
 
 * Log into http://exam.tools software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
-!(../generateExams.png)
+![Generate Exams](../generateExams.png)
 
 * The defaul selection is **Manual Grading**, indicated by a grey highlight
 * Follow the option selections for the exams that you wish to generate
@@ -42,7 +42,7 @@ Follow these instructions to print out randomly generated exams for use with a p
 
 * Log into http://exam.tools software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
-!(../generateExams.png)
+![Generate Exams](../generateExams.png)
 
 * The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
 * Follow the option selections for the exams that you wish to generate
@@ -65,7 +65,7 @@ Follow these instructions to print out randomly generated exams for scanning wit
 
 * Log into http://exam.tools software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
-!(../generateExams.png)
+![Generate Exams](../generateExams.png)
 
 * The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Scan with GradeCam(tm)**
 * Follow the option selections for the exams that you wish to generate
