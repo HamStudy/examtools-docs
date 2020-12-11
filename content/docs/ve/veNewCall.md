@@ -5,10 +5,15 @@ type: book
 date: "2019-05-05T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 4
 ---
+## Follow these instructions if you have updated your call sign with the FCC
 
-
-1. Login to your account on https://ham.study
-2. Change your callsign on https://ham.study/profile
-3. Ping a fellow "@Experienced Support" on the discord server after changing the callsign, and they should be able to do a ULS refresh on examtools.
+* Login to your account on https://ham.study
+* Change your callsign on https://ham.study/profile
+* From the email address listed on your account, send an email to support@examtools.org with the following information
+    * Your name
+    * Your VEC
+    * Your previous call sign
+    * Your new call sign
+    * The user name on your account

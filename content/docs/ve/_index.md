@@ -16,9 +16,7 @@ type: book  # Do not modify.
 
 The following are resources to help you get started with ExamTools
 
-* ** What is ExamTools **
-* ** Creating an ExamTools Account **
-* ** Adding a Signature to your Profile **
-* ** Changed Callsign Process **
-
-
+* [What is ExamTools]({{< relref "examtoolsOverview.md" >}})
+* [Creating an ExamTools Account]({{< relref "getExamToolsAccount.md" >}})
+* [Adding a Signature to Your Profile]({{< relref "addingSignatureProfile.md" >}})
+* [Changing your Call Sign]({{< relref "veNewCall.md" >}})
