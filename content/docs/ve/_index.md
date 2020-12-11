@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Volunteer Examiner
 summary: Learn how to use ExamTools for Volunteer Examiners.
-weight: 1
+weight: 20
 icon: book
 icon_pack: fas
 
@@ -16,7 +16,9 @@ type: book  # Do not modify.
 
 The following are resources to help you get started with ExamTools
 
-* [What is ExamTools]({{< relref "examtoolsOverview.md" >}})
+* [How ExamTools Works]({{< relref "examtoolsOverview.md" >}})
+* [VE Overview and Training Videos]({{<relref "veTrainingVideos.md">}})
 * [Creating an ExamTools Account]({{< relref "getExamToolsAccount.md" >}})
 * [Adding a Signature to Your Profile]({{< relref "addingSignatureProfile.md" >}})
+* [Adding Additional VEC Accreditation]({{<relref "veAdditionalVEC.md">}})
 * [Changing your Call Sign]({{< relref "veNewCall.md" >}})
