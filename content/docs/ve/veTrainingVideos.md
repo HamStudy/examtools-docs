@@ -10,7 +10,7 @@ weight: 20
 ## Overview of an ExamTools sessions
 For an overview of what an ExamTools session looks like, watch these videos:
 
-* [ExamTools Tier 2 BETA - Ho to be a VE for a Fully-Remote Exam!](https://www.youtube.com/watch?v=KoImr4UtMPE&feature=youtu.be).
+* [ExamTools Tier 2 BETA - How to be a VE for a Fully-Remote Exam!](https://www.youtube.com/watch?v=KoImr4UtMPE&feature=youtu.be).
 * [Fully-Remote Amateur Radio Exam Administration - QSO Today Virtual Ham Expo 2020](https://youtu.be/lovtrgFJtJ8)
 
 ## Training Videos
