@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: How to Print and Grade Hard Copy Exams in ExamTools
 summary: Instructions on how to print and grade hard copy exams for manual grading, GradeCam grading, and use with VEC Answer Keys
-weight: 1
+weight: 30
 featured: false
 draft: false
 icon: book-reader
@@ -18,7 +18,7 @@ type: book  # Do not modify.
 
 Follow these instructions to print out randomly generated exams for use with a manual grading key
 
-* Log into http://exam.tools software using your user name and password
+* Log into [ExamTools](http://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../generateExams.png)
 
@@ -40,7 +40,7 @@ Follow these instructions to print out randomly generated exams for use with a m
 
 Follow these instructions to print out randomly generated exams for use with a pre-determined (VEC) grading key
 
-* Log into http://exam.tools software using your user name and password
+* Log into [ExamTools](http://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../generateExams.png)
 
@@ -63,7 +63,7 @@ Follow these instructions to print out randomly generated exams for use with a p
 
 Follow these instructions to print out randomly generated exams for scanning with GradeCam(tm) software, which is accessible via the ExamTools website on any internet-connected device with a camera.
 
-* Log into http://exam.tools software using your user name and password
+* Log into [ExamTools](http://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../generateExams.png)
 

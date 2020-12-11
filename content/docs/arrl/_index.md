@@ -8,6 +8,9 @@ date: 2020-09-13T15:51:12-04:00
 lastmod: 2020-09-13T15:51:12-04:00
 featured: false
 draft: false
+weight: 40
+icon: book
+icon_pack: fas
 ---
 
 ![ARRL The National Association for Amateur Radio](logo.jpg)
@@ -37,7 +40,7 @@ used by the [Columbia University ARC VE Team](https://www.w2aee.columbia.edu/vid
 for some ideas. As with in-person sessions, there's always room for customizing how your particular team operates.
 
 ## Is there a procedure for verifying that ARRL is good with us doing online exams?
-Receipt of instructions via email from Maria is the approval for ExamTools and video sessions. 
+Receipt of instructions via email from Maria is the approval for ExamTools and video sessions.
 You must apply for permission by contacting the VEC but be aware of these requirements before you apply:
 
 _ARRL VE teams must meet the following criteria and adhere to the
@@ -56,19 +59,19 @@ Make sure you, the CVE (VE Team Liaison), do the following:
 * Follow the instructions in Maria's email.
 * Sign up for the VE Discord chat here: https://discord.gg/CsKrBmA
 * Upgrade your VE Discord membership by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfx_3ZzX_Yc0ABnRlnTShIXIMeigeFSLzUEN20bOjGnIUhOAA/viewform).
-  * To answer this question: "Please provide a link to some form of evidence to verify your VE credentials:" 
-    put in the link to the ARRL VE Counts page for your state. 
+  * To answer this question: "Please provide a link to some form of evidence to verify your VE credentials:"
+    put in the link to the ARRL VE Counts page for your state.
     For example: http://www.arrl.org/ve-session-counts?state=CA
     (If your call sign is not on the page for your state, you will need to resolve your VE accreditation
     with the VEC.)
 * Read through the entire #process-tips channel in Discord.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
-  team members. DO NOT use a Facebook or Google login: Make a "real" user. 
+  team members. DO NOT use a Facebook or Google login: Make a "real" user.
   There's more info in Discord #process-tips.
 * Volunteer in the Discord #arrl channel to help out with another team's ARRL/VEC session so you get
   to see the real system in action.
 * Once ready, you and all your VEs must register for tier 2 production via [this form](https://forms.gle/cD9fTqv5ognik6XC9).
-* Forward your approval email from the ARRL/VEC to verifications@examtools.org 
+* Forward your approval email from the ARRL/VEC to verifications@examtools.org
   making sure to note your call sign, username and email address.
   This will result in your Examtools membership being upgraded from VE to CVE (liaison).
 
@@ -242,7 +245,7 @@ and LOCATION).”  By typing your name below, you are signing this form
 electronically. Understand that your electronic signature is legally
 binding, as if you had physically signed the document by hand.
 
-The CSCE can be filled in ahead of time by the team and then emailed to the candidate. 
+The CSCE can be filled in ahead of time by the team and then emailed to the candidate.
 
 ## What do we sign when a candidate fails? How do we prove the failed exam happened?
 
