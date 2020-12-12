@@ -27,3 +27,9 @@ type: book  # Do not modify.
 * ### [ARRL-VEC FAQ's]({{<relref "arrl/_index.md">}})
   * #### [Sample ARRL VE Session Checklist]({{<relref "arrl/checklist.md">}})
   * #### [Sample ARRL VE Greeter Script]({{<relref "arrl/greeter-script.md">}})
+
+<br /><br />
+## **Third Party Tools, Tips and Tricks**
+* ### [Setting up and using Zoom Videoconferencing for Fully Remote exams]({{<relref "3rdParty/zoom.md">}})
+* ### [Setting up and using Discord for exam team communications]({{<relref "3rdParty/discord.md">}})
+* ### [Setting up and using Slack for exam team communications]({{<relref "3rdParty/slack.md">}})
