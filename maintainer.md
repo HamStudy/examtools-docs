@@ -186,6 +186,16 @@ Branch 'my_feature' set up to track remote branch 'my_feature' from 'origin'.
 
 Now go to the above URL in your browser and you can submit a PR.
 
+## Alternative approach: Editing in the browser on GithHub
+
+You can also edit pages directly in the web browser on github.com. When ready to save your edit, in the Commit Changes
+box at the bottom of the page, select "Create a **new branch** for this commit and start a pull request" rather than
+the default to "Commit directly to the `master` branch."  Choose a descriptive name for your update or just let
+GitHub pick a boring one like "_user_-patch-1."
+
+The main drawback of this approach is you can't test your updates locally via Hugo, but this is way simpler!
+
+
 ## Maintainer Only: Review and Merge Pull Request
 
 As a maintainer you can review the PR, request changes, approve, etc. and then merge it to master.
