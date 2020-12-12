@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![ARRL The National Association for Amateur Radio](logo.jpg)
+![ARRL The National Association for Amateur Radio](../images/logo.jpg)
 
 ## Can a VE volunteer join existing teams performing remote exams?
 
@@ -211,9 +211,9 @@ well. This document will eventually help the VEC automate a bunch of
 currently manual data entry.  See the following screenshots for an
 example:
 
-![ARRL/VEC Upload](upload.png)
+![ARRL/VEC Upload](../images/upload.png)
 
-![ARRL/VEC Upload](upload-finder.png)
+![ARRL/VEC Upload](../images/upload-finder.png)
 
 
 ## Can EBF files be uploaded to ARRL/VEC?
