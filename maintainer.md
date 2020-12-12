@@ -3,6 +3,9 @@
 Here's a checklist for Contributors and Maintainers, using [Github workflow](https://guides.github.com/introduction/flow/).
 The examples all assume you've [added a github ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
+<!-- install markdown-toc: `npm install -g markdown-toc` -->
+<!-- run `markdown-toc -i maintainer.md` to update this ToC -->
+
 <!-- toc -->
 
 - [Contributors and Maintainers Defined](#contributors-and-maintainers-defined)
@@ -151,6 +154,9 @@ Press Ctrl+C to stop
 And open http://localhost:1313/ in your browser.
 
 Rinse and repeat until your changes look right.
+
+You can also run `./view.sh ` which does `hugo server --disableFastRender --i18n-warnings -p 1316`.
+
 
 ## Commit your changes and push to your repo
 
