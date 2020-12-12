@@ -3,6 +3,22 @@
 Here's a checklist for Contributors and Maintainers, using [Github workflow](https://guides.github.com/introduction/flow/).
 The examples all assume you've [added a github ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
+<!-- toc -->
+
+- [Contributors and Maintainers Defined](#contributors-and-maintainers-defined)
+- [Fork the repo](#fork-the-repo)
+- [Add a ref to the upstream repo](#add-a-ref-to-the-upstream-repo)
+- [Make a feature branch](#make-a-feature-branch)
+- [Make your changes](#make-your-changes)
+- [Test your changes](#test-your-changes)
+- [Commit your changes and push to your repo](#commit-your-changes-and-push-to-your-repo)
+- [Submit a Pull Request](#submit-a-pull-request)
+- [Alternative approach: Editing in the browser on GithHub](#alternative-approach-editing-in-the-browser-on-githhub)
+- [Maintainer Only: Review and Merge Pull Request](#maintainer-only-review-and-merge-pull-request)
+- [Maintainer Only: Publish](#maintainer-only-publish)
+
+<!-- tocstop -->
+
 ## Contributors and Maintainers Defined
 
 Anybody can be a *Contributor*. Follow the next steps to fork the repo, make a feature branch and submit a pull request (PR).
