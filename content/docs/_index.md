@@ -6,6 +6,7 @@ type: book  # Do not modify.
 ## **General Information**
 
 * ### [General Information about ExamTools]({{<relref "general/_index.md">}})
+  * #### [Websites in the ExamTools Ecosystem]({{<relref "general/websiteDecoder.md">}})
   * #### [VE Roles and Permissions in an ExamTools session]({{<relref "general/sessionRolesPermissions.md">}})
 * ### [Volunteer Examiners]({{<relref "ve/_index.md">}})
   * #### [How ExamTools Works]({{<relref "ve/examtoolsOverview.md">}})
