@@ -3,6 +3,22 @@
 Here's a checklist for Contributors and Maintainers, using [Github workflow](https://guides.github.com/introduction/flow/).
 The examples all assume you've [added a github ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
+<!-- toc -->
+
+- [Contributors and Maintainers Defined](#contributors-and-maintainers-defined)
+- [Fork the repo](#fork-the-repo)
+- [Add a ref to the upstream repo](#add-a-ref-to-the-upstream-repo)
+- [Make a feature branch](#make-a-feature-branch)
+- [Make your changes](#make-your-changes)
+- [Test your changes](#test-your-changes)
+- [Commit your changes and push to your repo](#commit-your-changes-and-push-to-your-repo)
+- [Submit a Pull Request](#submit-a-pull-request)
+- [Alternative approach: Editing in the browser on GithHub](#alternative-approach-editing-in-the-browser-on-githhub)
+- [Maintainer Only: Review and Merge Pull Request](#maintainer-only-review-and-merge-pull-request)
+- [Maintainer Only: Publish](#maintainer-only-publish)
+
+<!-- tocstop -->
+
 ## Contributors and Maintainers Defined
 
 Anybody can be a *Contributor*. Follow the next steps to fork the repo, make a feature branch and submit a pull request (PR).
@@ -185,6 +201,16 @@ Branch 'my_feature' set up to track remote branch 'my_feature' from 'origin'.
 ## Submit a Pull Request
 
 Now go to the above URL in your browser and you can submit a PR.
+
+## Alternative approach: Editing in the browser on GithHub
+
+You can also edit pages directly in the web browser on github.com. When ready to save your edit, in the Commit Changes
+box at the bottom of the page, select "Create a **new branch** for this commit and start a pull request" rather than
+the default to "Commit directly to the `master` branch."  Choose a descriptive name for your update or just let
+GitHub pick a boring one like "_user_-patch-1."
+
+The main drawback of this approach is you can't test your updates locally via Hugo, but this is way simpler!
+
 
 ## Maintainer Only: Review and Merge Pull Request
 
