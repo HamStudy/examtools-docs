@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![ARRL The National Association for Amateur Radio](../images/logo.jpg)
+![ARRL The National Association for Amateur Radio](images/logo.jpg)
 
 ## Can a VE volunteer join existing teams performing remote exams?
 
