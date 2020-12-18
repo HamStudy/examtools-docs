@@ -13,6 +13,7 @@ The examples all assume you've [added a github ssh key](https://docs.github.com/
 - [Add a ref to the upstream repo](#add-a-ref-to-the-upstream-repo)
 - [Make a feature branch](#make-a-feature-branch)
 - [Make your changes](#make-your-changes)
+  * [Notes about the front matter metadata](#notes-about-the-front-matter-metadata)
 - [Test your changes](#test-your-changes)
 - [Commit your changes and push to your repo](#commit-your-changes-and-push-to-your-repo)
 - [Submit a Pull Request](#submit-a-pull-request)
@@ -112,6 +113,38 @@ Do some editing of the content files as needed. For example, I want to make some
 
 ```text
 $ emacs content/docs/cve/arrl/checklist.md
+```
+
+### Notes about the front matter metadata
+
+Hugo uses the front matter tags to do things like sort the documents in the lefthand menu (`weight` tag)
+and to set the last update date of the file (`date` tag). However, if you leave the `date` out, then
+it will be set to the date of the git commit for the file. This is probably what you wanted and eliminates
+the need to manually update this field every time you edit a given file. If you want to force the date
+to be something other than the git commit date, then set the tag explictly.
+
+This is especially useful for the [RSS feed](https://docs.exam.tools/index.xml) since feed readers will notify
+subscribers of new updates automatically:
+
+![rss feed](./rss.png "rss feed")
+
+Here's an example of the front matter for one file with the date commented out:
+```
+---
+# Title, summary, and page position.
+linktitle: VE Roles and Permissions in an ExamTools session
+weight: 30
+featured: false
+draft: false
+icon: book-reader
+icon_pack: fas
+
+# Page metadata.
+title: VE Roles and Permissions in an ExamTools session
+#date: "2012-12-11T00:00:00Z"
+type: book  # Do not modify.
+---
+
 ```
 
 ## Test your changes
