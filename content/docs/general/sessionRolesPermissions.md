@@ -9,7 +9,7 @@ icon_pack: fas
 
 # Page metadata.
 title: VE Roles and Permissions in an ExamTools session
-date: "2018-09-09T00:00:00Z"
+#date: "2012-12-11T00:00:00Z"
 type: book  # Do not modify.
 ---
 
