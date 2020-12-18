@@ -4,7 +4,7 @@
 title: CUARC VEC Greeter Script
 linktitle: Sample ARRL VE Greeter Script
 type: book
-date: 2020-10-19T00:00:00
+# date: 2020-10-19T00:00:00
 lastmod: 2020-10-27T00:00:00
 featured: false
 draft: false

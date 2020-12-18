@@ -4,7 +4,7 @@
 title: Frequently Asked Questions for ARRL VE Team Liaisons
 linktitle: ARRL CVE FAQ
 type: book
-date: 2020-09-13T15:51:12-04:00
+# date: 2020-09-13T15:51:12-04:00
 lastmod: 2020-09-13T15:51:12-04:00
 featured: false
 draft: false

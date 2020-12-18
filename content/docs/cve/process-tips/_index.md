@@ -4,7 +4,7 @@
 title: Process Tips
 linktitle: Process Tips
 type: book
-date: 2020-09-16T00:00:00
+# date: 2020-09-16T00:00:00
 lastmod: 2020-09-16T00:00:00
 featured: false
 draft: true

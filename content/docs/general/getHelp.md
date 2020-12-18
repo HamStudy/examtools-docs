@@ -9,7 +9,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Where to Get Help with ExamTools
-date: "2018-09-09T00:00:00Z"
+# date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 

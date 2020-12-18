@@ -4,7 +4,7 @@
 title: CUARC VEC Session Checklist
 linktitle: Sample ARRL VE Session Checklist
 type: book
-date: 2020-06-18T00:00:00
+# date: 2020-06-18T00:00:00
 lastmod: 2020-09-14T00:00:00
 featured: false
 draft: false
