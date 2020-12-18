@@ -10,7 +10,7 @@ icon_pack: fas
 
 # Page metadata.
 title: How to Create and Edit Sessions in ExamTools
-date: "2018-09-09T00:00:00Z"
+# date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
