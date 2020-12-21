@@ -4,8 +4,8 @@ type: book
 ---
 ## **General Information**
 
-
-* ### [General Information about ExamTools]({{<relref "general/_index.md">}})
+* ### [About ExamTools by SignalStuff]({{<relref "about">}})
+* ### [ExamTools for Volunteer Examiners]({{<relref "general">}})
   * #### [Websites in the ExamTools Ecosystem]({{<relref "general/websiteDecoder.md">}})
   * #### [Exam Flow and Overview in ExamTools]({{<relref "general/overviewFlowchart.md">}})
   * #### [VE Roles and Permissions in an ExamTools session]({{<relref "general/sessionRolesPermissions.md">}})
@@ -39,6 +39,3 @@ type: book
 
 
 <!-- tocstop -->
-
-
-

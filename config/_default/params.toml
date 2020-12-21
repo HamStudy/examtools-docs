@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "ExamTools.org"
+org_name = "ExamTools by SignalStuff"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Modernizing Amateur Radio License Exams -- Documentation"

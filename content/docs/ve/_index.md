@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Volunteer Examiner
+linktitle: Volunteer Examiners
 summary: Learn how to use ExamTools for Volunteer Examiners.
 weight: 20
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Volunteer Examiner
+title: Volunteer Examiners
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
