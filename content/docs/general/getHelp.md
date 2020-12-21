@@ -15,7 +15,7 @@ type: book  # Do not modify.
 
 ExamTools is still a maturing software base.  While Volunteer Examiners have been giving exams for over 30 years, ExamTools in it's current form has only been operational since early in 2020.  Understandably, it is still going through active development and upgrades by Richard Bateman, KD7BBC.  Should you run into a bug in the software, need some training help, or simply have a question, there are several ways to reach out.
 
-## Via discord
+## Via Discord
 SignalStuff maintains the Amateur Radio Volunteer Examiners of America server on Discord, an internet chat platform.  Here you can find conversation and tips about exam sessions, several methods of proctoring Amateur Radio exams including using ExamTools for both fully remote and in-person exams, and of course a bit of ham ragchew.  In addition to an experienced user base, there is also Experienced Support who are trained and knowledgeable about the platform and its functions.  You can join the server by clicking [this invite link](https://discord.gg/EhrMdWstgJ).  If you need quick support, this is the best avenue.
 
 ## Via email
