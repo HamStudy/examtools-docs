@@ -6,6 +6,7 @@ type: book
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 20
+draft: true
 ---
 ## Coming Soon
 
