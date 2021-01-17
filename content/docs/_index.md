@@ -10,6 +10,7 @@ type: book
   * #### [Exam Flow and Overview in ExamTools]({{<relref "general/overviewFlowchart.md">}})
   * #### [VE Roles and Permissions in an ExamTools session]({{<relref "general/sessionRolesPermissions.md">}})
   * #### [Where to Get Help with ExamTools]({{<relref "getHelp.md">}})
+  * #### [Getting Started with ExamTools]({{<relref "gettingStarted.md">}})
 * ### [Volunteer Examiners]({{<relref "ve/_index.md">}})
   * #### [How ExamTools Works]({{<relref "ve/examtoolsOverview.md">}})
   * #### [VE Overview and Training Videos]({{<relref "ve/veTrainingVideos.md">}})
