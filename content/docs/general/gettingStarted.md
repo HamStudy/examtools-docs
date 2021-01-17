@@ -71,7 +71,7 @@ To sign up for an ExamTools account, follow [this walkthrough]({{<relref "../ve/
 In order to print paper exams in ExamTools, at least one member of your team must be confirmed as a Team Lead.  If paper grading and signatures are to be used, no other VEs will be required to have an account.  You can sign up for an account and be granted Team Lead status by doing the following:
 * [Sign up for an ExamTools account]({{<relref "../ve/getExamtoolsAccount">}})
 * [Notify ExamTools of your Team Lead status]({{<relref "../cve/cveNewTeamLead.md">}})
-* [Review the steps to print paper exams]({{<relref "../cve/cveprintedExamCreation.md">}})
+* [Review the steps to print paper exams]({{<relref "../cve/printedExamCreation.md">}})
 
 ### Getting Started as a Team Lead running computer-based sessions
 In order to run computer-based testing sessions, you must be confirmed as a Team Lead to create and manage sessions.  Each Volunteer Examiner on your team that will be performing grading or signing actions will also need to have an account set up in ExamTools as indicated above.  You can sign up for an account and be granted Team Lead status by doing the following:
