@@ -34,9 +34,3 @@ type: book
 * ### [Setting up and using Zoom Videoconferencing for Fully Remote exams]({{<relref "3rdParty/zoom.md">}})
 * ### [Setting up and using Discord for exam team communications]({{<relref "3rdParty/discord.md">}})
 * ### [Setting up and using Slack for exam team communications]({{<relref "3rdParty/slack.md">}})
-
-<!-- toc -->
-
-
-
-<!-- tocstop -->
