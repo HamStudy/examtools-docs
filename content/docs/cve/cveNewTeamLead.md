@@ -20,7 +20,7 @@ If you are a new VE Team Lead looking to get started with ExamTools, here are ou
 
 * Read through this documentation and watch the videos provided
 
-* Get yourself setup in the **Sandbox** environment by following [these instructions]({{<relref "../ve/getExamtoolsAccount.md#follow-these-steps-to-create-an-account-for-use-with-examtools-sandbox--training-environment">}})
+* Get yourself setup in the [**Sandbox**]({{<relref "../general/websiteDecoder.md">}}) environment by following [these instructions]({{<relref "../ve/getExamtoolsAccount.md#follow-these-steps-to-create-an-account-for-use-with-examtools-sandbox--training-environment">}})
 
   * Optional: Set up 2 or more of your more experienced VEs that you would like to bring along on this journey using the same steps. If you do not have VEs that can train with you in the sandbox environment, you can use dummy VEs referenced in the instructions.
 

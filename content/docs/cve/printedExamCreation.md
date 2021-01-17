@@ -22,7 +22,7 @@ Follow these instructions to print out randomly generated exams for use with a m
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight
+* The default selection is **Manual Grading**, indicated by a grey highlight
 * Follow the option selections for the exams that you wish to generate
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
     * ***Question Pool*** - Choose the question pool for which you wish to generate exams.  Available selections include current US Amateur Radio exams, several FCC Commercial Elements, and Canadian 2014 Basic and Advanced Qualifications in either English or French Canadian
@@ -44,7 +44,7 @@ Follow these instructions to print out randomly generated exams for use with a p
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
+* The default selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
 * Follow the option selections for the exams that you wish to generate
     * ***Choose Answer Key(s)*** - Choose the grading template that you are using.  Includes pre-determined VEC-Specific grading templates such as ARRL: 1-1 through ARRL: 9-4.  Multiple selections are allowed.
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
@@ -67,7 +67,7 @@ Follow these instructions to print out randomly generated exams for scanning wit
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Scan with GradeCam(tm)**
+* The default selection is **Manual Grading**, indicated by a grey highlight.  Click on **Scan with GradeCam(tm)**
 * Follow the option selections for the exams that you wish to generate
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
     * ***Question Pool*** - Choose the question pool for which you wish to generate exams.  Available selections include current US Amateur Radio exams, several FCC Commercial Elements, and Canadian 2014 Basic and Advanced Qualifications in either English or French Canadian
