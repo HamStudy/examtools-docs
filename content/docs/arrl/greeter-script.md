@@ -4,7 +4,7 @@
 title: CUARC VEC Greeter Script
 linktitle: Sample ARRL VE Greeter Script
 type: book
-date: 2020-10-19T00:00:00
+# date: 2020-10-19T00:00:00
 lastmod: 2020-10-27T00:00:00
 featured: false
 draft: false
@@ -64,7 +64,7 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
    * do a 360 of the room
    * show us the ceiling, floor, wall behind the computer
    * desk with laptop/desktop
-   * anything up your sleeves? 
+   * anything up your sleeves?
    * under the laptop, mouse, mousepad, keyboard
    * no papers or anything on the desk
       * Optional: One blank piece of paper and pen or pencil for doing calculations.
@@ -84,7 +84,7 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
    * _CVE: Start recording locally and make sure in gallery view._
 * Have you used hamstudy.org to practice?
    * No - give quick tutorial
-* If you need to look away, move around, etc. please inform us first. Just shout out and we'll unmute and respond shortly. We'll all be turning off our video and audio but will be watching and listening. 
+* If you need to look away, move around, etc. please inform us first. Just shout out and we'll unmute and respond shortly. We'll all be turning off our video and audio but will be watching and listening.
 * _CVE approves starting test._
 * … exam ...
 * Now please click on grade your exam

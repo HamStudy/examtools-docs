@@ -3,6 +3,26 @@
 Here's a checklist for Contributors and Maintainers, using [Github workflow](https://guides.github.com/introduction/flow/).
 The examples all assume you've [added a github ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
+<!-- install markdown-toc: `npm install -g markdown-toc` -->
+<!-- run `markdown-toc -i maintainer.md` to update this ToC -->
+
+<!-- toc -->
+
+- [Contributors and Maintainers Defined](#contributors-and-maintainers-defined)
+- [Fork the repo](#fork-the-repo)
+- [Add a ref to the upstream repo](#add-a-ref-to-the-upstream-repo)
+- [Make a feature branch](#make-a-feature-branch)
+- [Make your changes](#make-your-changes)
+  * [Notes about the front matter metadata](#notes-about-the-front-matter-metadata)
+- [Test your changes](#test-your-changes)
+- [Commit your changes and push to your repo](#commit-your-changes-and-push-to-your-repo)
+- [Submit a Pull Request](#submit-a-pull-request)
+- [Alternative approach: Editing in the browser on GithHub](#alternative-approach-editing-in-the-browser-on-githhub)
+- [Maintainer Only: Review and Merge Pull Request](#maintainer-only-review-and-merge-pull-request)
+- [Maintainer Only: Publish](#maintainer-only-publish)
+
+<!-- tocstop -->
+
 ## Contributors and Maintainers Defined
 
 Anybody can be a *Contributor*. Follow the next steps to fork the repo, make a feature branch and submit a pull request (PR).
@@ -95,6 +115,38 @@ Do some editing of the content files as needed. For example, I want to make some
 $ emacs content/docs/cve/arrl/checklist.md
 ```
 
+### Notes about the front matter metadata
+
+Hugo uses the front matter tags to do things like sort the documents in the lefthand menu (`weight` tag)
+and to set the last update date of the file (`date` tag). However, if you leave the `date` out, then
+it will be set to the date of the git commit for the file. This is probably what you wanted and eliminates
+the need to manually update this field every time you edit a given file. If you want to force the date
+to be something other than the git commit date, then set the tag explictly.
+
+This is especially useful for the [RSS feed](https://docs.exam.tools/index.xml) since feed readers will notify
+subscribers of new updates automatically:
+
+![rss feed](./rss.png "rss feed")
+
+Here's an example of the front matter for one file with the date commented out:
+```
+---
+# Title, summary, and page position.
+linktitle: VE Roles and Permissions in an ExamTools session
+weight: 30
+featured: false
+draft: false
+icon: book-reader
+icon_pack: fas
+
+# Page metadata.
+title: VE Roles and Permissions in an ExamTools session
+#date: "2012-12-11T00:00:00Z"
+type: book  # Do not modify.
+---
+
+```
+
 ## Test your changes
 
 One time: See the [instructions](https://wowchemy.com/docs/install-locally/) for installing Hugo locally.
@@ -135,6 +187,9 @@ Press Ctrl+C to stop
 And open http://localhost:1313/ in your browser.
 
 Rinse and repeat until your changes look right.
+
+You can also run `./view.sh ` which does `hugo server --disableFastRender --i18n-warnings -p 1316`.
+
 
 ## Commit your changes and push to your repo
 
@@ -185,6 +240,16 @@ Branch 'my_feature' set up to track remote branch 'my_feature' from 'origin'.
 ## Submit a Pull Request
 
 Now go to the above URL in your browser and you can submit a PR.
+
+## Alternative approach: Editing in the browser on GithHub
+
+You can also edit pages directly in the web browser on github.com. When ready to save your edit, in the Commit Changes
+box at the bottom of the page, select "Create a **new branch** for this commit and start a pull request" rather than
+the default to "Commit directly to the `master` branch."  Choose a descriptive name for your update or just let
+GitHub pick a boring one like "_user_-patch-1."
+
+The main drawback of this approach is you can't test your updates locally via Hugo, but this is way simpler!
+
 
 ## Maintainer Only: Review and Merge Pull Request
 

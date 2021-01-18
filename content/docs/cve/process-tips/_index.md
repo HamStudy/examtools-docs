@@ -4,25 +4,11 @@
 title: Process Tips
 linktitle: Process Tips
 type: book
-date: 2020-09-16T00:00:00
+# date: 2020-09-16T00:00:00
 lastmod: 2020-09-16T00:00:00
 featured: false
-draft: false
+draft: true
 ---
-
-## Process Tip #1: ExamTools Training Videos
-
-ExamTools [Training Videos](https://www.youtube.com/playlist?list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp)
-are available for teams wanting to reference
-the new work flow and processes. (Note that we're still in beta, so
-some things have already been updated since these videos were
-made).
-
-
-[Here is the one particularly important video](https://youtu.be/KoImr4UtMPE) for VE Team Leads to
-share with their VEs and any other ExamTools Beta User: How to be a
-VE for a Fully-Remote Exam using ExamTools Tier 2 and Zoom! Please
-share it with your teams!
 
 ## Process Tip #2: Web Site Decoder
 
@@ -86,7 +72,7 @@ play with the sandbox beta at https://beta.examtools.dev/
 ## Process Tip #7: Roles
 
 Here’s a [brief overview of the roles](https://1drv.ms/w/s!Aqg8Vopj2nblhgsJVq8k7yBxhTDk?e=BdXeMm)
-within a session, and what each role is currently allowed to do. 
+within a session, and what each role is currently allowed to do.
 
 ## Process Tip #8: Want a Feature?
 
@@ -117,7 +103,7 @@ to Sarah N6OPE for putting this together for GLAARG sessions. Feel
 free to use/modify for your teams. (Also note that some of these
 nuances are already fixed or being improved in the tool since writing,
 so as with all documentation, will be getting updates as the software
-matures). 
+matures).
 
 ## Process Tip #11: More Tips for Multi-Room Exam Sessions
 
@@ -176,7 +162,7 @@ Courtesy of Nick AA0NM: "So this is the down and dirty [draft of our process](ht
 based on how things went this week (and some wishful thinking that a
 couple of the suggests we made will be in place). Remember we are
 running hybrid in person sessions with computer and paper exams.
-Suggestions welcome: 
+Suggestions welcome:
 
 ## Process Tip #15: Markdown for Other Notes
 
@@ -269,4 +255,3 @@ their examtools login, and update that callsign to their new one.
 
 Ping Experienced Support after setting up the callsign, and
 we should be able to do a ULS refresh on examtools.
-
