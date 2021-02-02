@@ -10,6 +10,7 @@ type: book
   * #### [Exam Flow and Overview in ExamTools]({{<relref "general/overviewFlowchart.md">}})
   * #### [VE Roles and Permissions in an ExamTools session]({{<relref "general/sessionRolesPermissions.md">}})
   * #### [Where to Get Help with ExamTools]({{<relref "getHelp.md">}})
+  * #### [Getting Started with ExamTools]({{<relref "gettingStarted.md">}})
 * ### [Volunteer Examiners]({{<relref "ve/_index.md">}})
   * #### [How ExamTools Works]({{<relref "ve/examtoolsOverview.md">}})
   * #### [VE Overview and Training Videos]({{<relref "ve/veTrainingVideos.md">}})
@@ -29,13 +30,3 @@ type: book
   * #### [Sample ARRL VE Greeter Script]({{<relref "arrl/greeter-script.md">}})
 
 <br /><br />
-## **Third Party Tools, Tips and Tricks**
-* ### [Setting up and using Zoom Videoconferencing for Fully Remote exams]({{<relref "3rdParty/zoom.md">}})
-* ### [Setting up and using Discord for exam team communications]({{<relref "3rdParty/discord.md">}})
-* ### [Setting up and using Slack for exam team communications]({{<relref "3rdParty/slack.md">}})
-
-<!-- toc -->
-
-
-
-<!-- tocstop -->

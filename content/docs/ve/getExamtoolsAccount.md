@@ -7,8 +7,11 @@ type: book
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 30
 ---
+The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two distinct environments for Volunteer Examiners.  
+* The primary website is found at http://exam.tools, and is considered the [Production environment]({{<relref "../general/websiteDecoder.md">}}).  This is where all active Volunteer Examiners need to have an account in order to perform live exams.  
+* ExamTools also maintains a [Sandbox environment]({{<relref "../general/websiteDecoder.md">}}) that is used for troubleshooting program errors and general VE training.  This is a separate database, with different user names and passwords from the Production environment.  It is not required to create a Sandbox account to perform live testing; however, your Team Lead may require training sessions in the [Sandbox]({{<relref "../general/websiteDecoder.md">}}).  You might also be interested in using it to follow along with documentation and walk-through videos.
 
-## Follow these steps to create an account for use with ExamTools Production Environment
+## Follow these steps to create an account for use with [ExamTools Production Environment]({{<relref "../general/websiteDecoder.md">}})
 
 * Create an account on [HamStudy](https://ham.study).  If you have a previously existing account, you may skip this step and use the same login information for ExamTools
 ![Ham.Study Register](../images/hamstudyRegister.png)
@@ -22,7 +25,7 @@ weight: 30
 * Fill out [this form](https://forms.gle/cD9fTqv5ognik6XC9).
 * Inform your Team Lead that you are set up on ExamTools and ready to participate in sessions.
 
-## Follow these steps to create an account for use with ExamTools Sandbox / Training Environment
+## Follow these steps to create an account for use with [ExamTools Sandbox / Training Environment]({{<relref "../general/websiteDecoder.md">}})
 
 * Create an account on [HamStudy Sandbox](https://hamstudy.dev).
 ![Ham.Study Register](../images/hamstudyRegister.png)
