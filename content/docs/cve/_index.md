@@ -17,3 +17,4 @@ Following are instructions for tasks most commonly performed by Team Leads.
 * [How to become a Team Lead in ExamTools]({{<relref "cveNewTeamLead.md">}})
 * [How to Create and Edit Sessions in ExamTools]({{< relref "cveCreateSession.md" >}})
 * [How to Print and Grade Hard Copy Exams in ExamTools]({{< relref "printedExamCreation.md" >}})
+* [How to Use Zoom for Online Exams]({{< relref "Zoom.md" >}})
