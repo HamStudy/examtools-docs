@@ -142,23 +142,27 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
 5. Designate one or two as co-hosts by clicking on their name and selecting the Make Co-Host option.
    Think of a co-host as Alternate NCS in case your Zoom session fails.
 
-6. Once all your VEs are present and you've admitted them from the waiting room, admit your first candidate.
+5. Make sure all your VEs have a good video presence and background -- either real or using a Zoom Virtual Background.
+   We want our candidates to experience a friendly, positive, apolitical image of our VE team, our VEC, and the
+   Amateur Radio Service. They should set their Zoom display name to include their call sign (or you can do it for them).
+
+5. Once all your VEs are present, admit your first candidate.
    Make sure to set Side-by-Side Gallery mode so you can see all the VE and candidate video angles.
    ![Zoom Waiting Room](../images/zoom_gallery_mode.png)
 
-7. After introductions, checking candidate ID, and so on, have the candidate share their complete desktop,
-   make sure you are ready to start the exam and then have them enter ExamTools in their browser.
+5. After introductions, checking candidate ID, and so on, have the candidate share their complete desktop,
+   make sure you are ready to start the exam, and then have them enter ExamTools in their browser.
    Depending on the number of VEs, you may need to slide the bar between the shared desktop and video
-   windows so as to see all the video views.
+   windows so as to see (and record) all the video views.
    ![Zoom Side-by-Side Gallery](../images/zoom_all_views.png)
 
-8. If your team requires two devices (cameras) per candidaate, make sure that the second device is connected to
+5. If your team requires two devices (cameras) per candidate, make sure that the second device is connected to
    the Zoom session with **audio not connected**. Otherwise you will likely get audio feedback from the speaker
    of the second device to the microphone of the candidate's main computer. In Zoom for iOS (and likely other versions)
    have the candidate click on `... More` near the bottom right and then `Disconnect Audio`.
    See [screenshots](#zoom-second-device-audio-feedback), below.
 
-9. Before you approve them to start their exam, start Recording to Computer and have all the VEs mute their
+5. Before you approve them to start their exam, start Recording to Computer and have all the VEs mute their
    video and audio. It is important that you've made sure that all the videos are visible in the gallery
    view since that's what will get record.  Don't forget to pause the recording when they are done.
    The video recording can be paused and restarted for each candidate. This will result in one mp4 file
@@ -168,10 +172,10 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
    ![Zoom Record to Computer](../images/zoom_record_to_computer.png)
 
 
-10. Upon exam session completion, end the Zoom meeting for all. At this point, Zoom will start rendering the saved video
-    into an mp4 file. When it's done, a file browser will pop up with several files offered. You only need to retain
-    the mp4 file -- usually named `zoom_0.mp4`.
-    ![Zoom zoom_0.mp4 file](../images/zoom_0_mp4.png)
+5. Upon exam session completion, end the Zoom meeting for all. At this point, Zoom will start rendering the saved video
+   into an mp4 file. When it's done, a file browser will pop up with several files offered. You only need to retain
+   the mp4 file -- usually named `zoom_0.mp4`.
+   ![Zoom zoom_0.mp4 file](../images/zoom_0_mp4.png)
 
 	
 ## Hints and Kinks
@@ -188,9 +192,9 @@ You can also use Zoom Chat to send a messaage to `Everybody in the Waiting Room`
 helpful status updates if your session is running behind schedule, for instance.  Be careful when you send these messages
 as:
 
-1. Everyone in the waiting room will receive the message. Avoid sharing candidate names, etc.
+1. everyone in the waiting room will receive the message. Avoid sharing candidate names, etc.; 
 
-2. That you don't inadvertenly send the message to everyone in the meeting instead.
+2. you might inadvertently send the message to everyone in the meeting instead.
 
 ### Unknown Person in the Waiting Room
 
@@ -201,20 +205,25 @@ You'll need to admit them and see who they are.
 
 ### Wrong person admitted from the Waiting Room
 
-You can send them back by Removing them. Uncheck the box to Report to Zoom -- that's for reporting Zoom bombers
-and other inappropriate behavior. Remove moves them back to the Waiting Room.
+You can send them back to the Waiting Room by selecting `Put in Waiting Room`.
+
+### Candidate has difficulty or forgets to leave Zoom session
+
+You can remove the candidate but make sure to uncheck the box to Report to Zoom -- that's for reporting Zoom bombers
+and other inappropriate behavior.
 ![Zoom Remove](../images/zoom_remove.png)
 
 ### PC Camera is too blurry to read photo ID
 
 Frequently desktop/laptop cameras don't focus well on photo IDs. Try using their second device (phone) camera.
-You are using two devices, right? Two cameras are required by some VECs and not others, but they can be very helpful.
+(You are using two devices, right?) Two cameras are required by some VECs and not others, but they can be very helpful.
 Most people who have a laptop computer with a camera also own a Zoom-capable phone.
 
 ### Zoom Second Device Audio Feedback
 
 When using a second device (usually a phone), candidates frequently connect audio, which leads to audio feedback
-from the speaker of the phone into the microphone of the main computer.
+from the speaker of the phone into the microphone of the main computer. Have the candidate click on `... More`
+near the bottom right and then `Disconnect Audio`.
 
 ![Zoom iOS More...](../images/zoom_ios_ellipsis.png)
 
