@@ -243,12 +243,65 @@ Now go to the above URL in your browser and you can submit a PR.
 
 ## Alternative approach: Editing in the browser on GithHub
 
-You can also edit pages directly in the web browser on github.com. When ready to save your edit, in the Commit Changes
-box at the bottom of the page, select "Create a **new branch** for this commit and start a pull request" rather than
-the default to "Commit directly to the `master` branch."  Choose a descriptive name for your update or just let
-GitHub pick a boring one like "_user_-patch-1."
+You can also edit pages directly in the web browser on github.com.
 
-The main drawback of this approach is you can't test your updates locally via Hugo, but this is way simpler!
+A drawback of this approach is you can't test your updates locally via Hugo before submitting them, however a preview
+of the site is generated as part of the Pull Request checks. You can click on the **netlify/examtools-docs/deploy-preview**
+Details to see it.
+
+See the following checklist for an example of this workflow:
+
+1. Navigate to the page you want to edit and click the edit pencil icon:
+
+![edit the markdown file](./browser-edit.png "edit the markdown file")
+
+2. Since you are making changes to a project that you don't have write access to, this will make a fork of the repo under
+   your GitHub account and start a new feature branch:
+
+![create a new fork](./browser-edit-new-fork.png "create a new fork")
+
+3. Now you can make your changes and then scroll down to the bottom to commit them:
+
+![commit browser-based edit](./browser-commit.png "commit browser-based edit")
+
+4. You can now create a Pull Request (PR) which submits your edit to the hamstudy/examtools-docs project:
+
+![submit PR](./browser-pr.png "submit PR")
+
+5. After a few minutes, the PR will have run the various checks. One of those generates a preview web site for you to
+   see if your edits look right:
+
+![PR Conversation page with netlify preview circled](./netlify.png "netlify preview")
+
+
+At this point, if you are happy with your changes, the ball is in the court of the examtools-docs maintainers. They'll be
+notified of the PR and will either merge and deploy it or ask you for some further edits.
+
+In the latter case, or if you discover that you didn't edit it quite right and need to tweak your changes, 
+you can edit some more and submit another commit on the same branch.
+This is a little complicated:
+
+If you clicked the Netlify Preview link, click Back in the browser so you are back at the PR Conversation screen.
+
+1. On the line with the green Open icon, click on the blue link for the "from" _repo_:_patch_. This will put you
+   in your forked repo's feature branch for the PR you just submitted:
+
+![Jump to my repo/patch feature branch](./browser-pr-jump-to-repo.png "jump to my feature branch")
+
+2. You'll have to navigate to your copy of the file you were editing, and again click the pencil icon.
+
+![Edit your copy](./browser-2nd-edit.png "edit your copy")
+
+3. Once done editing, scroll down to the bottom and Commit Changes for this edit directly to the existing branch:
+
+![Commit your edit](./browser-2nd-commit.png "commit your edit")
+
+4. Now navigate back to your PR on the main http://github.com/hamstudy/examtools-docs/pulls repo and you'll see
+   that your 2nd edit commit has been added, the checks have run again, and, you can again click the Netlify
+   details to see your changes.
+
+![2nd commit in PR](./browser-2nd-commit-pr.png "2nd commit")
+
 
 
 ## Maintainer Only: Review and Merge Pull Request
