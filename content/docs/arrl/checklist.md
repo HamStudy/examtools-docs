@@ -9,7 +9,7 @@ draft: false
 weight: 5
 
 ---
-_The following was the Columbia University ARC VE Team Checklist as of February, 2020.
+_The following was the Columbia University ARC VE Team Checklist as of February 23, 2020.
 The team has since implemented some automation scripts. Some updates have been made here
 to reflect changed practices since June. Use this just to get an idea of the manual effort required._
 
