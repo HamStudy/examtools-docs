@@ -1,4 +1,4 @@
-**For Examtools documentation contributers and maintainers see [maintainer.md](maintainer.md).**
+**For Examtools documentation contributors and maintainers see [maintainer.md](maintainer.md).**
 
 Following is the default wowchemy README:
 
