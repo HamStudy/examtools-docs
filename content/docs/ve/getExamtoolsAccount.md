@@ -20,7 +20,6 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 ![ExamTools Create Profile](../images/examtoolsCreateAccount.png)
 * It will then redirect you to [ExamTools](https://exam.tools/portal/veLogin).
 * Login with your newly created account and note the RequestID in the middle of the page.
-![Exam.Tools Login Page](../images/examtoolsSignIn.png)
 ![Exam.Tools Request ID](../images/examtoolsRequestID.png)
 * Fill out [this form](https://forms.gle/cD9fTqv5ognik6XC9).
 * Inform your Team Lead that you are set up on ExamTools and ready to participate in sessions.
@@ -34,7 +33,6 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 ![ExamTools Create Profile](../images/examtoolsCreateAccount.png)
 * It will then redirect you to [ExamTools](https://examtools.dev/portal/veLogin).
 * Login with your newly created account and note the RequestID in the middle of the page.
-![Exam.Tools Login Page](../images/examtoolsSignIn.png)
 ![Exam.Tools Request ID](../images/examtoolsRequestID.png)
 * Fill out [this form](https://forms.gle/NiAeLFpX7R7E7NZC9).
 * Inform your Team Lead that you are set up on the ExamTools Sandbox and ready to participate in training sessions.
