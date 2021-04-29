@@ -19,9 +19,12 @@ type: book
   * #### [Adding Additional VEC Accreditation]({{<relref "ve/veAdditionalVEC.md">}})
   * #### [Changing your Callsign]({{<relref "ve/veNewCall.md">}})
 * ### [Team Leads]({{<relref "cve/_index.md">}})  
-  * #### [How to become a Team Lead in ExamTools]({{<relref "cve/cveNewTeamLead.md">}})
-  * #### [How to Create and Edit Sessions in ExamTools]({{<relref "cve/cveCreateSession.md">}})
-  * #### [How to Print and Grade Hard Copy Exams in ExamTools]({{<relref "cve/printedExamCreation.md">}})
+  * #### [How to Become a Team Lead in ExamTools]({{<relref "cveNewTeamLead.md">}})
+  * #### [How to Create and Edit Sessions in ExamTools]({{< relref "cveCreateSession.md" >}})
+  * #### [How to Edit the VE List in ExamTools]({{< relref "cveVEList.md" >}})
+  * #### [How to Use ExamTools for In-Person Exams]({{< relref "cveIn-PersonExamProcess.md" >}})
+  * #### [How to Print and Grade Hard Copy Exams in ExamTools]({{< relref "printedExamCreation.md" >}})
+  * #### [How to Use Zoom for Online Exams]({{< relref "Zoom.md" >}})
 
 <br><br>
 ## **VEC Specific Information**
