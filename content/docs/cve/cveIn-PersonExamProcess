@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 # In-Person Exams with ExamTools
 
-**Prepare for in-Person Exam**
+**Prepare for in-Person Exam:**
 
  * Session Manager (SM) [creates a session](https://docs.exam.tools/docs/cve/cvecreatesession/) on ExamTools (ET).
  * Session Manager [prints paper exams](https://docs.exam.tools/docs/cve/printedexamcreation/#printing-exam-sheets-to-scan-with-gradecamtm) for use with GradeCam if needed.  Exams printed for use with templates will not work with GradeCam.
@@ -86,7 +86,7 @@ Once the applicant and three Certifying VEs have signed, the SM or a co-owner sh
 
 **Applicants who did not pass** will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. Common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED most all teams do not sign. Check with your VEC for direction.
 
-**At the end of the session,** the SM cleans up the manifest, will remove any non-participating VEs and any that did. Optionally, remove applicants who did not show. Then Finalize the session.
+**At the end of the session:** The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then Finalize the session.
 
 Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
 
