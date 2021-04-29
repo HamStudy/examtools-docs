@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: How to Use ExamTools for In-Person Exams
-summary: Step by step instructions on how to use ExamTools for in-person session for paper or computer based exams.
+summary: Step-by-step instructions on how to use ExamTools for paper or computer based in-person exams.
 weight: 20
 featured: false
 draft: false
@@ -20,47 +20,45 @@ type: book  # Do not modify.
 
  * Session Manager (SM) [creates a session](https://docs.exam.tools/docs/cve/cvecreatesession/) on ExamTools (ET).
  * Session Manager [prints paper exams](https://docs.exam.tools/docs/cve/printedexamcreation/#printing-exam-sheets-to-scan-with-gradecamtm) for use with GradeCam if needed.  Exams printed for use with templates will not work with GradeCam.
- * Session Manager or team members prepare computers or tablets for applicant use.
+ * Session Manager or team members prepare computers or tablets for applicant use or applicants will be notified what kind of devices are allowed.
  * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)](https://docs.exam.tools/docs/cve/cveVEList/) to the exam session.
 
 **Applicant Registration:**
 
-1. PRE-REGISTER: Direct applicants to pre-register (and pay) before the exam by using the link on [HamStudy](https://ham.study). The session listing link may be public or private.  A public link will allow anyone who searched HamStudy to register. A private link where the Do not post on HamStudy is selected during session creation will only those who have the link to access the session listing and register.
-2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign as VE to help applicants register in two ways.
+1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study). The session listing link may be public or private.  A public link will allow anyone who searched HamStudy to register. A private link where the Do not post on HamStudy is selected during session creation will only those who have the link to access the session listing and register.
+2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
 
-- On [http://ham.study](http://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. 
-- In ExamTools, a VE can register applicants using the Add Applicant feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email which includes their pin and allows them to confirm their information.  All applicants need a FRN to register.
+- On [http://ham.study](http://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
+- In ExamTools, a VE can register applicants using the Add Applicant feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 
-A VE should confirm FRNs and callsigns on the ULS as although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
+A VE should confirm FRNs and callsigns on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
 
-Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring a ID.
+Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring identification.
 
 **Paper or Device?**
 
-- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on color. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam](https://docs.exam.tools/docs/cve/printedexamcreation/) Check with your VEC to find out if they may print your exams for you or reinbuse you. Optional: Buy brightly colored folders to keep track of exams and elements. Although print exams on white printer paper as some people have trouble reading on colored paper, place the exams in folders or use cover sheets. 
-- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly idententical to a remote session.  Devices may or may not be reinbuseable by your VEC.
-- Exam results may be shared depending on your VEC's policy. Generally, when exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused. On devices, exam results may be shared as each exam is randomly generated. It would always be safe to provide the universal question number (i.e. T6A07) to the applicant as these are in the public domain.  Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  Defer to your VEC's preference of if the results may be shared.
+- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam](https://docs.exam.tools/docs/cve/printedexamcreation/) Check with your VEC to find out if they may print or reinbuse you for the exams.  Suggestion: Use brightly colored folders or coversheets to keep track of exams and elements. 
+- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly idententical to a remote session. Devices may or may not be reinbuseable by your VEC.
+- Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
 **Check in Applicants:**
 
-Change the applicant status from Registered to Seen in ExamTools to indicate that the applicant has checked in and is testing.  The applicant will move to the top of the applicant list depending on how it is sorted.
+Change the applicant status from Registered to Seen in ExamTools to indicate that the applicant has checked in and is testing.  The applicant will move to the top of the applicant list depending on how it is sorted.  During the checkin process, you may:
 
 - Check ID and collect any fee from applicants.
 - Use a paper roster provided to you by your VEC to track payment and ID check or download an applicant list from ExamTools and add columns for both. Defer to your VEC for direction.
-
-Optional: Provide the applicant with a label name tag with the pin written below to help with identifying who they are. Similar to what we do in ZOOM [Pin + first name + element].
 
 **Start Exam:**
 
 - SM should Start the session in ET. This button is located in the upper right corner of the session.  Only the owner and co-owners can see it.
 
-**To Test with Paper**: Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the back of the answer sheet for scratch paper or provide the applicant with an blank sheet.
+**To Test with Paper**: Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the back of the answer sheet for scratch paper or the team can provide the applicant with an blank sheet.
 
 IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles.
 
 A VE may seat the applicant and give instructions on what to do when they have completed their exam.
 
-Optional: Provide each applicant with an instruction or exam cover sheet to explain what to do during the exam and what to do to have the exam scored.
+Suggestion: Provide each applicant with an instruction or exam cover sheet to provide directions for the exam and what to do to have the exam scored.
 
 **To Test with a Device**: Provide each applicant with a sheet of blank paper, a pencil/pen and calculator, if needed. Inspect the device as you would for remote testing. The applicant needs only a web browser open and should be instructed to remain on that page only. Settings, profiles, and/or apps (i.e. Fully Kiosk) maybe used to secure VE team owned devices.
 
@@ -68,15 +66,15 @@ The applicant should go to [http://exam.tools](http://exam.tools/) and join the 
 
 **During Exam:**
 
-For both paper and device testing, VEs should be assigned to monitor the applicants. Walk around behind the applicants with devices and make sure that they stay on the exam page. VEs will need to assign themselves or a VE Admin or higher can assign Certifying VEs to each applicant.
+For both paper and device testing, VEs should be assigned to monitor the applicants. Walk around behind the applicants with devices, make sure that they stay on the exam page and provide assistance when needed. VEs will need to assign themselves or a VE Admin or higher can assign Certifying VEs to each applicant.
 
-The team should determine how they want the applicants to signal that they are done with the exam. For an exam taken on a device, the applicant can hit the grade exam button. For those who are using paper, they may need to raise their hand or bring their exam and materials to a specific table to be graded. All materials, pencil and calculators should be collected from the applicants.
+The team should determine how they want the applicants to signal when they are done with the exam. For an exam taken on a device, the applicant can hit the grade exam button. For those who are using paper, they may need to raise their hand or bring their exam and materials to a specific table to be graded. All materials, pencil and calculators should be collected from the applicants.
 
 **Grading Exams:**
 
 For applicants using a device, they can proceed through the exam process as if they are being tested online.
 
-For paper exams, use GradeCam to grade the exam. Navigate to the Session Detail page, and click the GradeCam button. You will be prompted to choose the camera to use to scan. Center the filled out answer sheet within the camera window, and the software will grade your exam automatically. If ET can not clearly determined which answer was selected, you will be propted to visually confirm the answer.  If the applicant did not cleanly erase a previous answer when changing it, this can occur.  You can use a tablet, cell phone, or computer with a camera and capible of running ET for this.  You and your team may want to practice this in the [SandBox] (https://docs.exam.tools/docs/ve/getexamtoolsaccount/#follow-these-steps-to-create-an-account-for-use-with-examtools-sandbox--training-environmenthahahugoshortcode-s5-hbhb).
+For paper exams, use GradeCam to grade the exam. Navigate to the Session Detail page, and click the GradeCam button. You will be prompted to choose the camera to use to scan. Center the filled out answer sheet within the camera window, and the software will grade your exam automatically. If ET can not clearly determined which answer was selected, you will be propted to visually confirm the answer.  This can occur whne an applicant did not cleanly erase a previous answer when changing it. You can use a tablet, cell phone, or computer with a camera.  You and your team may want to practice this in the [SandBox] (https://docs.exam.tools/docs/ve/getexamtoolsaccount/#follow-these-steps-to-create-an-account-for-use-with-examtools-sandbox--training-environmenthahahugoshortcode-s5-hbhb) before your session.
 
 **Viewing 605 and Draft CSCE:**
 
