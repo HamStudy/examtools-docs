@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: How to Use ExamTools for In-Person Exams
 summary: Step-by-step instructions on how to use ExamTools for paper or computer based in-person exams.
-weight: 20
+weight: 50
 featured: false
 draft: false
 icon: book-reader
