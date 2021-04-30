@@ -26,7 +26,7 @@ You must be a owner or co-owner to add VEs to the session.  Add VEs to the manif
 
 To add a VE to an exam session, select an exisiting session from the Session List. 
 
-By default, the ""Applicant Tab is active"".  Click on the ""Volunteer Examineer"" tab to the left of the acitve tab.  At the top of the VE page, located and click the button [+ ADD VES].
+By default, the Applicant Tab is active.  Click on the Volunteer Examineer tab to the left of the acitve tab.  At the top of the VE page, located and click the button [+ ADD VES].
 
 The **Add Volunteer Examiners** window should popup with a field in the upper right corner **VE call sign (enter to add)**.
 
