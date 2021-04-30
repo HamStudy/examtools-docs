@@ -21,7 +21,7 @@ type: book  # Do not modify.
  * Session Manager (SM) [creates a session](https://docs.exam.tools/docs/cve/cvecreatesession/) on ExamTools (ET).
  * Session Manager [prints paper exams](https://docs.exam.tools/docs/cve/printedexamcreation/#printing-exam-sheets-to-scan-with-gradecamtm) for use with GradeCam if needed.  Exams printed for use with templates will not work with GradeCam.
  * Session Manager or team members prepare computers or tablets for applicant use or applicants will be notified what kind of devices are allowed.
- * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)](https://docs.exam.tools/docs/cve/cveVEList/) to the exam session.
+ * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)]({{< relref "cve/cveVEList.md" >}}) to the exam session.
 
 **Applicant Registration:**
 
