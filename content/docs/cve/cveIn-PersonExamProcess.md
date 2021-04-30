@@ -18,10 +18,10 @@ type: book  # Do not modify.
 
 ## Prepare for in-Person Exam:
 
- * Session Manager (SM) [creates a session]({{< relref "cve/cveCreateSession.md" >}}) on ExamTools (ET).
- * Session Manager [prints paper exams]({{< relref "cve/printedExamCreation.md" >}}) for use with GradeCam.  Exams printed for use with templates will not work with GradeCam.
+ * Session Manager (SM) [creates a session](https://docs.exam.tools/docs/cve/cvecreatesession/) on ExamTools (ET).
+ * Session Manager [prints paper exams](https://docs.exam.tools/docs/cve/printedexamcreation/) for use with GradeCam.  Exams printed for use with templates will not work with GradeCam.
  * Session Manager or team members prepare computers or tablets for applicant use or applicants will be notified what kind of devices are allowed.
- * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)]({{< relref "cve/cveVEList.md" >}}) to the exam session.
+ * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)](https://docs.exam.tools/docs/cve/cveVEList/) to the exam session.
 
 ## Applicant Registration:
 
@@ -37,7 +37,7 @@ Since ExamTools registers the applicant electronically, the 605 may not be requi
 
 ## Paper or Device?
 
-- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{< relref "cve/printedExamCreation.md" >}}) Check with your VEC to find out if they may print or reinbuse you for the exams.  Suggestion: Use brightly colored folders or coversheets to keep track of exams and elements. 
+- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam](https://docs.exam.tools/docs/cve/printedexamcreation/) Check with your VEC to find out if they may print or reinbuse you for the exams.  Suggestion: Use brightly colored folders or coversheets to keep track of exams and elements. 
 - Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly idententical to a remote session. Devices may or may not be reinbuseable by your VEC.
 - Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
@@ -78,7 +78,7 @@ The team should determine how they want the applicants to signal when they are d
 
 For applicants using a device, they can proceed through the exam process as if they are being tested online.
 
-For paper exams, use GradeCam to grade the exam. Navigate to the Session Detail page, and click the GradeCam button. You will be prompted to choose the camera to use to scan. Center the filled out answer sheet within the camera window, and the software will grade your exam automatically. If ET can not clearly determined which answer was selected, you will be propted to visually confirm the answer.  This can occur whne an applicant did not cleanly erase a previous answer when changing it. You can use a tablet, cell phone, or computer with a camera.  You and your team may want to practice this in the [SandBox]({{<relref "ve/getExamtoolsAccount.md">}}) before your session.
+For paper exams, use GradeCam to grade the exam. Navigate to the Session Detail page, and click the GradeCam button. You will be prompted to choose the camera to use to scan. Center the filled out answer sheet within the camera window, and the software will grade your exam automatically. If ET can not clearly determined which answer was selected, you will be propted to visually confirm the answer.  This can occur whne an applicant did not cleanly erase a previous answer when changing it. You can use a tablet, cell phone, or computer with a camera.  You and your team may want to practice this in the [SandBox](https://docs.exam.tools/docs/ve/getexamtoolsaccount/) before your session.
 
 ## Viewing 605 and Draft CSCE:
 
