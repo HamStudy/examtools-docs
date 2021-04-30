@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: How to Print and Grade Hard Copy Exams in ExamTools
 summary: Instructions on how to print and grade hard copy exams for manual grading, GradeCam grading, and use with VEC Answer Keys
-weight: 30
+weight: 60
 featured: false
 draft: false
 icon: book-reader
