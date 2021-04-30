@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-linktitle: How to become a Team Lead in ExamTools
+linktitle: How to Become a Team Lead in ExamTools
 summary: Suggested steps to become Team Lead approved by your VEC in ExamTools
-weight: 20
+weight: 15
 featured: false
 draft: false
 icon: book-reader
