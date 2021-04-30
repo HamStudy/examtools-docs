@@ -88,16 +88,16 @@ All applicants should be able to sign in or remain signed in using their own dev
 
 Once the applicant and three Certifying VEs have signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ablity to mark applicants complete, but any VE may send the CSCE.
 
-## Applicants who did not pass:
+## Applicants Who Did Not Pass:
 
 Will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. Common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED most all teams do not sign. Check with your VEC for direction.
 
-## At the end of the session:
+## Closing the Session:
 
 * The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then Finalize the session.
 * Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
 
-## VEC upload, licenses and upgrades:
+## VEC Upload, Licenses and Upgrades:
 
 Once the VEC has uploaded the batch file from the session, the FCC will process to review the applications and for most approve and issue callsigns the same day. Once this happens, the applicant should get an email from Exam Tools and the FCC on Monday for weekend exams, if everything goes well with EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
 
@@ -105,7 +105,7 @@ Those who upgraded can use their existing call sign appended with /AG (General) 
 
 The FCC issues callsigns during business hours Monday through Friday. If an applicant tests early enough on a weekday, the applicant could possibly see their application processed the same day, but should expect 5-7 days processing time.
 
-## Flow of applicants through exam site:
+## Flow of Applicants through Exam Site:
 
 Tables should be set up to allow a logical flow through each station. This is an example below.
 
