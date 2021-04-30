@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: How to Create and Edit Sessions in ExamTools
 summary: Step by step instructions on how to create sessions, edit them after creation, and make any needed changes.
-weight: 20
+weight: 30
 featured: false
 draft: false
 icon: book-reader
