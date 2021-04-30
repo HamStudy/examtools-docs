@@ -29,7 +29,7 @@ type: book  # Do not modify.
 2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
 
 - On [http://ham.study](http://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
-- In ExamTools, a VE can register applicants using the Add Applicant feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
+- In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 
 A VE should confirm FRNs and callsigns on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
 
@@ -86,7 +86,7 @@ All applicants should be able to sign in or remain signed in using their own dev
 
 ## Official Certificate of Successful Completion:
 
-Once the applicant and three Certifying VEs have signed, the SM or a co-owner should Mark Complete the applicant and send the CSCE. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ablity to mark applicants complete, but any VE may send the CSCE.
+Once the applicant and three Certifying VEs have signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ablity to mark applicants complete, but any VE may send the CSCE.
 
 ## Applicants who did not pass:
 
