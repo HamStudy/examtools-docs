@@ -18,7 +18,7 @@ type: book  # Do not modify.
 
 Detailed instructions to schedule an exam session in the ExamTools software are written below.  You may also watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walkthrough.
 
-* Login to **[ExamTools](http://Exam.Tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
+* Login to **[ExamTools](https://Exam.Tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
 
 * In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
 
@@ -71,7 +71,7 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
   
   * **Contact Name and Email** - This field will include the Session Manager's email address by default, but may be changed to a preferred email address as long as the formatting is maintained.  ET uses this email for notification and does not appear in your session listing online.  If you want your email to be posted, added it to the Other Notes below.
 
-  * **Other Notes** *[(markdown enabled)](http://markdownguide.org)*:  Add your session description here.  Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information.  Using markdown, you can style your listing using headers and bullets, include pictures and logos, links and more.  Images must be hosted on another server.
+  * **Other Notes** *[(markdown enabled)](https://markdownguide.org)*:  Add your session description here.  Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information.  Using markdown, you can style your listing using headers and bullets, include pictures and logos, links and more.  Images must be hosted on another server.
 
 * Review your listing and click [Save] when done.
 

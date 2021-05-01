@@ -28,7 +28,7 @@ type: book  # Do not modify.
 1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study). The session listing link may be public or private.  A public link will allow anyone who searched HamStudy to register. A private link where the Do not post on HamStudy is selected during session creation will only those who have the link to access the session listing and register.
 2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
 
-- On [http://ham.study](http://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
+- On [https://ham.study](https://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
 - In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
   ![Add Applicant Icon](../images/addApplicant.png)
   
@@ -67,7 +67,7 @@ Suggestion: Provide each applicant with an instruction or exam cover sheet to pr
 
 Provide each applicant with a sheet of blank paper, a pencil/pen and calculator, if needed. Inspect the device as you would for remote testing. The applicant needs only a web browser open and should be instructed to remain on that page only. Settings, profiles, and/or apps (i.e. Fully Kiosk) maybe used to secure VE team owned devices.
 
-The applicant should go to [http://exam.tools](http://exam.tools/) and join the session with the SM call sign and the applicant pin. A VE will need to authorize at points during the exam as they would during a remote exam.
+The applicant should go to [https://exam.tools](https://exam.tools/) and join the session with the SM call sign and the applicant pin. A VE will need to authorize at points during the exam as they would during a remote exam.
 
 ## During Exam:
 

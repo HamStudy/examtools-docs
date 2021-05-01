@@ -18,7 +18,7 @@ type: book  # Do not modify.
 
 You must be a owner or co-owner to add VEs to the session.  Add VEs to the manifest at any time until the exam is finalized.
 
-* Login to **[ExamTools](http://exam.tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
+* Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
 
 * In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
 
