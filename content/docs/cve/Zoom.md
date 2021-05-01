@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: How to Use Zoom for Online Exams
 summary: Instructions on how to configure and use Zoom for basic single-room exam sessions.
-weight: 40
+weight: 80
 featured: false
 draft: false
 icon: book-reader
