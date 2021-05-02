@@ -14,7 +14,8 @@ title: How to Use ExamTools for In-Person Exams
 type: book  # Do not modify.
 ---
 
-# In-Person Exams with ExamTools
+## In-Person Exams with ExamTools
+For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in several sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Participation in remote online exams are the perfect place to learn how ExamTools works.
 
 ## Prepare for in-Person Exam:
 
@@ -25,26 +26,26 @@ type: book  # Do not modify.
 
 ## Applicant Registration:
 
-1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study). The session listing link may be public or private.  A public link will allow anyone who searched HamStudy to register. A private link where the Do not post on HamStudy is selected during session creation will only those who have the link to access the session listing and register.
+1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study). The session listing may be public or private.  A public session will allow anyone who searched HamStudy to register. A private link will only be viewable to those who have the link to the session listing where the Do not post on HamStudy.org is selected during session creation.  Once a session has been listed publicly, applicants are able to navigate back to it even if the session was edited to hide it on HamStudy. 
 2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
 
 - On [https://ham.study](https://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
 - In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
-  ![Add Applicant Icon](../images/addApplicant.png)
+[Add Applicant Icon](../images/addApplicant.png)
   
-A VE should confirm FRNs and callsigns on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
+A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
 
 Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring identification.
 
 ## Paper or Device?
 
-- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reinbuse you for the exams.  Suggestion: Use brightly colored folders or coversheets to keep track of exams and elements.
-- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly idententical to a remote session. Devices may or may not be reinbuseable by your VEC.
+- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
+- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC.
 - Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
 ## Check in Applicants:
 
-Change the applicant status from Registered to Seen in ExamTools to indicate that the applicant has checked in and is testing.  The applicant will move to the top of the applicant list depending on how it is sorted.  During the checkin process, you may:
+Change the applicant status from Registered to Seen in ExamTools to indicate that the applicant has checked in and is testing.  The applicant will move to the top of the applicant list depending on how it is sorted.  During the check-in process, you may:
 
 - Check ID and collect any fee from applicants.
 - Use a paper roster provided to you by your VEC to track payment and ID check or download an applicant list from ExamTools and add columns for both. Defer to your VEC for direction.
@@ -84,8 +85,8 @@ Session Detail page, and click the GradeCam button. You will be
 prompted to choose the camera to use to scan. Center the filled out
 answer sheet within the camera window, and the software will grade
 your exam automatically. If ET can not clearly determined which answer
-was selected, you will be propted to visually confirm the answer.
-This can occur whne an applicant did not cleanly erase a previous
+was selected, you will be prompted to visually confirm the answer.
+This can occur when an applicant does not cleanly erase a previous
 answer when changing it. You can use a tablet, cell phone, or computer
 with a camera.  You and your team may want to practice this in the
 [SandBox]({{<relref "../ve/getExamtoolsAccount.md">}}) before your session.
@@ -109,11 +110,11 @@ Will not receive anything unless the team would like to either print or email th
 
 ## VEC Upload, Licenses and Upgrades:
 
-Once the VEC has uploaded the batch file from the session, the FCC will process to review the applications and for most approve and issue callsigns the same day. Once this happens, the applicant should get an email from Exam Tools and the FCC on Monday for weekend exams, if everything goes well with EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
+Once the VEC has uploaded the batch file from the session, the FCC will process to review the applications and for most approve and issue call signs the same day. Once this happens, the applicant should get an email from ExamTools and the FCC on Monday for weekend exams, if everything goes well with EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
 
 Those who upgraded can use their existing call sign appended with /AG (General) or /AE (Extra) right now to try out their new privileges. Those who do not have a license will need to wait until their call sign appears in the ULS which should be sometime during the day. Occasionally, applicants need to wait an additional day or two while their application is in review.
 
-The FCC issues callsigns during business hours Monday through Friday. If an applicant tests early enough on a weekday, the applicant could possibly see their application processed the same day, but should expect 5-7 days processing time.
+The FCC issues call signs during business hours Monday through Friday. If an applicant tests early enough on a weekday, the applicant could possibly see their application processed the same day, but should expect 5-7 days processing time.
 
 ## Flow of Applicants through Exam Site:
 
