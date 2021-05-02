@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: How to Create and Edit Sessions in ExamTools
-summary: Step by step instructions on how to create sessions, edit them after creation, and make any needed changes.
+summary: Step-by-step instructions on how to create sessions, edit them after creation, and make any needed changes.
 weight: 30
 featured: false
 draft: false
@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 ## To Add a Session to HamStudy
 
-Detailed instructions to schedule an exam session in the ExamTools software are written below.  You may also watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walkthrough.
+Detailed instructions to schedule an exam session in the ExamTools software are written below.  You may also watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walk-through.
 
 * Login to **[ExamTools](https://Exam.Tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
 
@@ -83,7 +83,7 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * Click on the icon and the link to your session on HamStudy will automatically copy to your clipboard.  You should be able to open a browser window and paste the url in and the address bar and hit enter.  Send the link to others or posted to another website to advertise your session.  
 
-* Search for your session by clicking on the **Find a Session** from the right side navigation on [HamStudy](https://ham.study).  If the session is not hidden, then it should come up.  Find all your sessions by adding your callsign to the end of the following link: https://ham.study/sessions/yourcallsign.  Use this URL to link to all your sessions live on HamStudy.  Include it in the session description or share in email. This link will not include hidden sessions.
+* Search for your session by clicking on the **Find a Session** from the right side navigation on [HamStudy](https://ham.study).  If the session is not hidden, then it should come up.  Find all your sessions by adding your call sign to the end of the following link: https://ham.study/sessions/yourcallsign.  Use this URL to link to all your sessions live on HamStudy.  Include it in the session description or share in email. This link will not include hidden sessions.
 
 ## To Edit an Existing Session
 
