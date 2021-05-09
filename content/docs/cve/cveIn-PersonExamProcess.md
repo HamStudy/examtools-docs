@@ -26,7 +26,7 @@ For more complete instructions, please contact your VEC for documentation and gu
 
 ## Applicant Registration:
 
-1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study). The session listing may be public or private.  A public session will allow anyone who searched HamStudy to register. A private link will only be viewable to those who have the link to the session listing where the Do not post on HamStudy.org is selected during session creation.  Once a session has been listed publicly, applicants are able to navigate back to it even if the session was edited to hide it on HamStudy. 
+1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study).  The session listing may be public or private.  A public session will be listed on HamStudy and anyone may register for the exam.  A private session will not be listed on HamStudy and applicants will need to be sent the link to the session listing in order to view and register.  The SM marks the *Do not post on HamStudy.org* checkbox option.  Once a session has been listed publicly, applicants may able to navigate back to it even after the session listing is edited to hide it on HamStudy. 
 2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
 
 - On [https://ham.study](https://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
