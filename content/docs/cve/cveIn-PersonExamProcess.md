@@ -114,7 +114,7 @@ Once the VEC has uploaded the batch file from the session, the FCC will start th
 
 Those who upgraded can use their existing call sign appended with /AG (General) or /AE (Extra) to immediately start using their new privileges. Those who do not have a license will need to wait until their call sign appears in the ULS. Occasionally, applicants need to wait an additional day or two while their application is in review.
 
-The FCC issues call signs Monday through Friday and not on weekends nor holidays.
+The FCC issues call signs Monday through Friday. Weekend and holiday uploads are not processed until the next business day.
 
 ## Flow of Applicants through Exam Site:
 
