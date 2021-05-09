@@ -110,11 +110,11 @@ Will not receive anything unless the team would like to either print or email th
 
 ## VEC Upload, Licenses and Upgrades:
 
-Once the VEC has uploaded the batch file from the session, the FCC will process to review the applications and for most approve and issue call signs the same day. Once this happens, the applicant should get an email from ExamTools and the FCC on Monday for weekend exams, if everything goes well with EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
+Once the VEC has uploaded the batch file from the session, the FCC will start the process of reviewing the applications and issuing call signs. Once this happens, the applicant should receive an email from ExamTools and the FCC, if everything goes well with the EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
 
-Those who upgraded can use their existing call sign appended with /AG (General) or /AE (Extra) right now to try out their new privileges. Those who do not have a license will need to wait until their call sign appears in the ULS which should be sometime during the day. Occasionally, applicants need to wait an additional day or two while their application is in review.
+Those who upgraded can use their existing call sign appended with /AG (General) or /AE (Extra) to immediately start using their new privileges. Those who do not have a license will need to wait until their call sign appears in the ULS. Occasionally, applicants need to wait an additional day or two while their application is in review.
 
-The FCC issues call signs during business hours Monday through Friday. If an applicant tests early enough on a weekday, the applicant could possibly see their application processed the same day, but should expect 5-7 days processing time.
+The FCC issues call signs Monday through Friday and not on weekends nor holidays.
 
 ## Flow of Applicants through Exam Site:
 
