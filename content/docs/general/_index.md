@@ -22,3 +22,4 @@ Below are links that will give you an overview of ExamTools and how it is design
 * #### [VE Roles and Permissions in an ExamTools session]({{<relref "sessionRolesPermissions.md">}})
 * #### [Where to Get Help with ExamTools]({{<relref "getHelp.md">}})
 * #### [What do I need to do to get started using ExamTools]({{<relref "gettingStarted.md">}})
+* #### [Supported Browsers and Devices]({{<relref "supportedBrowsers.md">}})
