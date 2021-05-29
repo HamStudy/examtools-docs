@@ -34,6 +34,7 @@ ExamTools allows for the owner of a session to assign roles and permissions to e
 | Unassign other VEs from a candidate   | Yes    | Yes                   | Yes               |                 |
 | Edit candidate information            | Yes    | Yes                   | Yes                  |                 |
 | Void Candidate Exam                   | Yes    | Yes                   | Yes               |                 |
+| Evict Candidate from Session          | Yes    | Yes                   | Yes               |                  |
 | Self Assign to candidate              | Yes    | Yes                   | Yes               | Yes             |
 | Self unassign from a candidate        | Yes    | Yes                   | Yes               | Yes             |
 | Authorize candidate to join session   | Yes    | Yes                   | Yes               | Yes             |
