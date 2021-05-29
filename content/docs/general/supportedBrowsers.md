@@ -13,7 +13,7 @@ type: book  # Do not modify.
 ---
 
 ## ExamTools Supported Browsers & Devices
-ExamTools is officially supported on the current version of the Chrome web browser.  This browser will run on most modern operating systems, including Windows 10, MacOS, and most mainstream Linux distributions.
+ExamTools is officially supported on the current version of the Chrome web browser.  Chrome or common derivitaves will run on most modern operating systems, including Windows 10, MacOS, and most mainstream Linux distributions.
 <br />
 <br />
 ## Community Verified Browsers & Devices
@@ -30,3 +30,4 @@ The following hardware and browsers have been found to work with ExamTools by me
 - **ExamTools**: Able to load sessions and seems to work OK. Very slow for larger sessions.
 - **Notes**: Silk updates no longer supported on this OS
 - **Dates Tested**: 4/19/2021
+- **ExamTools Version Tested**: 5.10.0-32
