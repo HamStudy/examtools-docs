@@ -37,7 +37,7 @@ Fork your own copy of the repo. In the examples below, I call it `my-repo`.
 
 Go to https://github.com/HamStudy/examtools-docs and click Fork.
 
-![Make a fork](./fork.png "make a fork")
+![Make a fork](./images/fork.png "make a fork")
 
 Once you've forked it, you can clone it locally to your desktop, following the instructions provided.
 
@@ -126,7 +126,7 @@ to be something other than the git commit date, then set the tag explictly.
 This is especially useful for the [RSS feed](https://docs.exam.tools/index.xml) since feed readers will notify
 subscribers of new updates automatically:
 
-![rss feed](./rss.png "rss feed")
+![rss feed](./images/rss.png "rss feed")
 
 Here's an example of the front matter for one file with the date commented out:
 ```
@@ -202,7 +202,7 @@ Changes not staged for commit:
 	modified:   _index.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
-$ git add _index.md 
+$ git add _index.md
 $ git commit -m 'a useful short description here'
 [my_feature 7701f9c] a useful short description here
  1 file changed, 37 insertions(+), 34 deletions(-)
@@ -228,10 +228,10 @@ Compressing objects: 100% (6/6), done.
 Writing objects: 100% (6/6), 1.30 KiB | 1.30 MiB/s, done.
 Total 6 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
-remote: 
+remote:
 remote: Create a pull request for 'my_feature' on GitHub by visiting:
 remote:      https://github.com/myname/examtools-docs/pull/new/my_feature
-remote: 
+remote:
 To github.com:myname/examtools-docs.git
  * [new branch]      my_feature -> my_feature
 Branch 'my_feature' set up to track remote branch 'my_feature' from 'origin'.
@@ -253,31 +253,31 @@ See the following checklist for an example of this workflow:
 
 1. Navigate to the page you want to edit and click the edit pencil icon:
 
-![edit the markdown file](./browser-edit.png "edit the markdown file")
+![edit the markdown file](./images/browser-edit.png "edit the markdown file")
 
 2. Since you are making changes to a project that you don't have write access to, this will make a fork of the repo under
    your GitHub account and start a new feature branch:
 
-![create a new fork](./browser-edit-new-fork.png "create a new fork")
+![create a new fork](./images/browser-edit-new-fork.png "create a new fork")
 
 3. Now you can make your changes and then scroll down to the bottom to commit them:
 
-![commit browser-based edit](./browser-commit.png "commit browser-based edit")
+![commit browser-based edit](./images/browser-commit.png "commit browser-based edit")
 
 4. You can now create a Pull Request (PR) which submits your edit to the hamstudy/examtools-docs project:
 
-![submit PR](./browser-pr.png "submit PR")
+![submit PR](./images/browser-pr.png "submit PR")
 
 5. After a few minutes, the PR will have run the various checks. One of those generates a preview web site for you to
    see if your edits look right:
 
-![PR Conversation page with netlify preview circled](./netlify.png "netlify preview")
+![PR Conversation page with netlify preview circled](./images/netlify.png "netlify preview")
 
 
 At this point, if you are happy with your changes, the ball is in the court of the examtools-docs maintainers. They'll be
 notified of the PR and will either merge and deploy it or ask you for some further edits.
 
-In the latter case, or if you discover that you didn't edit it quite right and need to tweak your changes, 
+In the latter case, or if you discover that you didn't edit it quite right and need to tweak your changes,
 you can edit some more and submit another commit on the same branch.
 This is a little complicated:
 
@@ -286,21 +286,21 @@ If you clicked the Netlify Preview link, click Back in the browser so you are ba
 1. On the line with the green Open icon, click on the blue link for the "from" _repo_:_patch_. This will put you
    in your forked repo's feature branch for the PR you just submitted:
 
-![Jump to my repo/patch feature branch](./browser-pr-jump-to-repo.png "jump to my feature branch")
+![Jump to my repo/patch feature branch](./images/browser-pr-jump-to-repo.png "jump to my feature branch")
 
 2. You'll have to navigate to your copy of the file you were editing, and again click the pencil icon.
 
-![Edit your copy](./browser-2nd-edit.png "edit your copy")
+![Edit your copy](./images/browser-2nd-edit.png "edit your copy")
 
 3. Once done editing, scroll down to the bottom and Commit Changes for this edit directly to the existing branch:
 
-![Commit your edit](./browser-2nd-commit.png "commit your edit")
+![Commit your edit](./images/browser-2nd-commit.png "commit your edit")
 
 4. Now navigate back to your PR on the main http://github.com/hamstudy/examtools-docs/pulls repo and you'll see
    that your 2nd edit commit has been added, the checks have run again, and, you can again click the Netlify
    details to see your changes.
 
-![2nd commit in PR](./browser-2nd-commit-pr.png "2nd commit")
+![2nd commit in PR](./images/browser-2nd-commit-pr.png "2nd commit")
 
 
 
