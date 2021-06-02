@@ -32,7 +32,5 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Enter your personal details.  For clarity, we recommend using your call sign as the username.
 ![ExamTools Create Profile](../images/examtoolsCreateAccount.png)
 * It will then redirect you to [ExamTools](https://examtools.dev/portal/veLogin).
-* Login with your newly created account and note the RequestID in the middle of the page.
-![Exam.Tools Request ID](../images/examtoolsRequestID.png)
 * Fill out [this form](https://forms.gle/NiAeLFpX7R7E7NZC9).
 * Inform your Team Lead that you are set up on the ExamTools Sandbox and ready to participate in training sessions.
