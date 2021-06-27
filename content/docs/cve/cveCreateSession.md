@@ -67,7 +67,7 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
   * **Schedule only** - Your exam will not appear on the schedule and online registration will be disabled.
 
-  Select the Schedule only and Do not list on HamStudy.org combo when you do not want the public to view it and register.  You may do this to proof-read it, experiment with formatting or share it with your VE team before it goes live using the private link.
+  Select the Schedule only and Do not list on HamStudy.org combo before you are ready for the public to view your session and register.  You may do this to proof-read it, experiment with formatting or share it with your VE team using the private link before it goes live.
   
   * **Contact Name and Email** - This field will include the Session Manager's email address by default, but may be changed to a preferred email address as long as the formatting is maintained.  ET uses this email for notification and does not appear in your session listing online.  If you want your email to be posted, added it to the Other Notes below.
 
