@@ -67,7 +67,7 @@ Make sure you, the CVE (VE Team Liaison), do the following:
 * Read through exam.tools [CVE documentation]({{< relref "../cve/" >}}), if you have questions you can ask them in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
   team members. DO NOT use a Facebook or Google login: Make a "real" user.
-  There's more info in [getting an exam.tools and sandbox account](https://docs.exam.tools/docs/ve/getexamtoolsaccount/)
+  There's more info in [getting an exam.tools and sandbox account]({{< relref "../ve/getexamtoolsaccount/" >}})
 * Volunteer in the Discord `#arrl` channel to help out with another team's ARRL/VEC session so you get
   to see the real system in action.
 * Once ready, you and all your VEs must register for tier 2 production via [this form](https://forms.gle/cD9fTqv5ognik6XC9).
