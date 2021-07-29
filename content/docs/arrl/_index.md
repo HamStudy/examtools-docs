@@ -35,7 +35,7 @@ VE Team Liaison to do it for you.
 
 ## Is there a checklist of what my VE team needs to do?
 
-See [this checklist]({{< relref "./checklist.md" >}})
+See [this checklist]({{< relref "checklist.md" >}})
 used by the [Columbia University ARC VE Team](https://www.w2aee.columbia.edu/video-exams)
 for some ideas. As with in-person sessions, there's always room for customizing how your particular team operates.
 
@@ -200,7 +200,7 @@ No. See above.
 Once you receive the confidential uploading documentation, you will
 need to upload two files. Do this once by selecting the two from your
 browser's upload dialog: Build a single PDF file that contains the
-entire session. See this [this example checklist]({{< relref "./checklist.md" >}} ) used by the Columbia
+entire session. See this [this example checklist]({{< relref "checklist.md" >}}) used by the Columbia
 University ARC VE Team that seems to be acceptable (and might be
 overkill).
 
