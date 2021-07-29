@@ -64,7 +64,7 @@ Make sure you, the CVE (VE Team Liaison), do the following:
     For example: http://www.arrl.org/ve-session-counts?state=CA
     (If your call sign is not on the page for your state, you will need to resolve your VE accreditation
     with the VEC.)
-* Read through exam.tools [CVE documentation](https://docs.exam.tools/docs/cve/), if you have questions you can ask them in the Discord `#arrl` channel.
+* Read through exam.tools [CVE documentation]({{< relref "../cve/" >}}), if you have questions you can ask them in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
   team members. DO NOT use a Facebook or Google login: Make a "real" user.
   There's more info in [getting an exam.tools and sandbox account](https://docs.exam.tools/docs/ve/getexamtoolsaccount/)
