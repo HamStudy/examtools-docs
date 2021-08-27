@@ -17,10 +17,10 @@ type: book  # Do not modify.
 ## In-Person Exams with ExamTools
 For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in several sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Participation in remote online exams are the perfect place to learn how ExamTools works.
 
-## Prepare for in-Person Exam:
+## Prepare for In-Person Exam:
 
  * Session Manager (SM) [creates a session]({{<relref "cveCreateSession.md">}}) on ExamTools (ET).
- * Session Manager [prints paper exams]({{<relref "printedExamCreation.md">}}) for use with GradeCam.  Exams printed for use with templates will not work with GradeCam.
+ * Session Manager [prints paper exams]({{<relref "printedExamCreation.md">}}) for use with GradeCam.  Exams printed for use with templates will not work with GradeCam.  However, you may use the Record External Exam feature under Manage to add exams which were graded without the use of ET.
  * Session Manager or team members prepare computers or tablets for applicant use or applicants will be notified what kind of devices are allowed.
  * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)]({{<relref "cveVEList.md">}}) to the exam session.
 
@@ -33,13 +33,14 @@ For more complete instructions, please contact your VEC for documentation and gu
 - In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 ![Add Applicant Icon](../images/addApplicant.png)
   
-A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and will be required in the future by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
+A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and is required by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
 
 Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring identification.
 
 ## Paper or Device?
 
 - Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
+- Paper and grading templates provided to stocked teams may be used with ExamTools.  Check with your VEC to see to what the procedure is for accepting ExamTools exports for these types of sessions.  Supplemental files (i.e answer sheets) may be required.
 - Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC.
 - Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
@@ -56,9 +57,9 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 
 ## To Test with Paper: 
 
-Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the back of the answer sheet for scratch paper or the team can provide the applicant with an blank sheet.
+Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the back of the answer sheet for scratch paper or the team can provide the applicant with a blank sheet.
 
-IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles.
+IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles. A new 35/50 question combo form is now available from download along with all supplemental resources (answer sheets and figures) in ExamTools under Generate Exam.
 
 A VE may seat the applicant and give instructions on what to do when they have completed their exam.
 
@@ -84,12 +85,16 @@ For paper exams, use GradeCam to grade the exam. Navigate to the
 Session Detail page, and click the GradeCam button. You will be
 prompted to choose the camera to use to scan. Center the filled out
 answer sheet within the camera window, and the software will grade
-your exam automatically. If ET can not clearly determined which answer
+your exam automatically. If ET cannot clearly determined which answer
 was selected, you will be prompted to visually confirm the answer.
 This can occur when an applicant does not cleanly erase a previous
 answer when changing it. You can use a tablet, cell phone, or computer
 with a camera.  You and your team may want to practice this in the
 [SandBox]({{<relref "../ve/getExamtoolsAccount.md">}}) before your session.
+
+## To Add a Score from a Non-ExamTools Exam:
+
+A VE team may use existing exam booklets and scoring templates which were provided to them as a stocked team, if desired.  Go to the applicant record and use the Record External Exam feature under Manage to add the element, score and any notes for the exam.  Teams choosing this method should check with their VEC and confirm what additional documentation (i.e. original answer sheets) should be provided beyond the documents which ET exports. 
 
 ## Viewing 605 and Draft CSCE:
 
@@ -97,7 +102,7 @@ All applicants should be able to sign in or remain signed in using their own dev
 
 ## Official Certificate of Successful Completion:
 
-Once the applicant and three Certifying VEs have signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ablity to mark applicants complete, but any VE may send the CSCE.
+Once the applicant and three Certifying VEs have signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ability to mark applicants complete, but any VE may send the CSCE.
 
 ## Applicants Who Did Not Pass:
 
