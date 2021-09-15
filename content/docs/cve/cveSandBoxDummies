@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Use ExamTools for In-Person Exams
+linktitle: How to Use Dummies for Sandbox Exams
 summary: Instructions on how to use Dummy VEs for Practice Exams.
 weight: 50
 featured: false
@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Use Dummies for Sand Box Exams
+title: How to Use Dummies for Sandbox Exams
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
@@ -32,5 +32,7 @@ The password for each account is passwordNN where NN is the number, so for E46US
 * Use E or G for the license class prefix.
 * The two digits can range from 01-99.
 * Suffix should always be USR (user).
-** E01ABC is not a valid dummy VE.  
+> E01ABC is not a valid dummy VE.  
 * You cannot login to ET with a dummy account.
+
+If you use a “T” as a prefix,  you will get the tech error and you will not be able to use the dummy VE.  May be good for demo purposes only.
