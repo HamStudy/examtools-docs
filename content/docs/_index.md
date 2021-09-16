@@ -25,6 +25,7 @@ type: book
   * #### [How to Use ExamTools for In-Person Exams]({{< relref "cve/cveIn-PersonExamProcess.md" >}})
   * #### [How to Print and Grade Hard Copy Exams in ExamTools]({{< relref "cve/printedExamCreation.md" >}})
   * #### [How to Use Zoom for Online Exams]({{< relref "cve/Zoom.md" >}})
+  * #### [How to Use Dummies for Sandbox Exams]({{< relref "cve/cveSandboxDummies.md" >}})
 
 <br><br>
 ## **VEC Specific Information**
