@@ -19,6 +19,7 @@ The following are resources to help you get started with ExamTools
 * [How ExamTools Works]({{< relref "examtoolsOverview.md" >}})
 * [VE Overview and Training Videos]({{<relref "veTrainingVideos.md">}})
 * [Creating an ExamTools Account]({{< relref "getExamToolsAccount.md" >}})
+* [Creating an ExamTools Sandbox Account]({{< relref "getSandboxAccount.md" >}})
 * [Adding a Signature to Your Profile]({{< relref "addingSignatureProfile.md" >}})
 * [Adding Additional VEC Accreditation]({{<relref "veAdditionalVEC.md">}})
 * [Changing your Call Sign]({{< relref "veNewCall.md" >}})

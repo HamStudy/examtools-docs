@@ -20,3 +20,4 @@ Following are instructions for tasks most commonly performed by Team Leads.
 * [How to Use ExamTools for In-Person Exams]({{< relref "cveIn-PersonExamProcess.md" >}})
 * [How to Print and Grade Hard Copy Exams in ExamTools]({{< relref "printedExamCreation.md" >}})
 * [How to Use Zoom for Online Exams]({{< relref "Zoom.md" >}})
+* [How to Use Dummies for Sandbox Exams]({{< relref "cveSandboxDummies.md" >}})
