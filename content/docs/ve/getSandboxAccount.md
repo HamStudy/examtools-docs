@@ -8,7 +8,7 @@ type: book
 weight: 35
 ---
 The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two distinct environments for Volunteer Examiners.  
-* The primary website is found at http://exam.tools, and is considered the [Production environment]({{<relref "../general/websiteDecoder.md">}}).  This is where all active Volunteer Examiners need to have an account in order to perform live exams.  Make sure to sign up for your [production account]({{<relref "../getExamToolsAccount.md">}}), if you plan on participating in live sessions.
+* The primary website is found at http://exam.tools, and is considered the [Production environment]({{<relref "../general/websiteDecoder.md">}}).  This is where all active Volunteer Examiners need to have an account in order to perform live exams.  Make sure to sign up for your [production account]({{<relref "getExamToolsAccount.md">}}), if you plan on participating in live sessions.
 * ExamTools also maintains a [Sandbox environment]({{<relref "../general/websiteDecoder.md">}}) that is used for troubleshooting program errors and general VE training.  This is a separate database, with different user names and passwords from the Production environment.  It is not required to create a Sandbox account to perform live testing; however, your Team Lead may require training sessions in the [Sandbox]({{<relref "../general/websiteDecoder.md">}}).  You might also be interested in using it to follow along with documentation and walk-through videos.
 
 ## Follow these steps to create an account for use with [ExamTools Sandbox / Training Environment]({{<relref "../general/websiteDecoder.md">}})
