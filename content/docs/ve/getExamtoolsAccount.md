@@ -24,4 +24,4 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Fill out [this form](https://forms.gle/cD9fTqv5ognik6XC9).
 * Inform your Team Lead that you are set up on ExamTools and ready to participate in sessions.
 
-If you plan to run practice exam sessions, setup your [sandbox account]({{<relref ".../getSandboxAccount.md">}}) once you have completed the production account process above.
+If you plan to run practice exam sessions, setup your [sandbox account]({{<relref "getSandboxAccount.md">}}) once you have completed the production account process above.
