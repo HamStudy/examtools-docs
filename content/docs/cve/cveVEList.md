@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Edit the VE List in an ExamTools Session
+linktitle: Edit the VE List in an ExamTools Session
 summary: Step-by-step instructions on how to add, remove and change session permissions of a Volunteer Examiner in ExamTools.
 weight: 40
 featured: false
@@ -9,16 +9,16 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Edit the VE List in an ExamTools Session
+title: Edit the VE List in an ExamTools Session
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## How to Add a VE to an Exam Session:
+## Add a VE to an Exam Session:
 
 You must be a owner or co-owner to add VEs to the session.  Add VEs to the manifest at any time until the exam is finalized.
 
-* Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
+* Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under **Assist with or Manage Exams**.
 
 * In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
 
@@ -34,7 +34,7 @@ Type in the call sign of the VE who you would like to add. Hit **Enter** on your
 
 VEs need to have an ExamTools account with VE Documents for the same
 VEC as the session is associated with. If you are presented with an
-invite button, the VE does not have what they need to be added to your
+UNREGISTERED to the right of the VE, the VE does not have what they need to be added to your
 session. New to ExamTools VEs will need
 [to create an ExamTools account]({{<relref "../ve/getExamtoolsAccount.md">}}).
 VEs who have volunteered with a different VEC using ET may need
