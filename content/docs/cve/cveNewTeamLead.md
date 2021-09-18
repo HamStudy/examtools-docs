@@ -29,6 +29,6 @@ If you are a new VE Team Lead looking to get started with ExamTools, here are ou
 * VE Team Lead - Once you are ready to run real exams in the [production environment]({{<relref "../general/websiteDecoder.md">}}), get explicit permission from your VEC to run fully-remote or in-person exams using ExamTools.  If you are a GLAARG session manager, W5YI CVE or SANDARC team lead, your VEC will update ExamTools automatically.  If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org
 * At this point you will need to get all VEs on your team set up in the [production environment]({{<relref "../general/websiteDecoder.md">}}) to assist with your exams. Have them follow [these instructions]({{<relref "../ve/getExamtoolsAccount.md">}}) for the live environment.
 * Create your first real exam session in the [production environment]({{<relref "../general/websiteDecoder.md">}}) and run your session!
-* For in-person sessions using GradeCam or devices, check out [In-Person Exams with ExamTools]({{<relref "../cveIn-PersonExamProcess.md">}}) documentation.
+* For in-person sessions using GradeCam or devices, check out [In-Person Exams with ExamTools]({{<relref "/cveIn-PersonExamProcess.md">}}) documentation.
 
 At any time, use the Discord to ask questions or ping Experienced Support for any specific or urgent needs. We’re all here to help each other out and expand testing for everyone!
