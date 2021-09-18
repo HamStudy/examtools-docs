@@ -1,6 +1,6 @@
 ---
-title: Creating an ExamTools Sandbox Account
-linktitle: Creating an ExamTools Sandbox Account
+title: Create an ExamTools Sandbox Account
+linktitle: Create an ExamTools Sandbox Account
 type: book
 # date: "2019-05-05T00:00:00+01:00"
 
@@ -22,4 +22,4 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Fill out [this form](https://forms.gle/NiAeLFpX7R7E7NZC9).
 * Inform your Team Lead that you are set up on the ExamTools Sandbox and ready to participate in training sessions.
 
-Want to run a practice session by yourself or short on VEs? Check out documentation on [how to use dummy VEs]({{<relref "../cve/cveSandboxDummies.md">}}) in your training sessions.
+Want to run a practice session by yourself or short on VEs? Check out documentation on [Sandbox Exams and dummy VEs]({{<relref "../cve/cveSandboxDummies.md">}}) in your training sessions.
