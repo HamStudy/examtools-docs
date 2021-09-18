@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Print and Grade Hard Copy Exams in ExamTools
+linktitle: Print and Grade Hard Copy Exams in ExamTools
 summary: Instructions on how to print and grade hard copy exams for manual grading, GradeCam grading, and use with VEC Answer Keys
 weight: 60
 featured: false
@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Print and Grade Hard Copy Exams in ExamTools
+title: Print and Grade Hard Copy Exams in ExamTools
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
@@ -31,7 +31,7 @@ Follow these instructions to print out randomly generated exams for use with a m
     * ***Omit questions with figures*** - Toggle on to generate exams that do not use questions containing figures suitable for administering to visually challenged candidates. *Default is off (include figures)*
 * Click **Generate** - You will have a PDF file generated that includes answser keys, blank answer sheets, and exam booklets in the quantity of exams chosen in the previous step.  You may print off as many copies as you need.  The exam number is printed on page 1 in the upper right hand corner as well as in the footer of every page.  This number is used to determine which grading key to use.
 
-* To grade these exams, each VE will compare the candidate's filled-out answer sheet against the grading key generated in the prior step.  This candidate will then require a CSCE and Form 605 filled out and signed by hand
+* To grade these exams, each VE will compare the candidate's filled-out answer sheet against the grading key generated in the prior step.  This candidate will then require a CSCE and Form 605 filled out and signed by hand.  Alternatively, if the applicant has been registered into ExamTools, VEs may record the score into ExamTools by following [To Add a Score from a Non-ExamTools Exam:](cvein-personexamprocess/#to-add-a-score-from-a-non-examtools-exam.md) instructions.
 ![Manual Grading Options](../images/manualGradingOptions.png)
 
 
