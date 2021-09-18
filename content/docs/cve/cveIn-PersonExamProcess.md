@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Use ExamTools for In-Person Exams
+linktitle: In-Person Exams with ExamTools
 summary: Step-by-step instructions on how to use ExamTools for paper or computer based in-person exams.
 weight: 50
 featured: false
@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Use ExamTools for In-Person Exams
+title: In-Person Exams with ExamTools
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
