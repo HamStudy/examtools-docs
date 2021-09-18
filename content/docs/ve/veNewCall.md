@@ -1,6 +1,6 @@
 ---
-title: Changing your Callsign
-linktitle: Changing your Callsign
+title: Change your Callsign
+linktitle: Change your Callsign
 type: book
 # date: "2019-05-05T00:00:00+01:00"
 
