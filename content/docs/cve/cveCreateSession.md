@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Create and Edit Sessions in ExamTools
+linktitle: Create and Edit Sessions in ExamTools
 summary: Step-by-step instructions on how to create sessions, edit them after creation, and make any needed changes.
 weight: 30
 featured: false
@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Create and Edit Sessions in ExamTools
+title: Create and Edit Sessions in ExamTools
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
