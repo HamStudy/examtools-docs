@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Use Dummies for Sandbox Exams
+linktitle: Sandbox Exams and Dummy VEs
 summary: Instructions on how to use Dummy VEs for Practice Exams.
 weight: 90
 featured: false
@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Use Dummies for Sandbox Exams
+title: Sandbox Exams and Dummy VEs
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---

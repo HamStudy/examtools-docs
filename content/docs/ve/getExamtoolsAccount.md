@@ -1,6 +1,6 @@
 ---
-title: Creating an ExamTools Account
-linktitle: Creating an ExamTools Account
+title: Create an ExamTools Account
+linktitle: Create an ExamTools Account
 type: book
 # date: "2019-05-05T00:00:00+01:00"
 
