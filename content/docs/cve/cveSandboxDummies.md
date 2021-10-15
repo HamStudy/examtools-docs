@@ -16,11 +16,11 @@ type: book  # Do not modify.
 
 ## Sandbox/Training Environment
 
-For training purposes, use the ExamTools (ET) sandbox environment at https://examtools.dev. Training sessions which are created in the sandbox will be found on https://hamstudy.dev. To get started, checkout the instructions on [how to create a session](/cvecreatesession.md/) in ExamTools.  You may want to reference the [in-person exam instructions](/cvein-personexamprocess.md/) for how you may want to register your applicants and run your training session. 
+For training purposes, use the ExamTools (ET) sandbox environment at https://examtools.dev. Training sessions which are created in the sandbox will be found on https://hamstudy.dev. To get started, checkout the instructions on [how to create a session]({{<relref "cveCreateSession.md">}}) in ExamTools.  You may want to reference the [in-person exam instructions]({{<relref "cvein-personexamprocess.md">}}) for how you may want to register your applicants and run your training session. 
 
 ## Sandbox ExamTools Accounts:
 
-Volunteer Examiners (VEs) who want access to the sandbox will need to register for a [sandbox ET account](/docs/ve/getsandboxaccount.md/) even if they already have a [production ET account](/docs/ve/getexamtoolsaccount.md/). Team leads will need to request [session manager permissions](/cvenewteamlead.md) be added to their sandbox account in order to create and run training exam sessions.  All features available in production can be tested out and mastered in the sandbox before a live session is scheduled.  
+Volunteer Examiners (VEs) who want access to the sandbox will need to register for a [sandbox ET account](/docs/ve/getsandboxaccount) even if they already have a [production ET account](/docs/ve/getexamtoolsaccount). Team leads will need to request [session manager permissions]({{<relref "cvenewteamlead.md">}}) be added to their sandbox account in order to create and run training exam sessions.  All features available in production can be tested out and mastered in the sandbox before a live session is scheduled.  
 
 ## Fake Applicants:
 
