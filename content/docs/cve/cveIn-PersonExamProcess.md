@@ -51,11 +51,11 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 - Check ID and collect any fee from applicants.
 - Use a paper roster provided to you by your VEC to track payment and ID check or download an applicant list from ExamTools and add columns for both. Defer to your VEC for direction.
 - Confirm any CSCE and add credit.
-- Confirm any exisiting license (current or expired).  
+- Confirm any existing license (current or expired).  
 
 ## Start Exam:
 
-- SM should Start the session in ET. This button is located in the upper right corner of the session.  Only the owner and co-owners can see it.
+- SM click the **Start Session** button located in the upper right corner of the session.  Only the owner and co-owners can see it.
 
 ## To Test with Paper: 
 
@@ -112,7 +112,7 @@ Will not receive anything unless the team would like to either print or email th
 
 ## Closing the Session:
 
-* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then Finalize the session.
+* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then click **Finalize Session**.
 * Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
 
 ## VEC Upload, Licenses and Upgrades:
