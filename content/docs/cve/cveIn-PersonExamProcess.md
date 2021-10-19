@@ -55,7 +55,7 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 
 ## Start Exam:
 
-- SM click the **Start Session** button located in the upper right corner of the session.  Only the owner and co-owners can see it.
+- SM should click the **Start Session** button located in the upper right corner of the session.  Only the owner and co-owners can see it.
 
 ## To Test with Paper: 
 
@@ -112,7 +112,7 @@ Will not receive anything unless the team would like to either print or email th
 
 ## Closing the Session:
 
-* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then click **Finalize Session**.
+* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then, clicks **Finalize Session**.
 * Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
 
 ## VEC Upload, Licenses and Upgrades:
