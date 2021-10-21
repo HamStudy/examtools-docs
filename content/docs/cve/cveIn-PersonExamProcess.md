@@ -15,7 +15,7 @@ type: book  # Do not modify.
 ---
 
 ## In-Person Exams with ExamTools
-For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in several sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Participation in remote online exams are the perfect place to learn how ExamTools works.
+For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in several sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Participation in remote online exams is the perfect place to learn how ExamTools works.
 
 ## Prepare for In-Person Exam:
 
@@ -50,16 +50,18 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 
 - Check ID and collect any fee from applicants.
 - Use a paper roster provided to you by your VEC to track payment and ID check or download an applicant list from ExamTools and add columns for both. Defer to your VEC for direction.
+- Confirm any CSCE and add credit.
+- Confirm any existing license (current or expired).  
 
 ## Start Exam:
 
-- SM should Start the session in ET. This button is located in the upper right corner of the session.  Only the owner and co-owners can see it.
+- SM should click the **Start Session** button located in the upper right corner of the session.  Only the owner and co-owners can see it.
 
 ## To Test with Paper: 
 
-Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the back of the answer sheet for scratch paper or the team can provide the applicant with a blank sheet.
+Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the front and back of the answer sheet for scratch paper given they do not write in the box or backside of the box or the team can provide the applicant with a blank sheet.
 
-IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles. A new 35/50 question combo form is now available from download along with all supplemental resources (answer sheets and figures) in ExamTools under Generate Exam.
+IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles. A new 35/50 question combo form is now available for download along with all supplemental resources (answer sheets and figures) in ExamTools under Generate Exam.
 
 A VE may seat the applicant and give instructions on what to do when they have completed their exam.
 
@@ -82,19 +84,19 @@ The team should determine how they want the applicants to signal when they are d
 For applicants using a device, they can proceed through the exam process as if they are being tested online.
 
 For paper exams, use GradeCam to grade the exam. Navigate to the
-Session Detail page, and click the GradeCam button. You will be
+Session Detail page, and click the GradeCam button. VE will be
 prompted to choose the camera to use to scan. Center the filled out
 answer sheet within the camera window, and the software will grade
-your exam automatically. If ET cannot clearly determined which answer
-was selected, you will be prompted to visually confirm the answer.
+the exam automatically. If ET cannot clearly determined which answer
+was selected, the VE will be prompted to visually confirm the answer.
 This can occur when an applicant does not cleanly erase a previous
-answer when changing it. You can use a tablet, cell phone, or computer
-with a camera.  You and your team may want to practice this in the
-[SandBox]({{<relref "../ve/getExamtoolsAccount.md">}}) before your session.
+answer when changing it. Any device with a camera (tablet, cell phone, or computer) may be used for scoring.
+The SM and the rest of the VE team may want to practice this and test out different devices in the
+[SandBox]({{<relref "../ve/getSandboxAccount.md">}}) before your session.
 
 ## To Add a Score from a Non-ExamTools Exam:
 
-A VE team may use existing exam booklets and scoring templates which were provided to them as a stocked team, if desired.  Go to the applicant record and use the Record External Exam feature under Manage to add the element, score and any notes for the exam.  Teams choosing this method should check with their VEC and confirm what additional documentation (i.e. original answer sheets) should be provided beyond the documents which ET exports. 
+A VE team may use existing exam booklets and scoring templates which were provided to them as a stocked team, if desired.  Go to the applicant record and use the Record External Exam feature under Manage to add the element, score and any notes for the exam.  Teams choosing this method should check with their VEC and confirm what additional documentation (i.e. original answer sheets) should be provided beyond the documents which ET exports.
 
 ## Viewing 605 and Draft CSCE:
 
@@ -102,7 +104,7 @@ All applicants should be able to sign in or remain signed in using their own dev
 
 ## Official Certificate of Successful Completion:
 
-Once the applicant and three Certifying VEs have signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. The owner and co-owners have the ability to mark applicants complete, but any VE may send the CSCE.
+Once the applicant and three Certifying VEs have all signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. Only the owner and co-owners have the ability to mark applicants complete, but any VE may send the CSCE.  The Mark Complete button displays to owners and co-owners in the expanded view of the applicant.  All three VEs must sign before the Mark Complete button becomes active.  Once the applicant has been marked complete, they will drop to the bottom of the applicant list. A VE can then click on the up arrow displaying just to the right of the applicant's pin to send the CSCE.
 
 ## Applicants Who Did Not Pass:
 
@@ -110,7 +112,7 @@ Will not receive anything unless the team would like to either print or email th
 
 ## Closing the Session:
 
-* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then Finalize the session.
+* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then, clicks **Finalize Session**.
 * Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
 
 ## VEC Upload, Licenses and Upgrades:
