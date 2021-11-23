@@ -11,8 +11,8 @@ weight: 60
 
 <br />
 * Login to your account on [Examtools](https://exam.tools)
-![exam.tools Page](../images/hamstudyRegister.png)
+![exam.tools Page](../images/examtoolspage.png)
 * Change your callsign on [your profile page](https://exam.tools/ve/me)
-![Exam Tools Profile](../images/hamstudyUpdateProfile.png)
+![Exam Tools Profile](../images/examtoolsuser.png)
 * Click on the pen and paper and enter your new callsign in the box.
     
