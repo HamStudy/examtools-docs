@@ -7,16 +7,12 @@ type: book
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 60
 ---
-## Follow these instructions if you have updated your call sign with both the FCC and all VECs with which you are accredited.
+## Follow these instructions after you have updated your call sign with both the FCC and all VECs with which you are accredited.
 
 <br />
-* Login to your account on [HamStudy](https://ham.study)
-![Ham.Study Signin](../images/hamstudyRegister.png)
-* Change your callsign on [your profile page](https://ham.study/profile)
-![Ham.Study Profile Page](../images/hamstudyUpdateProfile.png)
-* From the email address listed on your account, send an email to support@examtools.org with the following information
-    * Your name as shown in ULS
-    * Your VEC(s)
-    * Your previous call sign
-    * Your new call sign
-    * The user name on your account
+* Login to your account on [Examtools](https://exam.tools)
+![exam.tools Page](../images/examtoolspage.png)
+* Change your callsign on [your profile page](https://exam.tools/ve/me)
+![Exam Tools Profile](../images/examtoolsuser.png)
+* Click on the pen and paper and enter your new callsign in the box.
+    
