@@ -7,7 +7,9 @@ type: book
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 60
 ---
-## Follow these instructions after you have updated your call sign with both the FCC and all VECs with which you are accredited. You will not be able to be added to any sessions until your VEC updates you in their records. 
+## Follow these instructions after you have updated your call sign with both the FCC and all VECs with which you are accredited. 
+
+## You will not be able to be added to any sessions until your VEC updates you in their records. 
 
 <br />
 * Login to your account on [Examtools](https://exam.tools)
