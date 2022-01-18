@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![W5YI](images/logo.jpg)
+![W5YI](images/veclogo.jpg)
 
 ## Can a VE volunteer join existing teams performing remote exams?
 
