@@ -55,9 +55,9 @@ We use the following tools:
 * Email CSCE to candidates using `04CSCE`.
 
 ### Create VEC upload PDF package:
-* **New!** Examtools: Export dat and save with default name: `ExamSession_YYYYMMDD_HHMM.dat`.
+* **New!** Examtools: Export dat and save with default name: `ExamSession_(Callsign)_YYYYMMDD_HHMM.dat`.
 * Examtools: Print Session Forms/Final Forms and download using the default name:
-  `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf`
+  `ExamSession_{Callsign)_YYYYMMDD_HHMM.pdf`
 * If you have a Exam Debit card on file W5YI will charge exam fess when the exam is processed.  Otherwise make payment to W5YI.
 * Upload .dat and .pdf and any support documents to W5YI DropBox ( contact W5YI for details)
 * Wait for Zoom to render recording and save `zoom-0.mp4`.

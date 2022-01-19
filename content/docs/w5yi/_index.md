@@ -39,7 +39,7 @@ Your team lead will be able to add you to their Exam Tools session once
 ## Is there a checklist of what my VE team needs to do?
 
 See [this checklist]({{< relref "checklist.md" >}})
-used by the [AA7HW VE Team] for some ideas. As with in-person sessions, there's always room for customizing how your particular team operates.
+used by the [AA7HW VE Team](https://aa7hw.org/) for some ideas. As with in-person sessions, there's always room for customizing how your particular team operates.
 
 ## Is there a procedure for verifying that W5YI is good with us doing online exams?
 

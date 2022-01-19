@@ -19,7 +19,7 @@ _CVE: make sure Zoom is in Gallery view_
 
 _CVE: make sure Security/Allow participants to share screen is enabled._
 
-_CVE: start examtools session _
+_CVE: start examtools session_
 
 
 
@@ -36,31 +36,31 @@ Before we begin, some additional reminders:
 
 
 W5YI VE SCRIPT 1
-• Welcome
-• [If the candidate has multiple devices, try to admit the computer first, and the phone next. Instruct the candidate to join
+* Welcome
+* [If the candidate has multiple devices, try to admit the computer first, and the phone next. Instruct the candidate to join
 with video only, not audio, on the phone. This is not always possible, because devices in the waiting room will not
 always be identifiable by candidate name or device type.]
-• Photo ID.
+* Photo ID.
 o Is ID acceptable to all VE’s?
-• 360 tour of your room to make sure there is nothing visible to assist you in the exam. Please slowly rotate your camera
+* 360 tour of your room to make sure there is nothing visible to assist you in the exam. Please slowly rotate your camera
 so we can see all 4 walls from your sitting perspective as well as your desktop area.
 o Is the 360 tour of the testing environment acceptable to all VE’s?
-• Share entire desktop screen by clicking on the green “Share Screen” link at the bottom center of your Zoom window.
+* Share entire desktop screen by clicking on the green “Share Screen” link at the bottom center of your Zoom window.
 Select “Desktop 1,” “Screen 1,” or similar from the list of screen share options, then click the Share button in the lower
 right corner of the window.
-• Close any programs or applications except Zoom, a browser (Chrome or Firefox preferred), and optionally a calculator
+* Close any programs or applications except Zoom, a browser (Chrome or Firefox preferred), and optionally a calculator
 app.
-• Do you want to use an onscreen calculator?
+* Do you want to use an onscreen calculator?
 o If so, launch then position it on screen then, clear memory for us to verify nothing is stored to assist you.
-• In the URL (address bar) enter “Exam.Tools” then press enter.
-• Enter AA7HW in first line (Session Call)
-• Enter your PIN in the second line (Session Pin)
-• Click “Join Session” [one of the VEs will need to approve this by clicking on the red icon near the candidate’s PIN in the
+* In the URL (address bar) enter “Exam.Tools” then press enter.
+* Enter AA7HW in first line (Session Call)
+* Enter your PIN in the second line (Session Pin)
+* Click “Join Session” [one of the VEs will need to approve this by clicking on the red icon near the candidate’s PIN in the
 Exam Tools window and then clicking Approve]
-• Check accuracy of all personal information
+* Check accuracy of all personal information
 o If yes, click “Start Exam” [one of the VEs will need to approve this by clicking on the red icon near the
 candidate’s PIN in the Exam Tools window and then clicking Approve]
-• Exam instructions:
+* Exam instructions:
 o This is not a timed exam so work through it at your own pace.
 o Notice the upper right corner, in black bar, lists number of questions in your exam.
 ! This number will count down as you answer questions.
@@ -82,36 +82,36 @@ o We will mute our microphones to not distract you but you should keep your mic 
 o We will be observing your video and audio during your exam. If you have any technical issues, we will assist you.
 Simply talk and one or more of us will unmute to help.
 o Do you have any questions? If not, you may begin.
-• [When the candidate completes the exam, one of the VEs will need to grade the exam by clicking on the red icon near
+* [When the candidate completes the exam, one of the VEs will need to grade the exam by clicking on the red icon near
 the candidate’s PIN, entering their password, and then clicking Approve.]
 
 PASSING GRADE:
-• Did you study for the next level exam?
+* Did you study for the next level exam?
 o If “yes,” would you like to take the exam today?
 o If “no,” we need to move on to signing the forms before we can submit your license information to W5YI & FCC.
-• Click on the “Finish & Sign forms” button to end exam and proceed to signing the documents.
-• Review the information on these forms to ensure accuracy.
-• There are 2 forms you will be signing; the form “605” and the “CSCE.”
+* Click on the “Finish & Sign forms” button to end exam and proceed to signing the documents.
+* Review the information on these forms to ensure accuracy.
+* There are 2 forms you will be signing; the form “605” and the “CSCE.”
 o Click on the Form 605. This is your application to take your exam today. Check your personal information for
 accuracy then click close.
 o Click on the Form CSCE. This is your Certificate of Successful Completion of Exam. It will have 3 VE signatures
 that certify you took and passed your exam. The red “Draft” will be removed after we have signed and Herb has
 processed it for sending to you. If that all looks good, you can click on the “Close” button.
-• Next, after reading the bulleted items above the signature box; you’ll need to create a digital signature in the box with
+* Next, after reading the bulleted items above the signature box; you’ll need to create a digital signature in the box with
 your mouse or touchpad.
 o Click “sign documents” when done
-• Click “Finish session”
-• Click “Log Out”
-• Stop Screen Sharing at the top of the Zoom window.
-• What will happen now is, 3 VEs will sign the forms [done in Exam Tools by clicking on the icon with the pen – Note that
+* Click “Finish session”
+* Click “Log Out”
+* Stop Screen Sharing at the top of the Zoom window.
+* What will happen now is, 3 VEs will sign the forms [done in Exam Tools by clicking on the icon with the pen – Note that
 this requires the VE password]. Herb will email the completed CSCE to you and submit the forms to W5YI for processing.
 In most cases, you will have your license by the next business day.
-• If candidate is in
+* If candidate is in
 o Main Room: Click the red “Leave Meeting” button to leave the meeting [one all devices].
 o Breakout Room: Click the blue “Leave Room” button, then choose “Leave Meeting” [on all devices].
 FAILING GRADE:
-• Encourage the candidate to study for the exam at hamstudy.org. Explain the difference between Study Mode and
+* Encourage the candidate to study for the exam at hamstudy.org. Explain the difference between Study Mode and
 Practice Exams. [Study Mode will ensure that the candidate sees every question in the question pool, and is drilled more
 frequently on questions that they have difficulty with. Practice Exams contain random questions from the question pool,
 and there is no guarantee that the candidate will see every question.]
-• [Note that 3 VEs must sign the forms even if the candidate fails the exam.]
+* [Note that 3 VEs must sign the forms even if the candidate fails the exam.]
