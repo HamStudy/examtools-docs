@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![W5YI The National Association for Amateur Radio](images/veclogo.jpg)
+![W5YI](images/veclogo.jpg)
 
 ## Can a VE volunteer join existing teams performing remote exams?
 
@@ -23,9 +23,10 @@ are short-handed.
 
 ## I am already an ExamTools VE with another VEC. How do I get added as an W5YI VE?
 
-First, make sure you are accredited with the W5YI/VEC 
-W5YI maintains a Spreadsheet of Currently active VE's for Examtools if you are new notify the VEC to make sure you have been added.
+First, make sure you are accredited with the W5YI/VEC.
+If you do not already have W5YI credentials, contact a sponsering CVE and submit VE application to vec@w5yi.org  
 
+Once you have your W5YI Credentials, you must have your W5YI credentials added to your profile.
 Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLScoAQdcplRzCg-4TRPbhRTzMoskHpeKvk4hiaRk1MIYFQWJ_Q/viewform) 
 and fill out and submit the form to notify @Experienced Support 
 of the additional VEC accreditation.  When filling out the form, you can 

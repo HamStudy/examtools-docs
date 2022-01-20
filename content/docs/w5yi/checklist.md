@@ -17,7 +17,7 @@ _The following was the W5YI VE Team Checklist as of June 1, 2020._
 We use the following tools:
 * ExamTools of course.
 * Zoom Pro to run the session.
-  * We "record to ccloud or computer" and then save the mp4 file.
+  * We "record to cloud or computer" and then save the mp4 file.
 * Venmo, Cash App, Zelle and PayPal to collect exam fees.
 * My bank account to send exam payment to the W5YI/VEC.  ( most VE's get a Debit card and send the info to W5YI to charge Exam fees to)
 
@@ -36,7 +36,7 @@ We use the following tools:
   * Check ULS to see if no longer needed. If still needed, you'll want to merge it into the session report, below.
 * If candidates don't respond with payment before the session, cancel them:
   * delete from examtools.
-* Email `03Zoom Invite`
+* Email `Zoom Invite`
 
 ## During session
 * Start Zoom meeting.
@@ -52,7 +52,7 @@ We use the following tools:
 ## After session
 ### Email CSCEs to each successful candidate
 * Examtools: Open each candidate.
-* Email CSCE to candidates using `04CSCE`.
+* Email CSCE to candidates using `CSCE`.
 
 ### Create VEC upload PDF package:
 * **New!** Examtools: Export dat and save with default name: `ExamSession_(Callsign)_YYYYMMDD_HHMM.dat`.
