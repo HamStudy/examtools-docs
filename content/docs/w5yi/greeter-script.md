@@ -24,7 +24,7 @@ _CVE: start examtools session_
 
 
 Before we begin, some additional reminders:
-1. Make sure you have your photo ID handy.
+1. Make sure you have your government issued photo ID handy.
 2. Ensure you are 100% focused during the entire exam session.
 3. Any distractions or anomalies could be cause to void the exam at the sole discretion of the VE Team. Anomalies include, but are not limited to:
    1. Notable distraction by you, such as eyes not remaining on the exam and/or wandering around the room, or any noises.
@@ -41,7 +41,7 @@ W5YI VE SCRIPT 1
 with video only, not audio, on the phone. This is not always possible, because devices in the waiting room will not
 always be identifiable by candidate name or device type.]
 * Photo ID.
-* Is ID acceptable to all VE’s?
+* Is government issued ID acceptable to all VE’s?
 * 360 tour of your room to make sure there is nothing visible to assist you in the exam. Please slowly rotate your camera
 so we can see all 4 walls from your sitting perspective as well as your desktop area.
 * Is the 360 tour of the testing environment acceptable to all VE’s?
@@ -53,7 +53,7 @@ app.
 * Do you want to use an onscreen calculator?
 * If so, launch then position it on screen then, clear memory for us to verify nothing is stored to assist you.
 * In the URL (address bar) enter “Exam.Tools” then press enter.
-* Enter AA7HW in first line (Session Call)
+* Enter the session callsign in first line (Session Call)
 * Enter your PIN in the second line (Session Pin)
 * Click “Join Session” [one of the VEs will need to approve this by clicking on the red icon near the candidate’s PIN in the
 Exam Tools window and then clicking Approve]
