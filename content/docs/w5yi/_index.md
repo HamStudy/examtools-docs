@@ -210,7 +210,7 @@ After the 3 VEs assigned to the candidate have signed and the candidate is marke
 
 ## What do we sign when a candidate fails? How do we prove the failed exam happened?
 
-You must sing the 605 as Proof of failure.  The Print Session
+You must sign the 605 as Proof of failure.  The Print Session
 Forms/Final Forms contains the candidate roster showing failed
 element(s) and the candidate's answer sheet showing a failing
 score. Your W5YI Test Session report also has a place to count
