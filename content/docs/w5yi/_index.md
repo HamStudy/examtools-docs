@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![W5YI](images/veclogo.jpg)
+![W5YI](images/veclogo.png)
 
 ## Can a VE volunteer join existing teams performing remote exams?
 
@@ -24,17 +24,13 @@ are short-handed.
 ## I am already an ExamTools VE with another VEC. How do I get added as an W5YI VE?
 
 First, make sure you are accredited with the W5YI/VEC.
-If you do not already have W5YI credentials, contact a sponsering CVE and submit VE application to vec@w5yi.org  
+If you do not already have W5YI credentials, contact a sponsoring W5YI CVE.  
 
-Once you have your W5YI Credentials, you must have your W5YI credentials added to your profile.
-Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLScoAQdcplRzCg-4TRPbhRTzMoskHpeKvk4hiaRk1MIYFQWJ_Q/viewform) 
-and fill out and submit the form to notify @Experienced Support 
-of the additional VEC accreditation.  When filling out the form, you can 
-simply write “Adding VE Credentials” in the field for the Request ID.  
+Once you have your W5YI Credentials, your W5YI CVE will work you through the 
+process of adding your W5YI Credentials to your profile.
 
-Your team lead will be able to add you to their Exam Tools session once 
-@Experienced Support has received the file and updated your profile.
-
+Your W5YI CVE/Team lead will then be able to add you to their Exam Tools session once 
+Experienced Support has updated your profile.
 
 
 ## Is there a checklist of what my VE team needs to do?
