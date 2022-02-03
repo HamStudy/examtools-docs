@@ -35,7 +35,7 @@ type: book
   * #### [Sample ARRL VE Session Checklist]({{<relref "arrl/checklist.md">}})
   * #### [Sample ARRL VE Greeter Script]({{<relref "arrl/greeter-script.md">}})
 * ### [W5YI-VEC CVE FAQ's]({{<relref "W5YI/_index.md">}})
-	* #### [W5YI VE FAQ's]({{<relref "W5YI/vefaq.md">}})
+  * #### [W5YI VE FAQ's]({{<relref "W5YI/vefaq.md">}})
   * #### [Sample W5YI VE Session Checklist]({{<relref "W5YI/checklist.md">}})
   * #### [Sample W5YI VE Greeter Script]({{<relref "W5YI/greeter-script.md">}})
 

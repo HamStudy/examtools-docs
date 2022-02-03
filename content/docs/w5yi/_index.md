@@ -13,7 +13,7 @@ icon: book
 icon_pack: fas
 ---
 
-![W5YI](images/vec_w5yi.svg)
+<img src="../W5YI/images/vec_w5yi.svg">
 
 ## Is there a checklist of what my VE team needs to do?
 
