@@ -73,7 +73,7 @@ A: We are totally open to suggestions, but also constrained by time. This is a s
 systems use for verifying call sign ownership. If you think you have a better way we welcome the
 suggestion. Here are the problems it needs to solve:
 
-* Provide reasonably certain evidence that you have control of an ownership of the license which can't
+* Provide reasonably certain evidence that you have control and ownership of the license which can't
   be easily faked by someone with five minutes and a Photoshop-like tool.
 * Not expose any more information than is actually required to the ExamTools system.
 
