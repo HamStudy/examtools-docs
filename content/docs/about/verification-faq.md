@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Call Sign Verification FAQ
-summary: Frequently Asked Questions about Callsign Verification
+summary: Frequently Asked Questions about Call Sign Verification
 weight: 05
 icon: book
 icon_pack: fas
@@ -25,7 +25,7 @@ call sign. You also sign a legally binding form when you submit it indicating th
 the owner of that call sign. While it's unlikely it would ever have to go to court, falsifying that form
 would legally constitute Forgery.
 
-### Q: Why do I need to verify my callsign?
+### Q: Why do I need to verify my call sign?
 
 A: As more people use ExamTools we want to do a little more to ensure that nobody is misrepresenting
 themselves or using the system as someone that they aren't. You wouldn't want someone else to create
