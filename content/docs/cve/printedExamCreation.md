@@ -1,15 +1,15 @@
 ---
 # Title, summary, and page position.
-linktitle: How to Print and Grade Hard Copy Exams in ExamTools
+linktitle: Print and Grade Hard Copy Exams in ExamTools
 summary: Instructions on how to print and grade hard copy exams for manual grading, GradeCam grading, and use with VEC Answer Keys
-weight: 30
+weight: 60
 featured: false
 draft: false
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: How to Print and Grade Hard Copy Exams in ExamTools
+title: Print and Grade Hard Copy Exams in ExamTools
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
@@ -18,11 +18,11 @@ type: book  # Do not modify.
 
 Follow these instructions to print out randomly generated exams for use with a manual grading key
 
-* Log into [ExamTools](http://exam.tools) software using your user name and password
+* Log into [ExamTools](https://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight
+* The default selection is **Manual Grading**, indicated by a grey highlight
 * Follow the option selections for the exams that you wish to generate
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
     * ***Question Pool*** - Choose the question pool for which you wish to generate exams.  Available selections include current US Amateur Radio exams, several FCC Commercial Elements, and Canadian 2014 Basic and Advanced Qualifications in either English or French Canadian
@@ -31,7 +31,7 @@ Follow these instructions to print out randomly generated exams for use with a m
     * ***Omit questions with figures*** - Toggle on to generate exams that do not use questions containing figures suitable for administering to visually challenged candidates. *Default is off (include figures)*
 * Click **Generate** - You will have a PDF file generated that includes answser keys, blank answer sheets, and exam booklets in the quantity of exams chosen in the previous step.  You may print off as many copies as you need.  The exam number is printed on page 1 in the upper right hand corner as well as in the footer of every page.  This number is used to determine which grading key to use.
 
-* To grade these exams, each VE will compare the candidate's filled-out answer sheet against the grading key generated in the prior step.  This candidate will then require a CSCE and Form 605 filled out and signed by hand
+* To grade these exams, each VE will compare the candidate's filled-out answer sheet against the grading key generated in the prior step.  This candidate will then require a CSCE and Form 605 filled out and signed by hand.  Alternatively, if the applicant has been registered into ExamTools, VEs may record the score into ExamTools by following [To Add a Score from a Non-ExamTools Exam:](cvein-personexamprocess/#to-add-a-score-from-a-non-examtools-exam.md) instructions.
 ![Manual Grading Options](../images/manualGradingOptions.png)
 
 
@@ -40,11 +40,11 @@ Follow these instructions to print out randomly generated exams for use with a m
 
 Follow these instructions to print out randomly generated exams for use with a pre-determined (VEC) grading key
 
-* Log into [ExamTools](http://exam.tools) software using your user name and password
+* Log into [ExamTools](https://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
+* The default selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
 * Follow the option selections for the exams that you wish to generate
     * ***Choose Answer Key(s)*** - Choose the grading template that you are using.  Includes pre-determined VEC-Specific grading templates such as ARRL: 1-1 through ARRL: 9-4.  Multiple selections are allowed.
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
@@ -63,11 +63,11 @@ Follow these instructions to print out randomly generated exams for use with a p
 
 Follow these instructions to print out randomly generated exams for scanning with GradeCam(tm) software, which is accessible via the ExamTools website on any internet-connected device with a camera.
 
-* Log into [ExamTools](http://exam.tools) software using your user name and password
+* Log into [ExamTools](https://exam.tools) software using your user name and password
 * On the left hand navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The defaul selection is **Manual Grading**, indicated by a grey highlight.  Click on **Scan with GradeCam(tm)**
+* The default selection is **Manual Grading**, indicated by a grey highlight.  Click on **Scan with GradeCam(tm)**
 * Follow the option selections for the exams that you wish to generate
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
     * ***Question Pool*** - Choose the question pool for which you wish to generate exams.  Available selections include current US Amateur Radio exams, several FCC Commercial Elements, and Canadian 2014 Basic and Advanced Qualifications in either English or French Canadian

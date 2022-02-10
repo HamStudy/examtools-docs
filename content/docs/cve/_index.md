@@ -14,6 +14,10 @@ type: book  # Do not modify.
 
 Following are instructions for tasks most commonly performed by Team Leads.
 
-* [How to become a Team Lead in ExamTools]({{<relref "cveNewTeamLead.md">}})
-* [How to Create and Edit Sessions in ExamTools]({{< relref "cveCreateSession.md" >}})
-* [How to Print and Grade Hard Copy Exams in ExamTools]({{< relref "printedExamCreation.md" >}})
+* [Become a Team Lead in ExamTools]({{<relref "cveNewTeamLead.md">}})
+* [Create and Edit Sessions in ExamTools]({{< relref "cveCreateSession.md" >}})
+* [Edit the VE List in ExamTools]({{< relref "cveVEList.md" >}})
+* [In-Person Exams with ExamTools]({{< relref "cveIn-PersonExamProcess.md" >}})
+* [Print and Grade Hard Copy Exams in ExamTools]({{< relref "printedExamCreation.md" >}})
+* [Zoom for Online Exams]({{< relref "Zoom.md" >}})
+* [Sandbox Exams and Dummy VEs]({{< relref "cveSandboxDummies.md" >}})

@@ -25,12 +25,16 @@ are short-handed.
 
 First, make sure you are accredited with the ARRL/VEC and confirm that
 you are listed at http://www.arrl.org/ve-session-counts for your
-state. Once you've done that, notify your ARRL VE Team Liaison (CVE)
-who will ask that your ARRL/VEC affiliation be added to your ExamTools
-profile. If you are already in Discord, you can send a message to
-`@Experienced Support` in the `#examtools-requests` channel requesting
-that they add you as an ARRL VE. If you are not in Discord, ask your
-VE Team Liaison to do it for you.
+state. Once you’ve done that, copy the web URL for that session counts 
+page, you will need to paste that into the form in the next step.  
+
+Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLScoAQdcplRzCg-4TRPbhRTzMoskHpeKvk4hiaRk1MIYFQWJ_Q/viewform) and fill out and submit the form to notify @Experienced Support 
+of the additional VEC accreditation.  When filling out the form, you can 
+simply write “Adding VE Credentials” in the field for the Request ID.  
+
+Your team lead will be able to add you to their Exam Tools session once 
+@Experienced Support has received the file and updated your profile.
+
 
 
 ## Is there a checklist of what my VE team needs to do?
@@ -64,11 +68,11 @@ Make sure you, the CVE (VE Team Liaison), do the following:
     For example: http://www.arrl.org/ve-session-counts?state=CA
     (If your call sign is not on the page for your state, you will need to resolve your VE accreditation
     with the VEC.)
-* Read through the entire #process-tips channel in Discord.
+* Read through exam.tools [CVE documentation]({{< relref "../cve/" >}}), if you have questions you can ask them in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
   team members. DO NOT use a Facebook or Google login: Make a "real" user.
-  There's more info in Discord #process-tips.
-* Volunteer in the Discord #arrl channel to help out with another team's ARRL/VEC session so you get
+  There's more info in [getting an exam.tools and sandbox account]({{< relref "../ve/getexamtoolsaccount/" >}})
+* Volunteer in the Discord `#arrl` channel to help out with another team's ARRL/VEC session so you get
   to see the real system in action.
 * Once ready, you and all your VEs must register for tier 2 production via [this form](https://forms.gle/cD9fTqv5ognik6XC9).
 * Forward your approval email from the ARRL/VEC to verifications@examtools.org
@@ -88,8 +92,7 @@ other details as needed (e.g. how many elements they intend to take)
 and typically use online personal payment processors like Venmo,
 PayPal, Zelle, Apple Pay, Google Pay, etc. or even have candidates
 mail them personal checks! You can get the candidate's email address
-from the Session Old Manifest: Click on the candidate's name to see
-details.
+from the MANAGE dropdown `Edit Applicant` on the candidate in your session.
 
 
 ## Can I get reimbursed for expenses like Zoom Pro and PayPal transaction fees?
@@ -110,8 +113,7 @@ It is entirely possible that some candidates will register for a
 session and not respond to the email that you sent requesting
 payment. It's unclear if this is due to your mail going into their
 spam folder or they are just plain rude. You can cancel their
-registration by deleting them from the Session Old Manifest by
-clicking on the trash can icon. This frees up the exam slot for
+registration by deleting them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
 someone else.
 
 ## What happens when a prepaid candidate cancels or doesn't show up?
@@ -119,7 +121,7 @@ someone else.
 You should refund the fee if you can. This is easy to do with most
 online payment systems. Also don't forget to remove them from the
 Examtools roster before submitting the test session package to the
-VEC. You do this by deleting them from the Old Manifest prior to
+VEC. You do this by deleting them using the MANAGE dropdown `Delete Applicant` on the candidate before
 Finalizing the session. See the next question if your team policy is
 to retain fees for no-shows:
 
@@ -211,9 +213,9 @@ well. This document will eventually help the VEC automate a bunch of
 currently manual data entry.  See the following screenshots for an
 example:
 
-![ARRL/VEC Upload](../images/upload.png)
+![ARRL/VEC Upload](./images/upload.png)
 
-![ARRL/VEC Upload](../images/upload-finder.png)
+![ARRL/VEC Upload](./images/upload-finder.png)
 
 
 ## Can EBF files be uploaded to ARRL/VEC?
@@ -228,24 +230,21 @@ the front of any pending CSCEs. But do an [FRN lookup](https://wireless2.fcc.gov
 exam. Odds are the 605 for which the CSCE is for will already have
 been acted upon by the time the exam session happens.
 
-## How do I process a "paper upgrade" with no exam (Examtools doesn't support this)?
+## How do I process a "paper upgrade" with or without an exam?
 
-Have the candidate fill out
-[this fillable 605](http://www.arrl.org/files/file/VEs/605%20Form_2020_Remote_Fully%20Interactive.pdf)
-ahead of time.
+The candidate registers for your exam session and provides proof to you of any element credit. 
+Consult the [ARRL Exam Element Credit Information](http://www.arrl.org/exam-element-credit) for what is acceptable proof.
 
-We don’t need the VEs signatures on the form (to make it easier for
-the team) if the team members email us this statement as the
-signatures:
+You will enter the credit(s) using the exam.tools MANAGE dropdown `Add Credit` for the candidate. Make sure you handle the case of expired Amateur Extra by giving both Element 3 and Element 4 credit.
 
-“I CERTIFY THAT I HAVE COMPLIED WITH THE ADMINISTERING VE REQUIREMENTS
-IN PART 97 OF THE COMMISSION’S RULES AND WITH THE INSTRUCTIONS
-PROVIDED BY THE COORDINATING VEC AND THE FCC FOR EXAM SESSION (DATE
-and LOCATION).”  By typing your name below, you are signing this form
-electronically. Understand that your electronic signature is legally
-binding, as if you had physically signed the document by hand.
+* If the candidate has no current license they need to take the Element 2 exam. Upon passing, the candidate does the usual signature process.
 
-The CSCE can be filled in ahead of time by the team and then emailed to the candidate.
+* If the candidate already has a current license and thus is not taking an actual exam, you need to move the candidate Status from `registered` or `seen` to `ready to sign`. The candidate logs into the session using their pin and is presented with the usual signature process.
+
+After the 3 VEs assigned to the candidate have signed and the candidate is marked complete, exam.tools generates the proper forms reflecting these credits.
+
+You will need to do "PDF splicing" to add the proof documents for the candidate to the session PDF submitted to the VEC.
+
 
 ## What do we sign when a candidate fails? How do we prove the failed exam happened?
 

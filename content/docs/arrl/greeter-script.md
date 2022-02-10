@@ -5,14 +5,14 @@ title: CUARC VEC Greeter Script
 linktitle: Sample ARRL VE Greeter Script
 type: book
 # date: 2020-10-19T00:00:00
-lastmod: 2020-10-27T00:00:00
+lastmod: 2021-02-02T00:00:00
 featured: false
 draft: false
 weight: 10
 
 ---
 CUARC VE Greeter Script
-v2.4 10/19/20
+v2.5 02/02/2021
 
 
 _CVE: make sure Zoom is in Gallery view_
@@ -72,6 +72,10 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
          * show that it is cleared of any functions
 * Please position your second device to the side so we can see your hands on the keyboard, computer display, etc. It needs to be stable enough to remain there for the entire session. It should also be fully charged or plugged in so it doesn’t run out of battery.
 * Now share your complete desktop in Zoom.
+  * iOS (iPad) alternative: Click Share and select  `Website URL` rather than `Screen` and enter exam.tools URL.
+    Example screen shots:
+    1. [click `Share Screen`](../images/iOS-zoom-share.png)
+    2. [select `Website URL`](../images/iOS-zoom-website.jpeg)
 * Go to the desktop settings and show us there are no other displays attached.
    * Mac OS: System Preferences/Displays
    * Windows: Right click on the desktop…

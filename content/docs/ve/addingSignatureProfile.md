@@ -1,13 +1,15 @@
 ---
-title: Adding a Signature to your Profile
-linktitle: Adding a Signature to your Profile
+title: Add a Signature to your Profile
+linktitle: Add a Signature to your Profile
 type: book
 # date: "2019-05-05T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 40
 ---
-## Adding a saved signature to your profile
+## Add a saved signature to your profile
+
+**Pro Tip:** Use a smart phone or tablet for best looking results. 
 
 * Go to https://exam.tools
 * Under **Assist with an Exam** sign in with your HamStudy credentials

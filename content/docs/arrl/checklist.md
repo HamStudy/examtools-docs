@@ -4,8 +4,6 @@
 title: CUARC VEC Session Checklist
 linktitle: Sample ARRL VE Session Checklist
 type: book
-# date: 2020-06-18T00:00:00
-lastmod: 2020-09-14T00:00:00
 featured: false
 draft: false
 weight: 5
@@ -83,15 +81,18 @@ send them the unlisted hamstudy session link(s) before publishing.
 * **New!** Examtools: Export JSON and save with default name: `ExamSession_YYYYMMDD_HHMM.json`.
 * Examtools: Export EBF. (Not really used by us, but might as well save it.)
 * Examtools: Print Session Forms/Final Forms and download using the default name:
-  `ExamSession_N2YGK_YYYYMMDD_HHMM_all.pdf`
+  `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf`
 * Grab a prefilled Test Report as `CUARC-N2YGK-YYYYMMDD-test report.pdf`
   (The session report has a box that says "see attached examtools session summary".)
 * Edit test report to show the date, session counts, money held for reimbursement and amount forwarded.
 * Cut a check for that amount to ARRL/VEC and record the check number on the test report.
-* Insert `ExamSession_N2YGK_YYYYMMDD_HHMM_all.pdf` after that.
+* Insert `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf` after that.
 * For each candidate, merge in *only* any pending CSCEs.
-* Go to ARRL upload page and upload the test report.
-  * Print/Save as PDF `YYYYMMDD-ARRL VEC File Uploads.pdf`.
+* Go to ARRL upload page and select two files for uploading:
+  1. Test report (`CUARC-N2YGK-YYYYMMDD-test report.pdf`)
+  2. JSON export file (`ExamSession_YYYYMMDD_HHMM.json`)
+
+  Then upload them and print/Save as PDF the upload "receipt" as `YYYYMMDD-ARRL VEC File Uploads.pdf`.
 * Upload files to `Online/YYYYMMDD`:
   * `CUARC-N2YGK-YYYYMMDD-test report.pdf`
   * `ExamSession_YYYYMMDD_HHMM.json`.
