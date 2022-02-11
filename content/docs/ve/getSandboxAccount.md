@@ -24,7 +24,7 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Carefully fill out the Verify Callsign form.
 ![ExamTools Verify Account Instructions](../images/examtoolsVerifyCallsign.png)
 * Wait for an email from Examtools stating your account has been verified.
-![ExamTools Account Apporved](../images/examtoolsEmailApporval.png)
+![ExamTools Account Approved](../images/examtoolsEmailApproval.png)
 * Inform your Team Lead that you are set up on the ExamTools Sandbox and ready to participate in training sessions.
 
 Want to run a practice session by yourself or short on VEs? Check out documentation on [Sandbox Exams and dummy VEs]({{<relref "../cve/cveSandboxDummies.md">}}) in your training sessions.
