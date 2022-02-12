@@ -19,7 +19,12 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Enter your personal details.  For clarity, we recommend using your call sign as the username.
 ![ExamTools Create Profile](../images/examtoolsCreateAccount.png)
 * It will then redirect you to [ExamTools](https://examtools.dev/portal/veLogin).
-* Fill out [this form](https://forms.gle/NiAeLFpX7R7E7NZC9).
+* Once logged in, head to your profile to verify your ExamTools account.
+![ExamTools Getting Started](../images/examtoolsGettingStarted.png)
+* Carefully fill out the Verify Callsign form.
+![ExamTools Verify Account Instructions](../images/examtoolsVerifyCallsign.png)
+* Wait for an email from Examtools stating your account has been verified.
+![ExamTools Account Approved](../images/examtoolsEmailApproval.png)
 * Inform your Team Lead that you are set up on the ExamTools Sandbox and ready to participate in training sessions.
 
 Want to run a practice session by yourself or short on VEs? Check out documentation on [Sandbox Exams and dummy VEs]({{<relref "../cve/cveSandboxDummies.md">}}) in your training sessions.

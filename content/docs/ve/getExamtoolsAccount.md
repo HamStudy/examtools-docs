@@ -19,9 +19,13 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Enter your personal details.  For clarity, we recommend using your call sign as the username.
 ![ExamTools Create Profile](../images/examtoolsCreateAccount.png)
 * It will then redirect you to [ExamTools](https://exam.tools/portal/veLogin).
-* Login with your newly created account and note the RequestID in the middle of the page.
-![Exam.Tools Request ID](../images/examtoolsRequestID.png)
-* Fill out [this form](https://forms.gle/cD9fTqv5ognik6XC9).
+* Login with your newly created account and note the instructions on how to verify your ExamTools account in the middle of the page.
+* Once logged in, head to your profile to verify your ExamTools account.
+![ExamTools Getting Started](../images/examtoolsGettingStarted.png)
+* Carefully fill out the Verify Callsign form.
+![ExamTools Verify Account Instructions](../images/examtoolsVerifyCallsign.png)
+* Wait for an email from Examtools stating your account has been verified.
+![ExamTools Account Approved](../images/examtoolsEmailApproval.png)
 * Inform your Team Lead that you are set up on ExamTools and ready to participate in sessions.
 
 If you plan to run practice exam sessions, setup your [sandbox account]({{<relref "getSandboxAccount.md">}}) once you have completed the production account process above.
