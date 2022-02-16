@@ -9,7 +9,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Teans for Session Management
+title: Teams for Session Management
 # date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
@@ -31,13 +31,13 @@ The primary purpose of a "team" in ExamTools is to own exam sessions and schedul
 
 ## Team List : To edit or view teams
 
- * From the **Team List**, locate the team you wiish to view and click on the **Manage Team** button which will allow you to view all the fields and setting for the team.
+ * From the **Team List**, locate the team you wish to view and click on the **Manage Team** button which will allow you to view all the fields and setting for the team.
  *  **Team Identifier:**  - Used by the applicants to login and join the exam; also used in permalinks for the session and the team on HamStudy.
  *  **Team Name:** - Displays along with the team identifier in the session listing on HamStudy.
  *  **E-mail Address:** - Should contain a valid email address for the administrator of the team.
  *  **Team Website:** - Enter the url (i.e. http://…) for the website for the club or group associated with this team. Leave blank if you do not have one.
  *  **My team permissions:** - The personal permissions settings for the team you are viewing. (not editable and set by the owner/co-owner of the session)
- *  **Delegated Privileges:** (In order to list sessions for a given VEC one or more VEs who are at least co-owners must delegate their team lead permissions to the team. Note that sessions must still have a valid team lead assigned from the team, but anyone with Scheduling permissions may schedule sessions for any VEC for which the team has delegated permissions.) - Only those with sessmion manager permissions in ExamTools will see VECs in the Deligate Priviledges list.  Select the VEC for which you would like the team schedulers to be able to create sessions for.  If selected, the VEC will display below the feature.
+ *  **Delegated Privileges:** (In order to list sessions for a given VEC one or more VEs who are at least co-owners must delegate their team lead permissions to the team. Note that sessions must still have a valid team lead assigned from the team, but anyone with Scheduling permissions may schedule sessions for any VEC for which the team has delegated permissions.) - Only those with session manager permissions in ExamTools will see VECs in the Delegate Privileges list.  Select the VEC for which you would like the team schedulers to be able to create sessions for.  If selected, the VEC will display below the feature.
  
  ## Add, Edit, and Delete Members
  
