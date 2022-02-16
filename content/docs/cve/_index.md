@@ -15,6 +15,7 @@ type: book  # Do not modify.
 Following are instructions for tasks most commonly performed by Team Leads.
 
 * [Become a Team Lead in ExamTools]({{<relref "cveNewTeamLead.md">}})
+* [Create and Edit Teams in ExamToosl]({{<relref "cveTeams.md">}})
 * [Create and Edit Sessions in ExamTools]({{< relref "cveCreateSession.md" >}})
 * [Edit the VE List in ExamTools]({{< relref "cveVEList.md" >}})
 * [In-Person Exams with ExamTools]({{< relref "cveIn-PersonExamProcess.md" >}})
