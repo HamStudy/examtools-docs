@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: "Teams: Session Management"
+linktitle: Create and Edit Teams in ExamTools
 summary: Instructions on how to use Teams for Session Management Volunteer Examineers.
 weight: 20
 featured: false
