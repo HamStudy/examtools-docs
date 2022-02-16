@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Teams: Session Management
+linktitle: "Teams: Session Management"
 summary: Instructions on how to use Teams for Session Management Volunteer Examineers.
 weight: 20
 featured: false
