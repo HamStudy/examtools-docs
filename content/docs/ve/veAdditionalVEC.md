@@ -7,10 +7,12 @@ type: book
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 50
 ---
-## Follow these instructions if you have an existing ExamTools account and have now become accredited with one or more additional VECs.
+## Adding an additional VEC is automatic in ExamTools, if you have an existing ExamTools account and become accredited with one or more additional VECs.
 
 <br />
-* Wait until your accreditation is officially confirmed by your additional VEC(s)
-* Fill out [this form](https://forms.gle/cD9fTqv5ognik6XC9).
-  * When you created your initial VE account you were assigned a request ID; when adding additional VEC accreditation, you can simply write "Adding VE Credentials" where the Request ID is required.
-* Inform your Team Lead/CVE that you are set up on ExamTools and ready to participate in sessions.
+* Make sure you already have an ExamTools account and your call sign is current.
+* Once your accreditation is officially confirmed by your additional VEC(s), they should add you to a list accessed by ExamTools. 
+* Wait until ExamTools syncs with the list. This waiting period could vary depending on the VEC.  If we do not see your new accreditation in a day or two, contact your VEC.
+* Confirm your accreditation is active by visiting your Profile at the top of the left navigation menu in ExamTools.  Toward the bottom, look for **Volunteer Examiner Credentials** and click the down caret (arrow) on the right side to expand out and view your accreditations.
+* Inform your Team Lead/CVE that your accreditation is displaying in ExamTools and you are ready to participate in sessions.
+
