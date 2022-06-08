@@ -20,7 +20,7 @@ we can resolve your questions about the process here.
 ## Basic process
 
 The basic process to verify your call sign is to upload the PDF of your official license copy from
-the ULS. This is seen as proof that you own (or at least have a large amount of control of) that
+the [ULS License Manager](https://wireless2.fcc.gov/UlsEntry/licManager/login.jsp). This is seen as proof that you own (or at least have a large amount of control of) that
 call sign. You also sign a legally binding form when you submit it indicating that you really are
 the owner of that call sign. While it's unlikely it would ever have to go to court, falsifying that form
 would legally constitute Forgery.
