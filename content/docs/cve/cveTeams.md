@@ -39,7 +39,7 @@ The primary purpose of a "team account" in ExamTools is to own exam sessions and
  *  **My team permissions:** - The personal permissions settings for the team account you are viewing. (not editable and set by the owner/co-owner of the session)
  *  **Delegated Privileges:** (In order to list sessions for a given VEC one or more VEs who are at least co-owners must delegate their team lead permissions to the team. Note that sessions must still have a valid team lead assigned from the team, but anyone with Scheduling permissions may schedule sessions for any VEC for which the team has delegated permissions.) - Only those with session manager permissions in ExamTools will see VECs in the Delegate Privileges list.  Select the VEC for which you would like the team schedulers to be able to create sessions for.  If selected, the VEC will display below the feature.
  
- ## Add, Edit, and Delete Administers
+ ## Add, Edit, and Delete Administrators
  
  *  **Adminstrators:** - A list of those VEs who are part of your team management.  This list does not include everyone of your VEs, but rather those few who assist with the scheduling, coordinating and running of the sessions.
  *  Click on the **+ INVITE** next to **Administrator:** to add administrators who will need to accept your invitation. 
