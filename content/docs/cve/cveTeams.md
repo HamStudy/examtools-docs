@@ -42,7 +42,7 @@ The primary purpose of a "team account" in ExamTools is to own exam sessions and
  ## Add, Edit, and Delete Administers
  
  *  **Adminstrators:** - A list of those VEs who are part of your team management.  This list does not include everyone of your VEs, but rather those few who assist with the scheduling, coordinating and running of the sessions.
- *  Click on the **+ INVITE** next to **Administrator:** to add administrators whoc will need to accept your invitation. 
+ *  Click on the **+ INVITE** next to **Administrator:** to add administrators who will need to accept your invitation. 
  *  Use the **Edit** (pencil and paper icon) or **Delete** (trash can icon) to manage admins on the list.
  *  Click **Edit**, to **Change team admin permissions**.
  *  The team admin's *call sign and license class* will display along with the **Name:** which may use the Display Name from the VE's Profile, if entered.
