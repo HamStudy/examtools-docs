@@ -34,7 +34,7 @@ The primary purpose of a "team account" in ExamTools is to own exam sessions and
  * Within **Team Accounts**, locate the account you wish to view and click on the **Manage Account** button which will allow you to view all the fields and setting for the account.
  *  **Team Identifier:**  - Used by the applicants to login and join the exam; also used in permalinks for the session and the team on HamStudy.
  *  **Team Name:** - Displays along with the team identifier in the session listing on HamStudy.
- *  **Contact E-mail Addresses:** - Should contain a valid email addresses for the administrators of the account.
+ *  **Contact E-mail Address:** - Should contain a valid email address for the administrator(s) of the account.
  *  **Team Website:** - Enter the url (i.e. http://…) for the website for the club or group associated with this team account. Leave blank if you do not have one.
  *  **My team permissions:** - The personal permissions settings for the team account you are viewing. (not editable and set by the owner/co-owner of the session)
  *  **Delegated Privileges:** (In order to list sessions for a given VEC one or more VEs who are at least co-owners must delegate their team lead permissions to the team. Note that sessions must still have a valid team lead assigned from the team, but anyone with Scheduling permissions may schedule sessions for any VEC for which the team has delegated permissions.) - Only those with session manager permissions in ExamTools will see VECs in the Delegate Privileges list.  Select the VEC for which you would like the team schedulers to be able to create sessions for.  If selected, the VEC will display below the feature.
