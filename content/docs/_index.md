@@ -22,7 +22,7 @@ type: book
   * #### [Change your Callsign]({{<relref "ve/veNewCall.md">}})
 * ### [Team Leads or Session Managers]({{<relref "cve/_index.md">}})  
   * #### [Become a Team Lead in ExamTools]({{<relref "cve/cveNewTeamLead.md">}})
-  * #### [Create and Edit Teams in ExamTools]({{<relref "cve/cveTeams.md">}})
+  * #### [Create and Edit Team Accounts in ExamTools]({{<relref "cve/cveTeams.md">}})
   * #### [Create and Edit Sessions in ExamTools]({{< relref "cve/cveCreateSession.md" >}})
   * #### [Edit the VE List in ExamTools]({{< relref "cve/cveVEList.md" >}})
   * #### [In-Person Exams with ExamTools]({{< relref "cve/cveIn-PersonExamProcess.md" >}})
