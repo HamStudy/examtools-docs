@@ -5,14 +5,14 @@ title: CUARC VEC Greeter Script
 linktitle: Sample ARRL VE Greeter Script
 type: book
 # date: 2020-10-19T00:00:00
-lastmod: 2021-02-02T00:00:00
+lastmod: 2023-03-28T16:38:00
 featured: false
 draft: false
 weight: 10
 
 ---
 CUARC VE Greeter Script
-v2.5 02/02/2021
+v3.0 03/28/2023
 
 
 _CVE: make sure Zoom is in Gallery view_
@@ -56,8 +56,6 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
 * Are you 18 years of age or over?
    * No, Under 13: Did parent send in COPPA form?
    * No: Under 18: must have parent/guardian give permission and they must remain in the room to chaperone.
-* Do you consent to the data, audio, video, and screen-share recording of the fully-remote exam session, all of which may be retained for 15 months for test integrity audits, review, and training?
-   * (No: seeya)
 * Please confirm your name and hold up your photo ID to the camera
 * Please connect to the Zoom session with your second device now.
 * Please show us around the room:
@@ -84,8 +82,6 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
 * Now please click on https://exam.tools/portal/applicant/N2YGK/#### replacing XXXX with your PIN.
    * _CVE makes sure VEs are assigned to the candidate_
    * _CVE approves starting candidate._
-* We are going to start recording now.  
-   * _CVE: Start recording locally and make sure in gallery view._
 * Have you used hamstudy.org to practice?
    * No - give quick tutorial
 * If you need to look away, move around, etc. please inform us first. Just shout out and we'll unmute and respond shortly. We'll all be turning off our video and audio but will be watching and listening.
@@ -94,8 +90,6 @@ Please respond to the next questions, and, if you don’t agree or can't comply,
 * Now please click on grade your exam
    * VEs turn on video.
    * _CVE approves grading._
-* We are going to stop recording now.  
-   * _CVE: pause/stop recording locally and make sure in gallery view._
 * If the candidate passes: Congratulations, are you ready to try the next element?
    * If so, rinse and repeat.
    * If not, click Sign Out.

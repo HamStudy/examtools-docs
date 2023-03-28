@@ -4,6 +4,7 @@
 title: CUARC VEC Session Checklist
 linktitle: Sample ARRL VE Session Checklist
 type: book
+lastmod: 2023-03-28T16:38:00
 featured: false
 draft: false
 weight: 5
@@ -18,12 +19,11 @@ to reflect changed practices since June. Use this just to get an idea of the man
 We use the following tools:
 * ExamTools of course.
 * Zoom Pro to run the session.
-  * We "record to computer" and then upload the mp4 file.
 * Google Drive to:
-  * retain session records (including mp4 videos)
+  * retain session records.
   * Google Sheets for record keeping.
   * Gmail to process email to/from candidates.
-* Venmo, Zelle and PayPal to collect exam fees.
+* Venmo and PayPal to collect exam fees.
 * My bank account to send e-checks to the ARRL/VEC.
 
 ## Creating a New Session
@@ -78,7 +78,7 @@ send them the unlisted hamstudy session link(s) before publishing.
 * Email these to candidates using `04CSCE` template.
 
 ### Create VEC upload PDF package:
-* **New!** Examtools: Export JSON and save with default name: `ExamSession_YYYYMMDD_HHMM.json`.
+* Examtools: Export JSON and save with default name: `ExamSession_YYYYMMDD_HHMM.json`.
 * Examtools: Export EBF. (Not really used by us, but might as well save it.)
 * Examtools: Print Session Forms/Final Forms and download using the default name:
   `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf`
@@ -98,7 +98,6 @@ send them the unlisted hamstudy session link(s) before publishing.
   * `ExamSession_YYYYMMDD_HHMM.json`.
   * `YYYYMMDD-ARRL VEC File Uploads.pdf`.
   * EBF file (`####################.dat`)
-* Wait for Zoom to render recording and upload `zoom-0.mp4` to `Online/YYYYMMDD`.
 
 ## Post session – callsign lookups
 * Email call signs or upgrade completion notifications.
