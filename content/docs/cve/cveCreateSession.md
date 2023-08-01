@@ -18,7 +18,7 @@ type: book  # Do not modify.
 
 Detailed instructions to schedule an exam session in the ExamTools software are written below.  You may also watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walk-through.
 
-* Login to **[ExamTools](https://Exam.Tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
+* Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
 
 * In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
 
@@ -38,7 +38,7 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * **Session Type**:  Select Online Session or In-Person Session from the radio buttons.
 
-* If you select In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy.
+* If you select In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
 
 * **Time zone**: Select your time zone from the dropdown list.
 
