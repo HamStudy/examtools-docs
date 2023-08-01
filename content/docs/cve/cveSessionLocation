@@ -26,20 +26,21 @@ Once you enter an address, you will not have ability to edit or delete it. ExamT
 
 Use a specific location name as a display name.  If you have more than one team lead and/or test location under the same team identifier, create display names that make sense to you and your session schedulers. Using *home, church, fire station, library, etc.* are common names.  Choose a proper name or descriptive phrase instead.
 
-Good examples: 	
-> > WM7X home (remote)
-> > Kearney Mesa Rec Center (in-person) 
-> > Carmel Mountain Public Library (in-person)
+Good examples:  
+
+* WM7X home (remote)
+* Kearney Mesa Rec Center (in-person) 
+* Carmel Mountain Public Library (in-person)
  
 ## Non-US Exam Locations for In-person Exams: 
  
 For non-US locations, enter the state as DX and the zip as 00000.  Enter both the city and county in the city field.  Fill in the rest of the address fields as best as you can.
 
-An example of a remote/online exam location: 
+An example of a remote/online exam location:  
 
-> > City: Sidney, Australia 
-> > State: DX 
-> > Zip: 00000
+* City: Sidney, Australia 
+* State: DX 
+* Zip: 00000
 
 ## Advanced Entry: GPS Coordinates
  
