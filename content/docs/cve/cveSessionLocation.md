@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 ## Intro:
 
-ExamTools uses the selected location of the exam as the location in the final session documents.  For remote exams, use the city and state of the team lead listed under the general session information on the session schedule page.  Please confirm with your VEC, if you are unsure what address to use for your session.
+ExamTools uses the selected location of the exam as the location in the final session documents.  For remote exams, only the city, state and zip will be required on the session schedule page.  Please confirm with your VEC, if you are unsure what address to use for your session.
 
 ## Warning:
 
