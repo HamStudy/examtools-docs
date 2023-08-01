@@ -46,6 +46,6 @@ An example of a remote/online exam location:
  
 This method is intended for those in unusual situations (i.e. desert, undeveloped area without street address) and requires manual entry of GPS coordinates. You will need the latitude and longitude.  Use real values in decimals.
 
-Look it up at to [https://www.itilog.com/](https://www.itilog.com/)
+Look it up at [https://www.itilog.com/](https://www.itilog.com/)
 
 If your address can be found in a Google Maps, please use Simple Entry instead.
