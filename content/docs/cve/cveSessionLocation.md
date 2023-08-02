@@ -24,7 +24,7 @@ Once you enter an address, you will not have ability to edit or delete it. ExamT
 
 ## Create Specific Display Names:
 
-Use a specific location name as a display name.  If you have more than one team lead and/or test location under the same team identifier, create display names that make sense to you and your session schedulers. Using *home, church, fire station, library, etc.* are common names.  Choose a proper name or descriptive phrase instead.
+Use a specific location name as a display name.  If you have more than one team lead and/or test location under the same team identifier, create display names that make sense to you and your session schedulers. *Home, church, fire station, library, etc.* are common names.  Choose a proper name or descriptive phrase instead.
 
 Good examples:  
 
