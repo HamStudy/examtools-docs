@@ -34,7 +34,7 @@ Good examples:
  
 ## Non-US Exam Locations for In-person Exams: 
  
-For non-US locations, enter the state as DX and the zip as 00000.  Enter both the city and county in the city field.  Fill in the rest of the address fields as best as you can.
+For non-US locations, enter the state as DX and the zip as 00000.  Enter both the city and country in the city field.  Fill in the rest of the address fields as best as you can.
 
 An example of a remote/online exam location:  
 
