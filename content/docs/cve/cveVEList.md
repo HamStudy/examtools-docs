@@ -14,19 +14,21 @@ title: Edit the VE List in an ExamTools Session
 type: book  # Do not modify.
 ---
 
-## Add a VE to an Exam Session:
+## Add a Volunteer Examiner (VE) to an Exam Session:
 
-You must be a owner or co-owner to add VEs to the session.  Add VEs to the manifest at any time until the exam is finalized.
+You must be a co-owner to add VEs to a session.  Add VEs to the manifest at any time until the exam is finalized.  
 
 * Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under **Assist with or Manage Exams**.
 
-* In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
+* In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**. Click the box next to *I accept the Privacy Policy...* and then [LOG IN].
 
 * **ExamTools (ET)** should open in the **[Session List](https://exam.tools/ve/sessions)**.
 
-To add a VE to an exam session, select an existing session from the **Session List**. 
+To add a VE to an exam session, select a session from the **Session List**. 
 
 By default, the Applicant tab is active.  Click on the Volunteer Examiner tab to the left of the active tab.  At the top of the VE page, located and click the button **+ ADD VES**.
+
+> **Required on a New Session Listing:**  If you see "You are not part of this session" on a gold alert ribbon when you first access the session listing, make sure to click the **JOIN** button from the Applicant Tab. Next, click on the Volunteer Examiner tab. If fail to join the session, you will see that the session has 0 VEs and a blue box with "No Volunteer Examiners have been added to the session". Return back to the gold ribbon on the Applicant Tab and click the **JOIN** button. Then, click on the Volunteer Examiner tab.  You must then change your permissions to co-owner in order to add the rest of your team.
 
 The **Add Volunteer Examiners** window should popup with a field in the upper right corner **VE call sign (enter to add)**.
 
@@ -46,8 +48,7 @@ to their existing account.
 You have three different levels of permissions which you can sign to
 VEs. Volunteer Examiner, VE Admin and Co-Owner are explained on the
 [VE Roles and Permissions in an ExamTools Session]({{<relref "../general/sessionRolesPermissions.md">}})
-page.  The Session Manager who created the session is the owner and
-can not be changed.
+page.  The team lead needs to have Co-Owner permissions to run the session.
 
 From the dropdown located on the right side of the VE's name, select the role at which you want the VE to participate in the session with.  The Volunteer Examiner setting by default will allow VEs to authorize and certify exams and under **MANAGE**, view applicant information.
 
