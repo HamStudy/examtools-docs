@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Create Session Locations in ExamTools
 summary: Information on naming locations, using GPS coordinates and entering foreign addresses.
-weight: 20
+weight: 22
 featured: false
 draft: false
 icon: book-reader
