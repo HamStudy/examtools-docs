@@ -16,14 +16,14 @@ type: book  # Do not modify.
 
 ## Intro:
 
-The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add everyone who is on your actual team to the ExamTools "team account".  Only Volunteer Examiners (VEs) with team lead permissions from their VEC will be able to create a team in ExamTools.  If you are a GLAARG session manager, W5YI CVE or a SANDARC team lead, your VEC will update ExamTools automatically. If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org. 
+The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add every Volunteer Examiner (VE) who may attended attend an exam to the ExamTools "team account".  Only VEs with team lead permissions from their VEC will be able to create a team in ExamTools.  If you are a GLAARG session manager, W5YI CVE or a SANDARC team lead, your VEC will update ExamTools automatically. If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org. 
 
 ## Create a New Team Account:
 
 - Click on **Team Accounts** on the left navigation in Exam Tools.
 - Click on **+ New Team Account** in the middle upper area below the ExamTools page header.
 - **New Team Account** window should pop-up with four fields for you to define.
-- **Team Identifier**  (Team ID) - A team is identified on the schedule by a "team identifier" which starts with a letter, is 3-10 characters long, and can contain letters, numbers, and hyphens.  Any single word, call sign or acronym can be used to uniquely identify the team. ex. UVARC, NT3ST-R, etc.  Enter the call sign of the session manager, if you are not planning on having a team ID.
+- **Team Identifier**  (Team ID) - A team is identified on the schedule by a "team identifier" which starts with a letter, is 3-10 characters long, and can contain letters, numbers, and hyphens.  Any single word, call sign or acronym can be used to uniquely identify the team. ex. SDHC, NT3ST-R, etc.  Enter the call sign of the session manager, if you are not planning on having a team ID.
 - **Team Name** - the team’s name or group associated with the team account
 - **Contact E-mail Address** - a valid email address associated with the administrator (owner) of the team
 - **VEC** (Which of your VEC credentials should this team be allowed to use to schedule exams?) - Select an available VEC from the drop-down menu.  The individual setting up the account will have the option of selecting from the VECs for which they are a session manager/team lead/liaison in ExamTools.  Select all that apply to this account. 
@@ -41,7 +41,7 @@ The primary purpose of a "team account" in ExamTools is to own exam sessions and
  
  ## Add, Edit, and Delete Administrators
  
- *  **Adminstrators:** - A list of those VEs who are part of your team management.  This list does not include everyone of your VEs, but rather those few who assist with the scheduling, coordinating and running of the sessions.
+ *  **Administrators:** - A list of those VEs who are part of your team management.  This list does not include every one of your VEs, but rather those few who assist with the scheduling, coordinating and running of the sessions.
  *  Click on the **+ INVITE** next to **Administrator:** to add administrators who will need to accept your invitation. 
  *  Use the **Edit** (pencil and paper icon) or **Delete** (trash can icon) to manage admins on the list.
  *  Click **Edit**, to **Change team admin permissions**.
