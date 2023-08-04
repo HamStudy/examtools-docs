@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 ## Intro:
 
-The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add everyone who is on your actual team to the ExamTools "team account".
+The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add everyone who is on your actual team to the ExamTools "team account".  Only Volunteer Examiners (VEs) with team lead permissions from their VEC will be able to create a team in ExamTools.  If you are a GLAARG session manager, W5YI CVE or a SANDARC team lead, your VEC will update ExamTools automatically. If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org. 
 
 ## Create a New Team Account:
 
@@ -47,8 +47,8 @@ The primary purpose of a "team account" in ExamTools is to own exam sessions and
  *  Click **Edit**, to **Change team admin permissions**.
  *  The team admin's *call sign and license class* will display along with the **Name:** which may use the Display Name from the VE's Profile, if entered.
  *  **Credentials:** - Displays how many VECs the admin is accredited with.
- *  **Permissions** (select from the drop down) - Choose from *Owner, Co-owner and Schedule*
- *  You can have one or more Owners who are co-equal -- this means that any of them can even remove the others from the team account. Because of this, most teams will want to just have a single Owner who is the primary person responsible and then add others as "co-owners". A co-owner can do anything an owner can except add or remove other owners or co-owners. Selecting schedule will allow that memeber to create and edit sessions for the team.
+ *  **Permissions** (select from the drop down) - Choose from *Owner, Co-owner, Schedule, Print Exams*
+ *  You can have one or more Owners who are co-equal -- this means that any of them can even remove the others from the team account. Because of this, most teams will want to just have a single Owner who is the primary person responsible and then add others as "co-owners". A co-owner can do anything an owner can except add or remove other owners or co-owners. Selecting schedule will allow that member to create and edit sessions for the team. Those VEs with the Print Exams permission can generate and print exams.
  *  Click **Cancel**, if you want to discard changes or **Save** when editing is complete.
  *  If you would like to return to the list of team accounts, click the **back arrow** in the upper left corner under **Manage Team Account**.
 
