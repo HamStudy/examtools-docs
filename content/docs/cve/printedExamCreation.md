@@ -14,12 +14,16 @@ title: Print and Grade Hard Copy Exams in ExamTools
 type: book  # Do not modify.
 ---
 
+## Required to Print Exams
+
+To generate and print exams in ExamTools, you must have team lead permissions or be a Volunteer Examiner (VE) on a team with Print Exam permissions. Some teams leads may need to contact their VEC to update their status. Make sure to check out the [New Team Lead Information]({{<relref "cveNewTeamLead.md">}}), if you do not see Answer Keys and Generate Exam in the left navigation of ExamTools.
+  
 ## Printing Exam Sheets for Manually Graded Exams
 
 Follow these instructions to print out randomly generated exams for use with a manual grading key
 
-* Log into [ExamTools](https://exam.tools) software using your user name and password
-* On the left hand navigation bar, click **Generate Exam**
+* Log into [ExamTools](https://exam.tools) using your user name and password
+* On the left navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
 * The default selection is **Manual Grading**, indicated by a grey highlight
@@ -40,8 +44,8 @@ Follow these instructions to print out randomly generated exams for use with a m
 
 Follow these instructions to print out randomly generated exams for use with a pre-determined (VEC) grading key
 
-* Log into [ExamTools](https://exam.tools) software using your user name and password
-* On the left hand navigation bar, click **Generate Exam**
+* Log into [ExamTools](https://exam.tools) using your user name and password
+* On the left navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
 * The default selection is **Manual Grading**, indicated by a grey highlight.  Click on **Pre-Determined Key**
@@ -87,5 +91,5 @@ Follow these instructions to print out randomly generated exams for scanning wit
 These supplemental resources are for use with generated exams
 
 * ***Bubble forms*** for GradeCam (camera-based) scanning - these are blank fill-in-the-bubble forms to be used by candidates to answer questions on exams to be graded using GradeCam software
-* ***Figures*** which go with exams - These are the labeled figures to be provided to candidates taking generated exams.  The figures are not printed in the exam booklet
+* ***Figures*** which go with exams - These are the labeled figures to be provided to candidates taking generated exams.  Update: The figures are now printed in the exam booklet. 
 ![Supplemental Resources](../images/supplementalResources.png)
