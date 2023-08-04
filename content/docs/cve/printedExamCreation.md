@@ -91,5 +91,5 @@ Follow these instructions to print out randomly generated exams for scanning wit
 These supplemental resources are for use with generated exams
 
 * ***Bubble forms*** for GradeCam (camera-based) scanning - these are blank fill-in-the-bubble forms to be used by candidates to answer questions on exams to be graded using GradeCam software
-* ***Figures*** which go with exams - These are the labeled figures to be provided to candidates taking generated exams.  Update: The figures are now printed in the exam booklet. 
+* ***Figures*** which go with exams - These are the labeled figures to be provided to candidates taking generated exams.  Update: The figures are now included with the question referencing it in the printed exam booklet. 
 ![Supplemental Resources](../images/supplementalResources.png)
