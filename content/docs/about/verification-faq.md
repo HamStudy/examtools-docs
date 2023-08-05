@@ -12,9 +12,9 @@ title: Call Sign Verification FAQ
 type: book  # Do not modify.
 ---
 
-## Up-coming requirement (last updated Feb 2022):
+## Verification requirement:
 
-Starting later this year (2022) all Volunteer Examiners will be required to verify their call sign. Hopefully
+In late 2022, all Volunteer Examiners were required to verify their call sign. Hopefully,
 we can resolve your questions about the process here.
 
 ## Basic process
@@ -23,7 +23,7 @@ The basic process to verify your call sign is to upload the PDF of your official
 the [ULS License Manager](https://wireless2.fcc.gov/UlsEntry/licManager/login.jsp). This is seen as proof that you own (or at least have a large amount of control of) that
 call sign. You also sign a legally binding form when you submit it indicating that you really are
 the owner of that call sign. While it's unlikely it would ever have to go to court, falsifying that form
-would legally constitute Forgery.
+would legally constitute forgery.
 
 ### Q: Why do I need to verify my call sign?
 
@@ -38,9 +38,8 @@ KD7BBC can be accredited as a Volunteer Examiner -- the intent of this process i
 the person who created an account and indicated that their call sign is "KD7BBC" really does own
 that call sign.
 
-Of course, once your call sign is verified on your user account the software can automatically link
-any credentials for that call sign which the VEC may tell us about to your account and make them
-available to you to use, so it simplifies a lot there as well.
+Of course, once the call sign associated with your ExamTools user account is verified, the software automatically links any VEC credentials (including Team Lead permissions for some) and makes them available to you to use.  For most, the VEC data synced with ExamTools controls the addition or removal of accreditations which greatly simplifies the process.
+
 
 ### Q: I have a paper copy of my license, why can't I just scan it?
 
@@ -86,14 +85,12 @@ If with all of that you are still not willing to do it then that is your choice;
 
 ### Q: When will verification become required?
 
-A: Team leads will be required to verify their accounts much sooner than regular VEs. Relatively soon
-that will be required, but not long after that we'll go into a phase where all new accounts will be
-required to verify their call sign to be activated and others are nagged incessantly. We'll crank the
+A: Team leads were first required to verify their accounts much sooner than regular VEs. As of August 2023, we are still in a phase where all new accounts are required to verify their call sign to be activated and others are nagged incessantly. We'll crank the
 nagging up until most have done it and then warn anyone who still hasn't done it by email with specific
 deadlines before we shut anything off.
 
-The rough expectation is that the final "requirement" will not be enforced until at least July 2022,
-perhaps later -- it will depend on how things go.
+The rough expectation is that the final "requirement" will not be enforced until <!--at least July 2022,
+perhaps -->later -- it will depend on how things go.
 
 
 ## Still have questions?
