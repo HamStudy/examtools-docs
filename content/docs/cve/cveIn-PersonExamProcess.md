@@ -33,7 +33,7 @@ For more complete instructions, please contact your VEC for documentation and gu
 - In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 ![Add Applicant Icon](../images/addApplicant.png)
   
-A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register. An email address is strongly suggested and is required by FCC. If an email is not provided, the applicant will need to log in to obtain a copy of their license.
+A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register on ExamTools. The FCC requires an email address which will used to contact the applicants about their license application.  The applicant may need to log in to pay (within ten calendar days) or obtain a copy of their license, if they do not receive an email from the FCC.
 
 Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring identification.
 
