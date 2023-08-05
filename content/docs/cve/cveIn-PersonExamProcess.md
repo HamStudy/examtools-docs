@@ -33,15 +33,15 @@ For more complete instructions, please contact your VEC for documentation and gu
 - In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 ![Add Applicant Icon](../images/addApplicant.png)
   
-A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register on ExamTools. The FCC requires an email address which will used to contact the applicants about their license application.  The applicant may need to log in to pay (within ten calendar days) or obtain a copy of their license, if they do not receive an email from the FCC.
+A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register on ExamTools. The FCC requires an email address which will used to contact the applicants about their license application.  The applicant may need to log in to CORES to pay (within ten calendar days) or License Manager obtain a copy of their license, if they do not receive emails from the FCC.
 
 Since ExamTools registers the applicant electronically, the 605 may not be required for in-person, but the applicant still will need to bring identification.
 
 ## Paper or Device?
 
-- Paper exam booklets, figure sheets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
+- Paper exam booklets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
 - Paper and grading templates provided to stocked teams may be used with ExamTools.  Check with your VEC to see to what the procedure is for accepting ExamTools exports for these types of sessions.  Supplemental files (i.e answer sheets) may be required.
-- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC.
+- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs, team or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC.
 - Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
 ## Check in Applicants:
@@ -55,27 +55,27 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 
 ## Start Exam:
 
-- SM should click the **Start Session** button located in the upper right corner of the session.  Only the owner and co-owners can see it.
+- SM should click the **Start Session** button located in the upper right corner of the session.  Only the co-owners can see it.
 
 ## To Test with Paper: 
 
-Provide each applicant with an exam, a figure sheet, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the front and back of the answer sheet for scratch paper given they do not write in the box or backside of the box or the team can provide the applicant with a blank sheet.
+Provide each applicant with an exam, a bubble answer sheet, pencil/pen and calculator, if needed. The applicant may choose to use the front and back of the answer sheet for scratch paper given they do not write in the box or backside of the box or the team can provide the applicant with a blank sheet.
 
-IMPORTANT NOTE: Answer sheets should be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles. A new 35/50 question combo form is now available for download along with all supplemental resources (answer sheets and figures) in ExamTools under Generate Exam.
+IMPORTANT NOTE: Answer sheets can be prefilled with the exam's Test ID number and the Applicant Pin.  The answer sheet for the Tech and General are the same with 35 bubbles, but the Extra answer sheet has 50 bubbles. A new 35/50 question combo form is now available for download along with all supplemental resources in ExamTools under Generate Exam.
 
 A VE may seat the applicant and give instructions on what to do when they have completed their exam.
 
-Suggestion: Provide each applicant with an instruction or exam cover sheet to provide directions for the exam and what to do to have the exam scored.
+Suggestion: Provide each applicant with an instruction or exam cover sheet to provide directions for the exam and what to do to have the exam scored. 
 
 ## To Test with a Device: 
 
 Provide each applicant with a sheet of blank paper, a pencil/pen and calculator, if needed. Inspect the device as you would for remote testing. The applicant needs only a web browser open and should be instructed to remain on that page only. Settings, profiles, and/or apps (i.e. Fully Kiosk) maybe used to secure VE team owned devices.
 
-The applicant should go to [https://exam.tools](https://exam.tools/) and join the session with the SM call sign and the applicant pin. A VE will need to authorize at points during the exam as they would during a remote exam.
+The applicant should go to [https://exam.tools](https://exam.tools/) and join the session with the team identifier and the applicant pin. A VE will need to authorize at points during the exam as they would during a remote exam.
 
 ## During Exam:
 
-For both paper and device testing, VEs should be assigned to monitor the applicants. Walk around behind the applicants with devices, make sure that they stay on the exam page and provide assistance when needed. VEs will need to assign themselves or a VE Admin or higher can assign Certifying VEs to each applicant.
+For both paper and device testing, VEs should be assigned to monitor the applicants. Walk around behind the applicants with devices, make sure that they stay on the exam page and provide assistance when needed. VEs will need to assign themselves or a VE Admin or higher can assign Certifying VEs to each applicant.  This can be done during or after the exam is graded as ExamTools is flexible on when the VEs are assigned.  Defer to the team lead's instructions.
 
 The team should determine how they want the applicants to signal when they are done with the exam. For an exam taken on a device, the applicant can hit the grade exam button. For those who are using paper, they may need to raise their hand or bring their exam and materials to a specific table to be graded. All materials, pencil and calculators should be collected from the applicants.
 
@@ -104,24 +104,24 @@ All applicants should be able to sign in or remain signed in using their own dev
 
 ## Official Certificate of Successful Completion:
 
-Once the applicant and three Certifying VEs have all signed, the SM or a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. Only the owner and co-owners have the ability to mark applicants complete, but any VE may send the CSCE.  The Mark Complete button displays to owners and co-owners in the expanded view of the applicant.  All three VEs must sign before the Mark Complete button becomes active.  Once the applicant has been marked complete, they will drop to the bottom of the applicant list. A VE can then click on the up arrow displaying just to the right of the applicant's pin to send the CSCE.
+Once the applicant and three Certifying VEs have all signed, a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. Only the co-owners have the ability to mark applicants complete, but any VE may send the CSCE.  The Mark Complete button displays to co-owners in the expanded view of the applicant.  All three VEs must sign before the Mark Complete button becomes active.  Once the applicant has been marked complete, they will drop to the bottom of the applicant list. A VE can then click on the up arrow displaying just to the right of the applicant's pin to send the CSCE.
 
 ## Applicants Who Did Not Pass:
 
-Will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. Common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED most all teams do not sign. Check with your VEC for direction.
+Will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. One common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED most all teams do not sign and some do not even keep VEs assigned for failed applicants. Check with your VEC for direction.
 
 ## Closing the Session:
 
 * The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then, clicks **Finalize Session**.
-* Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc).
+* Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc). A few VECs have an upload portal to submit the session documents and do not require the materials to be mailed back.
 
 ## VEC Upload, Licenses and Upgrades:
 
-Once the VEC has uploaded the batch file from the session, the FCC will start the process of reviewing the applications and issuing call signs. Once this happens, the applicant should receive an email from ExamTools and the FCC, if everything goes well with the EBF upload. The email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link, maybe rename it something other than what it is called (just a long string of numbers starting with their FRN) and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.
+Once the VEC has uploaded the batch file from the session, the FCC will start the process of reviewing the applications, sending out emails with information to pay and issuing call signs. Once this happens, the applicant should receive an email from ExamTools and the FCC, if everything goes well with the EBF upload. Once an applicant has paid or for upgrades, the email from the FCC comes overnight with a link to the official license. The applicant should download the license from the link and save it in a place where they can find it again. They may choose to print out a copy and keep it with their radio.  If they do not get an email, they will need to go to the License Manager and download a copy.
 
 Those who upgraded can use their existing call sign appended with /AG (General) or /AE (Extra) to immediately start using their new privileges. Those who do not have a license will need to wait until their call sign appears in the ULS. Occasionally, applicants need to wait an additional day or two while their application is in review.
 
-The FCC issues call signs Monday through Friday. Weekend and holiday uploads are not processed until the next business day.
+The FCC issues call signs Tuesday through Saturday in the early morning. Weekend and holiday uploads are not processed until the next business day.
 
 ## Flow of Applicants through Exam Site:
 
@@ -138,10 +138,10 @@ Tables should be set up to allow a logical flow through each station. This is an
 
 ## Applicant Email Address:
 
-All applicants are encouraged to provide an email address on all applications. When an email is provided, the licensees will receive an electronic issuance of an official copy of their licenses upon application grant. Certain email preferences and email services may potentially block or filter incoming email attachments. Applicants should set their email preferences to allow incoming email from authorizations@fcc.gov before their applications are submitted.
+All applicants are required to provide an email address on all applications. The licensees will receive an electronic issuance of an official copy of their licenses upon application grant. Certain email preferences and email services may potentially block or filter incoming email attachments. Applicants should set their email preferences to allow incoming email from authorizations@fcc.gov before their applications are submitted.
 
-If no email address is provided, the licensees will need to login to ULS and download their authorizations, as no paper copies are distributed. The instructions for downloading an authorization can be found at: [https://www.fcc.gov/support/universal-licensing-system-uls-resources/how-obtain-official-authorizations-uls](https://www.fcc.gov/support/universal-licensing-system-uls-resources/how-obtain-official-authorizations-uls). Email questions about this process to [ulsebf@fcc.gov](mailto:ulsebf@fcc.gov).
+If no email notification is received, the licensees will need to login to ULS and download their authorizations, as no paper copies are distributed. The instructions for downloading an authorization can be found at: [https://www.fcc.gov/support/universal-licensing-system-uls-resources/how-obtain-official-authorizations-uls](https://www.fcc.gov/support/universal-licensing-system-uls-resources/how-obtain-official-authorizations-uls). Email questions about this process to [ulsebf@fcc.gov](mailto:ulsebf@fcc.gov).
 
 ## Basic Qualification Question:
 
-If an applicant answers Yes to this question not only should the SM confirm that the answer is correct, but make it clear that there are additional steps to their application with the FCC. Providing the application file number and the instructions on the back of the 605 may be needed. This may be the first time the applicant has applied for an amateur radio license and may need a little extra explanation.  ExamTools does provide instructions when the applicants register, but the information is currently **not** included with the session information notification email when they register.
+If an applicant answers Yes to this question not only should the SM confirm that the answer is correct, but also make it clear that there are additional steps to their application with the FCC. Providing the application file number and the instructions on the back of the 605 may be needed. This may be the first time the applicant has applied for an amateur radio license and may need a little extra explanation.  ExamTools does provide instructions when the applicants register, but the information is currently **not** included with the session information notification email when they register.
