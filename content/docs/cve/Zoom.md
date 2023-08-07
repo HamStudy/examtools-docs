@@ -15,14 +15,14 @@ type: book  # Do not modify.
 
 ## Overview of Using Zoom
 
-[Zoom](https://zoom.us) is by far the most popular tool used for running online ExamTools sessions. It has a lot of features and
+[Zoom](https://zoom.us) is by far the most popular tool used for running online ExamTools sessions. It has many features and
 can be quite daunting to set up and use properly to run an exam session. There are two basic ways Zoom is used: single- and multi-room.
 Think of single-room sessions like small in-person VE exams with 4 or 5 VEs and a handful of candidates
-and multi-room sessions as what you might see at a large hamfest (do they still have those?).
+and multi-room sessions as what you might see at a large hamfest.
 
 ### Single-Room Zoom
 
-Many teams run small exam sessions of half-a-dozen VEs and candidates, dealing sequentially with one candidate at a time.
+Many teams run small exam sessions with a half-a-dozen VEs and candidates, dealing sequentially with one candidate at a time.
 This is the simplest way to use Zoom and is **highly recommended** for new teams to start out with. Even this _single-room_
 mode of operation has a lot of moving parts that you'll need to master in order to run a successful VE session.
 
@@ -30,7 +30,7 @@ This model of Zoom usage includes a main room that all VEs and the currently act
 candidates who are "on deck" for their exam.  All VE introductions, candidate pre-checking, running the test, etc. are done in the main
 room and the waiting room is a holding pen for candidates who are waiting their turn.
 
-The following is a good baseline setup which you may want to adjust as your team gets comfortable with Zoom and ExamTools.
+The following is a good baseline setup which you may want to adjust as your team becomes comfortable with Zoom and ExamTools.
 
 ### Multi-Room (Breakout Rooms) Zoom
 
@@ -168,7 +168,7 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
   
 ## Recording
 
-Not all VECs require recording, but if your VEC does, it is important that you've made sure that all the videos are visible in the gallery view.  If your team requires another view, makes sure to follow their instructions. Don't forget to pause or stop the recording when the applicant is done. The paused video recording will result in one mp4 file. If you stop and start recording, then you'll get multiple mp4 files. You can later upload the rendered recorded video to Google Drive (mp4's do not count against your storage quota) or your favorite cloud storage (i.e. Drop Box).  It is highly recommend that you work with an experience team to learn how to record for your VEC or at least ask for their documentation.  
+Not all VECs require recording, but if your VEC does, it is important that you've made sure that all the video feeds are visible in the gallery view.  If your team requires another view, makes sure to follow their instructions. Don't forget to pause or stop the recording when the applicant is done. The paused video recording will result in one mp4 file. If you stop and start recording, then you'll get multiple mp4 files. You can later upload the rendered recorded video to Google Drive (mp4's do not count against your storage quota) or your favorite cloud storage (i.e. Drop Box).  It is highly recommend that you work with an experience team to learn how to record for your VEC or at least ask for their documentation.  As of August 2023, ARRL, GLAARG and SANDARC do not record every session, but might if the VEs think there is a particular reason. Personal informatio like IDs and registration information should not be recorded. W5YI and Anchorage do record, but their requirements for recording are very different.
 
    ![Zoom Record to Computer](../images/zoom_record_to_computer.png)  
    
