@@ -21,7 +21,7 @@ and multi-room sessions as what you might see at a large hamfest.
 
 ## Single-Room Zoom
 
-Many teams run small exam sessions with a half-a-dozen VEs and applicants and sequentially test one applicants at a time.
+Many teams run small exam sessions with a half-a-dozen VEs and applicants and sequentially test one applicant at a time.
 This is the simplest way to use Zoom and is **highly recommended** for new teams to start out with. Even this _single-room_
 model has a lot of moving parts that you'll need to master in order to run a successful VE session.
 
