@@ -45,7 +45,7 @@ operator license." You'll just need to make sure to comply with your VEC's polic
 your recovery of the Zoom cost over several applicants and/or sessions.
 
 Your single Zoom Pro license only permits one meeting at a time. In practice this should be fine if you are the team lead. Only you need to
-pay for the Zoom Pro license Your VEs and candidates are guests and do not pay.
+pay for the Zoom Pro license. Your VEs and candidates are guests and do not pay.
 
 ## Establish a non-Zoom means of communicating among VEs
 
