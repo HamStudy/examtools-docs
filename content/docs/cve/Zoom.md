@@ -141,7 +141,7 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
 
  6. Make sure all your VEs have a good video presence and background -- either real or using a Zoom Virtual Background.
    We want our applicants to experience a friendly, positive, apolitical image of our VE team, our VEC, and the
-   Amateur Radio Service. VEs enter their Zoom display name to include their call sign (or you can do it for them). Let them try to change it themselves.  Many want to learn and don't really appreciate being moved around and being renamed them in Zoom.
+   Amateur Radio Service. VEs enter their Zoom display name to include their call sign (or you can do it for them). Let them try to change it themselves.  Many want to learn and don't really appreciate being moved around and being renamed in Zoom.
 
 7. Once all your VEs are present, admit your first applicant.
    Make sure to set Side-by-Side Gallery mode so you can see all the VE and applicant video angles.
