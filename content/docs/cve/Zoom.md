@@ -36,7 +36,7 @@ Some teams use a _multi-room_ approach, with dozens to hundreds of VEs and appli
 ## Get a Zoom Pro Account
 
 Zoom [pricing](https://zoom.us/pricing) varies from free to a couple of hundred dollars. A free Zoom account, limited
-to 40 minutes, is not recommended as you don't want rush or have your Zoom session end during an exam. 
+to 40 minutes, is not recommended as you don't want to rush or have your Zoom session end during an exam. 
 
 The recommended version, at least for smaller teams, is Zoom Pro. Zoom Pro meetings can have up to 100 participants and meetings
 are not time-limited. Per [FCC Rule §97.527](https://www.law.cornell.edu/cfr/text/47/97.527) use of Zoom to run your exam sessions
