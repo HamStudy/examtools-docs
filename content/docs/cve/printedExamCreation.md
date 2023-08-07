@@ -20,7 +20,7 @@ To generate and print exams in ExamTools, you must have team lead permissions or
   
 ## Printing Exam Sheets for Manually Graded Exams
 
-Follow these instructions to print out randomly generated exams for use with a manual grading key
+Follow these instructions to print out randomly generated exams for use with a manual grading key:
 
 * Log into [ExamTools](https://exam.tools) using your user name and password
 * On the left navigation bar, click **Generate Exam**
