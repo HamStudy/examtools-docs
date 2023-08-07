@@ -14,7 +14,7 @@ title: Edit the VE List in an ExamTools Session
 type: book  # Do not modify.
 ---
 
-## Add a Volunteer Examiner (VE) to an Exam Session:
+## Add a Volunteer Examiner (VE) to an Exam Session
 
 You must be a co-owner to add VEs to a session.  Add VEs to the manifest at any time until the exam is finalized.  
 
