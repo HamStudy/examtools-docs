@@ -14,7 +14,7 @@ title: Team Accounts for Session Management
 type: book  # Do not modify.
 ---
 
-## Intro:
+## Introduction
 
 The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add every Volunteer Examiner (VE) who may attended attend an exam to the ExamTools "team account".  Only VEs with team lead permissions from their VEC will be able to create a team in ExamTools.  If you are a GLAARG session manager, W5YI CVE or a SANDARC team lead, your VEC will update ExamTools automatically. If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org. 
 
