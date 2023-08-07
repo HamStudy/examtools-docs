@@ -26,7 +26,7 @@ Follow these instructions to print out randomly generated exams for use with a m
 * On the left navigation bar, click **Generate Exam**
 ![Generate Exams](../images/generateExams.png)
 
-* The default selection is **Manual Grading**, indicated by a grey highlight
+* The default selection is **Manual Grading**, indicated by a grey highlight.
 * Follow the option selections for the exams that you wish to generate
     * ***Text Size*** - Choose the size of your text printing.  Available selections are *Miniscule*, *Tiny*, *Small*, *Regular*, *Large*, *Huge*, or *Ridiculous*
     * ***Question Pool*** - Choose the question pool for which you wish to generate exams.  Available selections include current US Amateur Radio exams, several FCC Commercial Elements, and Canadian 2014 Basic and Advanced Qualifications in either English or French Canadian
