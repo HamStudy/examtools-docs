@@ -28,7 +28,7 @@ To add a VE to an exam session, select a session from the **Session List**.
 
 By default, the Applicant tab is active.  Click on the Volunteer Examiner tab to the left of the active tab.  At the top of the VE page, located and click the button **+ ADD VES**.
 
-> **Required on a New Session Listing:**  If you see "You are not part of this session" on a gold alert ribbon when you first access the session listing, make sure to click the **JOIN** button from the Applicant Tab. Next, click on the Volunteer Examiner tab. If fail to join the session, you will see that the session has 0 VEs and a blue box with "No Volunteer Examiners have been added to the session". Return back to the gold ribbon on the Applicant Tab and click the **JOIN** button. Then, click on the Volunteer Examiner tab.  You must then change your permissions to co-owner in order to add the rest of your team.
+**Required on a New Session Listing:**  If you see "You are not part of this session" on a gold alert ribbon when you first access the session listing, make sure to click the **JOIN** button from the Applicant Tab. Next, click on the Volunteer Examiner tab. If fail to join the session, you will see that the session has 0 VEs and a blue box with "No Volunteer Examiners have been added to the session". Return back to the gold ribbon on the Applicant Tab and click the **JOIN** button. Then, click on the Volunteer Examiner tab.  You must then change your permissions to co-owner in order to add the rest of your team.
 
 The **Add Volunteer Examiners** window should popup with a field in the upper right corner **VE call sign (enter to add)**.
 
