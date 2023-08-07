@@ -158,7 +158,7 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
    have the applicant click on `... More` near the bottom right and then `Disconnect Audio`.
    See [screenshots](#zoom-second-device-audio-feedback), below.
 
-10. Before you approve the applicant to start their exam, have all the VEs mute their audio and either turn off their video or leave it on depending on your team. The applicant's audio and video should always be kept on.  The applicant should be in view at all times.  If they drift out view, the lead should ask the applicant to adjust their camera. Generally, all VEs should be visible and videos should all come back on before exam is graded. 
+10. Before you approve the applicant to start their exam, have all the VEs mute their audio and either turn off their video or leave it on depending on your team. The applicant's audio and video should always be kept on.  The applicant should be in view at all times.  If they drift out of view, the lead should ask the applicant to adjust their camera. Generally, all VEs should be visible and videos should all come back on before exam is graded. 
 
  ## Breakout Rooms
 
