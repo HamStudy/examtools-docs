@@ -137,7 +137,7 @@ In [Personal/Meetings](https://zoom.us/meeting) settings click [Schedule a Meeti
 4. One-by-one admit your VEs from the Waiting Room. Be aware that the waiting room only displays a small number of names. You may have to scroll up and down.
 
 5. Designate one or two as co-hosts by clicking on their name and selecting the Make Co-Host option.
-   Think of a co-host as Alternate NCS in case your Zoom session fails.  You can alternative make all of the VEs or just room leads Co-Hosts.  If a VE is not a co-host, you will need to move them.  Otherwise, as a co-host, they can move themselves
+   Think of a co-host as Alternate NCS in case your Zoom session fails.  You can alternatively make all of the VEs or just room leads Co-Hosts.  If a VE is not a co-host, you will need to move them.  Otherwise, as a co-host, they can move themselves
 
  6. Make sure all your VEs have a good video presence and background -- either real or using a Zoom Virtual Background.
    We want our applicants to experience a friendly, positive, apolitical image of our VE team, our VEC, and the
