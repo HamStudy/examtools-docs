@@ -18,7 +18,7 @@ type: book  # Do not modify.
 
 The primary purpose of a "team account" in ExamTools is to own exam sessions and schedules. It's purely an administrative entity. Team accounts can have a name, contact email, and website. There is no need to add every Volunteer Examiner (VE) who may attended attend an exam to the ExamTools "team account".  Only VEs with team lead permissions from their VEC will be able to create a team in ExamTools.  If you are a GLAARG session manager, W5YI CVE or a SANDARC team lead, your VEC will update ExamTools automatically. If you are an ARRL team lead, please send the emailed confirmation of your approval from Maria Somma ARRL-VEC to verifications@examtools.org. 
 
-## Create a New Team Account:
+## Create a New Team Account
 
 - Click on **Team Accounts** on the left navigation in Exam Tools.
 - Click on **+ New Team Account** in the middle upper area below the ExamTools page header.
