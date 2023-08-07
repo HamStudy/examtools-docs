@@ -27,7 +27,7 @@ model has a lot of moving parts that you'll need to master in order to run a suc
 
 In this model, the VEs use the main room to administer the exam.  All VE introductions, applicant pre-checking, testing process, etc. are done in the main room while the waiting room serves as a holding pen for applicants.
 
-The single room model is a good starting point. As your team becomes comfortable with Zoom and ExamTools, you will want to explore the use of breakout rooms which will allow you at least the use of an additional room for testing, if you want to keep it separate from main.  
+The single room model is a good starting point. As your team becomes comfortable with Zoom and ExamTools, you may want to explore the use of breakout rooms which will allow you at least the use of an additional room for testing, if you want to keep it separate from main.  
 
 ## Multi-Room (Breakout Rooms) Zoom
 
