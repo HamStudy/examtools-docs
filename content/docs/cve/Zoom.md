@@ -213,7 +213,7 @@ near the bottom right and then `Disconnect Audio`.
 ![Zoom iOS Disconnect Audio](../images/zoom_ios_disconnect_audio.png)
 
 ## Recording with Zoom
-
+The ARRL/VEC and others have asked that we not record candidate sessions. If you choose to record, be certain to *never record personally-identifiable information (PII)* such as photo ID and only record if the applicant has given explicit permission to do so.
 If you need to record, you have the option of pausing or stopping the video. The paused video recording will result in one mp4 file. If you stop and start recording, then you'll get multiple mp4 files. 
 
    ![Zoom Record to Computer](../images/zoom_record_to_computer.png)  
