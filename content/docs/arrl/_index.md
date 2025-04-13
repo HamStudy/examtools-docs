@@ -15,19 +15,16 @@ icon_pack: fas
 
 ![ARRL The National Association for Amateur Radio](images/logo.jpg)
 
-## Can a Volunteer Examiner (VE) join existing teams using ExamTools for remote testing?
+## Can a Volunteer Examiner (VE) join existing teams using ExamTools?
 
 Yes. Go into the `#arrl` channel in Discord and volunteer. Several team
 leads monitor the channel and will get in touch, especially if they
 are short-handed.
 
-## I am already an ExamTools VE with another VEC. How do I get added as an ARRL VE?
+## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
 
 First, make sure you are accredited with ARRL VEC. If you are not, then go to http://www.arrl.org/become-an-arrl-ve to sign up.
-Once you are listed at http://www.arrl.org/ve-session-counts and ExamTools has synced and updated your profile, your team lead will be able to add you to their ExamTools session once 
-  View your accrediations in ExamTools under your Profile found in the upper left corner when logged into ExamTools.
-
-
+Once you are listed at http://www.arrl.org/ve-session-counts, ExamTools will synced and updated your profile. Then, your team lead will be able to add you to their ExamTools session. View your accrediations in ExamTools under your Profile found in the upper left corner when logged into ExamTools.
 
 ## Is there a checklist of what my VE team needs to do?
 
@@ -37,7 +34,7 @@ for some ideas. As with in-person sessions, there's always room for customizing 
 
 ## Is there a procedure for verifying that ARRL is good with us doing online exams?
 Receipt of instructions via email from Maria is the approval for ExamTools and video sessions.
-You must apply for permission by contacting the VEC but be aware of these requirements before you apply:
+You must apply for permission by contacting the VEC, but be aware of these requirements before you apply:
 
 _ARRL VE teams must meet the following criteria and adhere to the
 following rules/policies to participate in the Video sessions
@@ -54,19 +51,12 @@ the upload instructions from a trained team, that would be acceptable.
 Make sure you, the CVE (VE Team Liaison), do the following:
 * Follow the instructions in Maria's email.
 * Sign up for the VE Discord chat here: https://discord.gg/CsKrBmA
-* Upgrade your VE Discord membership by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfx_3ZzX_Yc0ABnRlnTShIXIMeigeFSLzUEN20bOjGnIUhOAA/viewform).
-  * To answer this question: "Please provide a link to some form of evidence to verify your VE credentials:"
-    put in the link to the ARRL VE Counts page for your state.
-    For example: http://www.arrl.org/ve-session-counts?state=CA
-    (If your call sign is not on the page for your state, you will need to resolve your VE accreditation
-    with the VEC.)
 * Read through exam.tools [CVE documentation]({{< relref "../cve/" >}}), if you have questions you can ask them in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
   team members. DO NOT use a Facebook or Google login: Make a "real" user.
   There's more info in [getting an exam.tools and sandbox account]({{< relref "../ve/getexamtoolsaccount/" >}})
-* Volunteer in the Discord `#arrl` channel to help out with another team's ARRL/VEC session so you get
+* Volunteer in the Discord `#arrl` channel to help out with another team's ARRL VEC session so you get
   to see the real system in action.
-* Once ready, you and all your VEs must register for tier 2 production via [this form](https://forms.gle/cD9fTqv5ognik6XC9).
 * Forward your approval email from the ARRL/VEC to verifications@examtools.org
   making sure to note your call sign, username and email address.
   This will result in your Examtools membership being upgraded from VE to CVE (liaison).
