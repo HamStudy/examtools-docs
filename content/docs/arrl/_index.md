@@ -15,7 +15,7 @@ icon_pack: fas
 
 ![ARRL The National Association for Amateur Radio](images/logo.jpg)
 
-## Can a VE volunteer join existing teams performing remote exams?
+## Can a Volunteer Examiner (VE) join existing teams using ExamTools for remote testing?
 
 Yes. Go into the `#arrl` channel in Discord and volunteer. Several team
 leads monitor the channel and will get in touch, especially if they
@@ -23,17 +23,9 @@ are short-handed.
 
 ## I am already an ExamTools VE with another VEC. How do I get added as an ARRL VE?
 
-First, make sure you are accredited with the ARRL/VEC and confirm that
-you are listed at http://www.arrl.org/ve-session-counts for your
-state. Once you’ve done that, copy the web URL for that session counts 
-page, you will need to paste that into the form in the next step.  
-
-Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLScoAQdcplRzCg-4TRPbhRTzMoskHpeKvk4hiaRk1MIYFQWJ_Q/viewform) and fill out and submit the form to notify @Experienced Support 
-of the additional VEC accreditation.  When filling out the form, you can 
-simply write “Adding VE Credentials” in the field for the Request ID.  
-
-Your team lead will be able to add you to their Exam Tools session once 
-@Experienced Support has received the file and updated your profile.
+First, make sure you are accredited with ARRL VEC. If you are not, then go to http://www.arrl.org/become-an-arrl-ve to sign up.
+Once you are listed at http://www.arrl.org/ve-session-counts and ExamTools has synced and updated your profile, your team lead will be able to add you to their ExamTools session once 
+  View your accrediations in ExamTools under your Profile found in the upper left corner when logged into ExamTools.
 
 
 
