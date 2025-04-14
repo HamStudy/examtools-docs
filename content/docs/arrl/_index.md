@@ -26,19 +26,17 @@ are short-handed.
 First, make sure you are accredited with ARRL VEC. If you are not, then go to http://www.arrl.org/become-an-arrl-ve to sign up.
 Once you are listed at http://www.arrl.org/ve-session-counts, ExamTools will synced and updated your profile. Then, your team lead will be able to add you to their ExamTools session. View your accrediations in ExamTools under your Profile found in the upper left corner when logged into ExamTools.
 
-## Is there a checklist of what my VE team needs to do to get set up with ExamTools?
+## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
 * Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an offical copy of their current license.
 * Decide on a video-platform for team training (and remote testing, if you'll be offering it).
+* Familiar your team with ExamTools by training in the sandbox (requires another account on the dev server) and visiting remote teams.
 * Create a Team Account in ExamTools.
 * Create a sessions for your exam.
-* Wait for applicants to register.
-* Send reminders to pay and confirm payments. You might need to set up a method of payment. Or you can accept cash the day of for in-person exams.
+* Set up a method of payment. Or you can accept cash the day of for in-person exams.
 * Print exams and answer sheets, if doing in-person.
 * Purchase or borrow tablets or computers for in-person electronic exams.
-* Familiar your team with ExamTools by training in the sandbox and visiting remote teams.
-  
-* As with in-person sessions, there's always room for customizing how your particular team operates.
+ 
 
 ## Is there a procedure for verifying that ARRL is good with us doing online exams?
 Receipt of instructions via email from Maria is the approval for ExamTools and video sessions.
