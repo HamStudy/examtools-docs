@@ -69,19 +69,17 @@ collecting payments and keeping track of who has paid – preferably
 before or during the exam session – and sending payment to the VEC as
 appropriate.
 
-Many teams send email to registered candidates to request payment and
-other details as needed (e.g. how many elements they intend to take)
-and typically use online personal payment processors like Venmo,
-PayPal, Zelle, Apple Pay, Google Pay, etc. or even have candidates
+Many teams use the registration confirmation email "Note to applicant" field found in the session listing to including additional info in the email which ExamTools sends (i.e.payment information, Zoom meeting details and
+other exam details) or may send a separate email with this information. Teams typically use online personal payment processors like Venmo,
+PayPal, Square, Zelle, Apple Pay, Google Pay, etc. or even have candidates
 mail them personal checks! You can get the candidate's email address
 from the MANAGE dropdown `Edit Applicant` on the candidate in your session.
-
 
 ## Can I get reimbursed for expenses like Zoom Pro and PayPal transaction fees?
 
 Yes. Simply keep records of your "necessary and prudent" expenses
-required to run the exam session and submit for reimbursement,
-remembering the [limit](http://www.arrl.org/arrl-vec-exam-fees)
+required to run the exam session and retain up to $7 per applicant. You may keep all of the $5 from a youth exam.
+Remember the [limit](http://www.arrl.org/arrl-vec-exam-fees)
 of up to \$7 per candidate. For a monthly fee
 like that of Zoom Pro, prorate it over several exam sessions if the
 expense exceeds the per candidate limit for a single session. See
@@ -92,10 +90,8 @@ complete rules and record-keeping requirements.
 ## What if a registered candidate fails to pay the fee?
 
 It is entirely possible that some candidates will register for a
-session and not respond to the email that you sent requesting
-payment. It's unclear if this is due to your mail going into their
-spam folder or they are just plain rude. You can cancel their
-registration by deleting them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
+session, not pay and not respond to your attempts to contact them. The registration email could have gonew to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
+registration, remove them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
 someone else.
 
 ## What happens when a prepaid candidate cancels or doesn't show up?
@@ -121,7 +117,13 @@ rules and record-keeping requirements for retained fees.
 
 ## How do I send the exam fees to the VEC?
 
-When sending/mailing the exam fees checks, we ask that teams please
+The team has three choices: Call and pay with Credit Card per session, keep a credit card on file or mail a check.
+
+The VE team may keep a credit card on file with the VEC department to pay for the exam session fees. Contact
+the VEC to make arrangements. Do not email your credit card
+information.
+
+When sending/mailing the exam fees checks, teams should please
 include the test date and location and the VE team leader’s name, call
 sign, and contact information for reference so we can match it to the
 session.
@@ -134,12 +136,7 @@ ARRL/VEC
 NEWINGTON CT 06111-9825
 ```
 
-Instead of mailing a check(s), the VE team may keep a credit card on
-file with the VEC department to pay for the exam session fees. Contact
-the VEC to make arrangements. Do not email your credit card
-information.
-
-## Can I charge more (or less) than the \$15 ARRL/VEC fee?
+## Can I charge more (or less) than the \$15 ARRL VEC fee?
 
 No.
 
@@ -184,26 +181,15 @@ No. See above.
 ## How should I prepare my session to upload to the VEC?
 
 Once you receive the confidential uploading documentation, you will
-need to upload two files. Do this once by selecting the two from your
-browser's upload dialog: Build a single PDF file that contains the
-entire session. See this [this example checklist]({{< relref "checklist.md" >}}) used by the Columbia
-University ARC VE Team that seems to be acceptable (and might be
-overkill).
-
-Export your exam session JSON document and upload that as
-well. This document will eventually help the VEC automate a bunch of
-currently manual data entry.  See the following screenshots for an
-example:
+need to upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any Youth Grant Reinbursement Forms, CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC Archive.  Leave the VEC Archive zipped. You should not submit the ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
+ The following is a screen shot of the upload page:
 
 ![ARRL/VEC Upload](./images/upload.png)
-
-![ARRL/VEC Upload](./images/upload-finder.png)
 
 
 ## Can EBF files be uploaded to ARRL/VEC?
 
-Instead of an EBF file, you should upload the exported session JSON
-file along with the session report PDF. As described above.
+Instead of an EBF file, the VEC uses the JSON file which is already included in the VEC ARCHIVE. As described above.
 
 ## Do we still have to provide FCC license copies in the uploaded package? CSCEs?
 
@@ -225,16 +211,13 @@ You will enter the credit(s) using the exam.tools MANAGE dropdown `Add Credit` f
 
 After the 3 VEs assigned to the candidate have signed and the candidate is marked complete, exam.tools generates the proper forms reflecting these credits.
 
-You will need to do "PDF splicing" to add the proof documents for the candidate to the session PDF submitted to the VEC.
-
+You will submit the proof documents for the candidate together with the VEC ARCHIVE at the end of the session.
 
 ## What do we sign when a candidate fails? How do we prove the failed exam happened?
 
-There is nothing to sign. Proof of failure is that Print Session
-Forms/Final Forms contains the candidate roster showing failed
-element(s) and the candidate's answer sheet showing a failing
-score. Your ARRL Test Session report also has a place to count
-candidates who did not earn a new license or upgrade.
+There is nothing to sign. Proof of failure is that Final Forms contains the candidate roster showing failed
+element(s) and the candidate's results sheet showing a failing
+score. 
 
 In traditional in-person exams, the candidate usually fills out the
 605 in advance of the exam in order to streamline the process at the
@@ -256,12 +239,6 @@ the point of candidate registration in Hamstudy.org
 [97.17(b)(1): "...The VEs may collect all necessary information
 in any manner of their choosing, including creating their own forms."]
 
-If you want to return an unsigned 605 with NO NEW LICENSE OR UPGRADE
-WAS EARNED box checked in the VEC package, use Print Session Forms/All
-Forms. But the 605 will not be signed by the candidate or VEs and the
-session manifest is not included, so you'll have to do some "PDF
-splicing".
-
 ## Can answers be provided to candidates?
 
 Yes for randomly-generated exams like ExamTools prepares but not for
@@ -270,7 +247,7 @@ online exam setting we can be more flexible because all exams are
 randomly generated and examinees wouldn’t be retested with the exact
 same question set.
 
-Moving forward, ARRL will allow candidates to be given their answer
+Moving forward, ARRL will allow candidates to be given their results
 sheets for randomly generated tests, if the team chooses. This would
 apply to online as well as in-person sessions when randomly generated
 examinations are used.
