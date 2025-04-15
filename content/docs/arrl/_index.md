@@ -33,6 +33,7 @@ Once you are listed at http://www.arrl.org/ve-session-counts, ExamTools will syn
 * Familiar your team with ExamTools by training in the sandbox (requires another account on the dev server) and visiting remote teams.
 * Create a Team Account in ExamTools.
 * Create a sessions for your exam.
+* Review the Volunteer Examineer information on the ARRL website. http://www.arrl.org/volunteer-examiners
 * Set up a method of payment. Or you can accept cash the day of for in-person exams.
 * Print exams and answer sheets, if doing in-person.
 * Purchase or borrow tablets or computers for in-person electronic exams.
