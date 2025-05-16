@@ -4,15 +4,15 @@
 title: CUARC VEC Session Checklist
 linktitle: Sample ARRL VE Session Checklist
 type: book
-lastmod: 2023-03-28T16:38:00
+lastmod: 2025-05-16T17:05:00
 featured: false
 draft: false
 weight: 5
 
 ---
-_The following was the Columbia University ARC VE Team Checklist as of June 18, 2020.
+_The following was the Columbia University ARC VE Team Checklist as of May 16, 2025.
 The team has since implemented some automation scripts. Some updates have been made here
-to reflect changed practices since June. Use this just to get an idea of the manual effort required._
+to reflect changed practices. Use this just to get an idea of the manual effort required._
 
 ## Overview of tools we use
 
@@ -78,26 +78,17 @@ send them the unlisted hamstudy session link(s) before publishing.
 * Email these to candidates using `04CSCE` template.
 
 ### Create VEC upload PDF package:
-* Examtools: Export JSON and save with default name: `ExamSession_YYYYMMDD_HHMM.json`.
-* Examtools: Export EBF. (Not really used by us, but might as well save it.)
-* Examtools: Print Session Forms/Final Forms and download using the default name:
-  `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf`
-* Grab a prefilled Test Report as `CUARC-N2YGK-YYYYMMDD-test report.pdf`
-  (The session report has a box that says "see attached examtools session summary".)
-* Edit test report to show the date, session counts, money held for reimbursement and amount forwarded.
-* Cut a check for that amount to ARRL/VEC and record the check number on the test report.
-* Insert `ExamSession_N2YGK_YYYYMMDD_HHMM.pdf` after that.
-* For each candidate, merge in *only* any pending CSCEs.
+* Examtools: Download VEC Archive retaining default name: `ExamSession_W2AEE_YYYYMMDD_HHMM_arrl.zip`
+* Cut a check for the session fee amount to ARRL/VEC and record the check number.
 * Go to ARRL upload page and select two files for uploading:
-  1. Test report (`CUARC-N2YGK-YYYYMMDD-test report.pdf`)
-  2. JSON export file (`ExamSession_YYYYMMDD_HHMM.json`)
+  1. VEC Archive (`ExamSession_W2AEE_YYYYMMDD_HHMM_arrl.zip`)
+  2. For each candidate, *only* any pending CSCEs (rarely happens).
 
   Then upload them and print/Save as PDF the upload "receipt" as `YYYYMMDD-ARRL VEC File Uploads.pdf`.
 * Upload files to `Online/YYYYMMDD`:
-  * `CUARC-N2YGK-YYYYMMDD-test report.pdf`
-  * `ExamSession_YYYYMMDD_HHMM.json`.
-  * `YYYYMMDD-ARRL VEC File Uploads.pdf`.
-  * EBF file (`####################.dat`)
+  * `ExamSession_W2AEE_YYYYMMDD_HHMM_arrl.zip`
+  * `YYYYMMDD-ARRL VEC File Uploads.pdf`
+  * pending CSCEs if any.
 
 ## Post session – callsign lookups
 * Email call signs or upgrade completion notifications.
