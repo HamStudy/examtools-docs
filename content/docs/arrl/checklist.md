@@ -40,7 +40,7 @@ send them the unlisted hamstudy session link(s) before publishing.
 
 ## Check for candidate registrations
 * Look at https://exam.tools/ve/sessions and check sessions counts. If there are changes:
-* Look at Old Manifest for each session, view individual candidate details and ...
+* Look at Manifest for each session, view individual candidate details and ...
 * Paste name & PIN into appropriate cell (date/time slot) in exams spreadsheet.
   * Tack on callsign (if any) and exam elements they want to take.
   * As examinees pay their fee, percolate them up in the spreadsheet - first-paid first-scheduled.
@@ -50,7 +50,7 @@ send them the unlisted hamstudy session link(s) before publishing.
 * Examtools: Export Applicant List CSV and append to `candidates` tab of spreadsheet.
 
 ## Wait for candidate payment
-* Get payment confirmation from Venmo, Zelle or Paypal.
+* Get payment confirmation from Venmo or Paypal.
   * If PayPal charged a fee, add the fee to the reimbursement sheet.
   * Set cell fill color to yellow.
 * If a candidate responds with a CSCE, upload it.
