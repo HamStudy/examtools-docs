@@ -77,7 +77,7 @@ send them the unlisted hamstudy session link(s) before publishing.
 * Examtools: Open each candidate, Print Forms/CSCE and download using default name: Applicant #### _ name _csce.
 * Email these to candidates using `04CSCE` template.
 
-### Create VEC upload PDF package:
+### Create VEC upload package:
 * Examtools: Download VEC Archive retaining default name: `ExamSession_W2AEE_YYYYMMDD_HHMM_arrl.zip`
 * Cut a check for the session fee amount to ARRL/VEC and record the check number.
 * Go to ARRL upload page and select two files for uploading:
@@ -105,10 +105,6 @@ send them the unlisted hamstudy session link(s) before publishing.
 ### Expense Tracking spreadsheet
 
 ![Expense Tracking Spreadsheet](../images/expenses.png)
-
-### Test Session Report
-
-![Test Session Report](../images/test-report.png)
 
 ## Email templates
 
