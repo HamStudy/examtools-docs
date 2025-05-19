@@ -30,7 +30,7 @@ If not accredidated, then go to http://www.arrl.org/become-an-arrl-ve to sign up
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
 * Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an official copy of their current license.
-* Decide on a video-platform for team training (and remote testing, if you'll be offering it).
+* Decide on a video-platform for team training (and remote testing, if you'll be offering it). Most use Zoom.
 * Familiar your team with ExamTools by training in the sandbox (requires another account on the dev server)
 * Visit remote teams, which are already skilled in the use of ExamTools. Ask to be mentored.
 * Create a Team Account in ExamTools.
@@ -84,9 +84,9 @@ from the MANAGE dropdown `Edit Applicant` on the candidate in the session.
 
 ## Can I get reimbursed for expenses like Zoom Pro and PayPal transaction fees?
 
-Yes. Simply keep records of your "necessary and prudent" expenses required to run the exam session and retain up to $7 per applicant. You may keep all of the $5 from a youth exam.
+Yes. Simply keep records of your "necessary and prudent" expenses required to run the exam session and retain up to \$7 per applicant. You may keep all of the \$5 from a youth exam.
 Remember the [limit](http://www.arrl.org/arrl-vec-exam-fees)
-of up to \$7 per candidate. For a monthly fee
+of up to $7 per candidate. For a monthly fee
 like that of Zoom Pro, prorate it over several exam sessions if the
 expense exceeds the per candidate limit for a single session. See
 Retaining A Portion of the Fees on page 61 of the VE Manual for
@@ -114,8 +114,7 @@ to retain fees for no-shows:
 The no-show candidate fees can be listed separately in "other fees collected"
 or all test fees could be added together. VE teams are
 allowed to retain up to \$7 per candidate for reasonable expenses
-including the no-shows. No-show candidates that are not refunded the
-test fee could be listed on the roster or a note should be included
+including the no-shows. No-show candidates who are not refunded should remain on the applicant list and a note should be included
 explaining the additional fee. Candidates that give the team ample
 time to schedule another candidate in their vacated time slot should
 be refunded. See above. See page 61 of the VE Manual for complete
@@ -123,18 +122,17 @@ rules and record-keeping requirements for retained fees.
 
 ## How do I send the exam fees to the VEC?
 
-The team has three choices: Call and pay with Credit Card per session, keep a credit card on file or mail a check.
+The team has three choices: Call and pay with credit card per session, keep a credit card on file or mail a check.
 
 The VE team may keep a credit card on file with the VEC department to pay for the exam session fees. Contact
-the VEC to make arrangements. Do not email your credit card
-information.
+the VEC to make arrangements. Do not email your credit card information.
 
 When sending/mailing the exam fees checks, teams should please
 include the test date and location and the VE team leader’s name, call
-sign, and contact information for reference so we can match it to the
+sign, and contact information for reference so ARRL can match it to the
 session.
 
-The ARRL/VEC's mailing address is:
+The ARRL VEC's mailing address is:
 
 ```
 ARRL/VEC
