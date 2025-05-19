@@ -23,18 +23,19 @@ are short-handed.  Also, check locally in your area for a VE team.
 
 ## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
 
-First, make sure you are accredited with ARRL VEC. If you are not, then go to http://www.arrl.org/become-an-arrl-ve to sign up.
-Once you are listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and updated your profile. Then, your team lead will be able to add you to their ExamTools session. View your accrediations in ExamTools under your Profile found in the upper left corner when logged into ExamTools.
+Active VEs are listed on http://www.arrl.org/ve-session-counts. VEs can view their accreditations in ExamTools under their Profile found in the upper left corner when logged into ExamTools. 
+
+If not accredidated, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and updated the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredidated. 
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
-* Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an offical copy of their current license.
+* Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an official copy of their current license.
 * Decide on a video-platform for team training (and remote testing, if you'll be offering it).
 * Familiar your team with ExamTools by training in the sandbox (requires another account on the dev server)
-* Visit remote teams which are already skilled in the use of ExamTools. Ask to be mentored.
+* Visit remote teams, which are already skilled in the use of ExamTools. Ask to be mentored.
 * Create a Team Account in ExamTools.
 * Create a session for your exam.
-* Review the Volunteer Examineer information on the ARRL website. http://www.arrl.org/volunteer-examiners
+* Review the Volunteer Examiner information on the ARRL website. http://www.arrl.org/volunteer-examiners
 * Set up a method of payment. Or you can accept cash the day of for in-person exams.
 * Print exams and answer sheets, if doing in-person. 
 * Purchase or borrow tablets or computers for in-person electronic exams.
@@ -42,7 +43,7 @@ Once you are listed at http://www.arrl.org/ve-session-counts, ExamTools will syn
 
 ## Is there a procedure for verifying that ARRL is good with us doing online exams?
 
-Receipt of instructions via email from Maria is the approval for ExamTools and video sessions.
+Receipt of instructions via email from Maria is the approval for ExamTools and video-supervised sessions.
 Teams can apply for permission by contacting the VEC, but be aware of these requirements before you apply:
 
 _ARRL VE teams must meet the following criteria and adhere to the
@@ -54,8 +55,8 @@ standards will be selected to participate._
 
 The team should follow up with the VEC when ready to go live to
 receive the confidential session document upload
-instructions. However, if they have been training and are able to get
-the upload instructions from a trained team, that would be acceptable.
+instructions. However, they may be able to get
+the upload instructions from their ET mentor or another trained team.
 
 Make sure the VE Team Liaison does the following:
 * Forward your approval email from the ARRL/VEC to verifications@examtools.org
@@ -71,13 +72,13 @@ Make sure the VE Team Liaison does the following:
 
 ## How do I collect candidate exam fee payments?
 
-At this time, Examtools does not provide for any payment
+At this time, ExamTools does not provide for any payment
 processing. You will need to establish a mechanism for requesting and
 collecting payments and keeping track of who has paid – preferably
 before or during the exam session – and sending payment to the VEC as
 appropriate.
 
-Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e.payment information, Zoom meeting details and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
+Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e. payment information, Zoom meeting details and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
 PayPal, Square, Zelle, Apple Pay, Google Pay, etc. Locate the candidate's email address
 from the MANAGE dropdown `Edit Applicant` on the candidate in the session. 
 
@@ -95,7 +96,7 @@ complete rules and record-keeping requirements.
 ## What if a registered candidate fails to pay the fee?
 
 It is entirely possible that some candidates will register for a
-session, not pay and not respond to your attempts to contact them. The registration email could have gonew to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
+session, not pay and not respond to your attempts to contact them. The registration email could have gone to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
 registration, remove them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
 someone else.
 
@@ -103,7 +104,7 @@ someone else.
 
 You should refund the fee if you can. This is easy to do with most
 online payment systems. Also don't forget to remove them from the
-Examtools roster before submitting the test session package to the
+ExamTools roster before submitting the test session package to the
 VEC. You do this by deleting them using the MANAGE dropdown `Delete Applicant` on the candidate before
 Finalizing the session. See the next question if your team policy is
 to retain fees for no-shows:
@@ -159,7 +160,7 @@ candidates. Therefore, teams should hold back a portion of each \$15
 exam fee to offset a credit card company’s payment fee. The exam fee
 should be not increased to offset the credit card fees.
 
-## A candidate cancels and says "keep the fee as a donation". What do I do?
+## A candidate cancelled and told us to keep the fee as a donation. What do I do?
 
 Return it.
 
@@ -181,11 +182,11 @@ This is to ensure the integrity of the examination process.
 
 ## Can my VE team or club solicit donations in conjunction with our VE activities?
 
-No. See above.
+No. (See above)
 
 ## How should I prepare my session to upload to the VEC?
 
-Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any Youth Grant Reinbursement Forms, CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC Archive.  Leave the VEC Archive zipped. Do *not* submit a ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
+Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any Youth Grant Reimbursement Forms, CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC ARCHIVE.  Leave the VEC ARCHIVE zipped. Do *not* submit a ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
  The following is a screen shot of the upload page:
 
 ![ARRL/VEC Upload](./images/upload.png)
@@ -193,7 +194,7 @@ Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. An
 
 ## Can EBF files be uploaded to ARRL/VEC?
 
-Instead of an EBF file, the VEC uses the JSON file which is already included in the VEC ARCHIVE. As described above.
+Instead of an EBF file, the VEC uses the JSON file, which is already included in the VEC ARCHIVE. (See above)
 
 ## Do we still have to provide FCC license copies in the uploaded package? CSCEs?
 
@@ -250,9 +251,9 @@ in-person exams to be scored with blue overlay grading templates.
 
 ## Where do I find the ARRL forms, exam booklets and blank answer sheets which work with the blue overlay templates?
 
-ExamTools only provides the exams keyed to the templates.  Everything else comes from the ARRL VEC. Chek out https://www.arrl.org/resources-for-ves and emailed the ARRL VEC for anything else you might need for your session. 
+ExamTools only provides the exams keyed to the templates.  Everything else comes from the ARRL VEC. Check out https://www.arrl.org/resources-for-ves and emailed the ARRL VEC for anything else you might need for your session. 
 
-Teams using GradeCam, will only need to print GradeCan exams and bubble answer sheets. ExamTools takes care of all the paperwork. Team only need to submit to the portal when done.
+Teams using GradeCam, will only need to print GradeCam exams and bubble answer sheets. ExamTools takes care of all the paperwork. Teams submit the VEC ARCHIVE to the portal when done.  That is it!
 
 ## How to we get our sessions listed on the HamStudy website?  We aren't doing online exams.
 
