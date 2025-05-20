@@ -5,7 +5,7 @@ title: Frequently Asked Questions for ARRL VE Team Liaisons
 linktitle: ARRL CVE FAQ
 type: book
 # date: 2020-09-13T15:51:12-04:00
-lastmod: 2020-09-13T15:51:12-04:00
+lastmod: 2025-05-20T11:05:00-04:00
 featured: false
 draft: false
 weight: 40
@@ -25,13 +25,13 @@ are short-handed.  Also, check locally in your area for a VE team.
 
 Active VEs are listed on http://www.arrl.org/ve-session-counts. VEs can view their accreditations in ExamTools under their Profile found in the upper left corner when logged into ExamTools. 
 
-If not accredidated, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and updated the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredidated. 
+If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and updated the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
 * Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an official copy of their current license.
 * Decide on a video-platform for team training (and remote testing, if you'll be offering it). Most use Zoom.
-* Familiar your team with ExamTools by training in the sandbox (requires another account on the dev server)
+* Familiarize your team with ExamTools by training in the sandbox (requires another account on the dev server)
 * Visit remote teams, which are already skilled in the use of ExamTools. Ask to be mentored.
 * Create a Team Account in ExamTools.
 * Create a session for your exam.
@@ -86,7 +86,7 @@ from the MANAGE dropdown `Edit Applicant` on the candidate in the session.
 
 Yes. Simply keep records of your "necessary and prudent" expenses required to run the exam session and retain up to \$7 per applicant. You may keep all of the \$5 from a youth exam.
 Remember the [limit](http://www.arrl.org/arrl-vec-exam-fees)
-of up to $7 per candidate. For a monthly fee
+of up to \$7 per candidate. For a monthly fee
 like that of Zoom Pro, prorate it over several exam sessions if the
 expense exceeds the per candidate limit for a single session. See
 Retaining A Portion of the Fees on page 61 of the VE Manual for
@@ -242,18 +242,18 @@ in any manner of their choosing, including creating their own forms."]
 
 ## Can answers be provided to candidates?
 
-Yes, answers can be shared from all online ExamTools exams which
-randomly generated and examinees won't be retested with the exact
+Yes, answers can be shared from all online ExamTools exams which are
+randomly generated; examinees won't be retested with the exact
 same question set. However, do not provide answers to reusable
-in-person exams to be scored with blue overlay grading templates.
+in-person exams that are scored with blue overlay grading templates.
 
 ## Where do I find the ARRL forms, exam booklets and blank answer sheets which work with the blue overlay templates?
 
-ExamTools only provides the exams keyed to the templates.  Everything else comes from the ARRL VEC. Check out https://www.arrl.org/resources-for-ves and emailed the ARRL VEC for anything else you might need for your session. 
+ExamTools only provides the exams keyed to the templates.  Everything else comes from the ARRL VEC. Check out https://www.arrl.org/resources-for-ves and email the ARRL VEC for anything else you might need for your session. 
 
-Teams using GradeCam, will only need to print GradeCam exams and bubble answer sheets. ExamTools takes care of all the paperwork. Teams submit the VEC ARCHIVE to the portal when done.  That is it!
+Teams using GradeCam will only need to print GradeCam exams and bubble answer sheets. ExamTools takes care of all the paperwork. Teams submit the VEC ARCHIVE to the portal when done.  That is it!
 
 ## How to we get our sessions listed on the HamStudy website?  We aren't doing online exams.
 
-Create a session in ExamTools and adjust the setting to allow for online registration or not.  It is up to the team.  They don't have to use it for testing, but can use it for registration or create a listing where candidates contact the team directly to sign up.
+Create a session in ExamTools and adjust the setting to allow for online registration or not.  It is up to the team.  They don't have to use it for testing, but can use it for registration or to create a listing where candidates contact the team directly to sign up.
 
