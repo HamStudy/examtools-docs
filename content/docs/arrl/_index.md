@@ -127,7 +127,7 @@ The team has three choices: Call and pay with credit card per session, keep a cr
 The VE team may keep a credit card on file with the VEC department to pay for the exam session fees. Contact
 the VEC to make arrangements. Do not email your credit card information.
 
-When sending/mailing the exam fees checks, teams should please
+When sending checks for exam fees by mail, teams should please
 include the test date and location and the VE team leader’s name, call
 sign, and contact information for reference so ARRL can match it to the
 session.
