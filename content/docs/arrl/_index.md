@@ -15,11 +15,10 @@ icon_pack: fas
 
 ![ARRL The National Association for Amateur Radio](images/logo.jpg)
 
-## Can a Volunteer Examiner (VE) join existing teams using ExamTools?
+## How can a Volunteer Examiner (VE) join existing teams using ExamTools (ET)?
 
-Yes. Go into the `#arrl` channel in Discord and volunteer. Several team
-leads monitor the channel and will get in touch, especially if they
-are short-handed.  Also, check locally in your area for a VE team.
+Go into the `#arrl` channel in Discord and volunteer. Several team
+leads monitor the channel and welcome new team members.  Also, check in your area for a local VE team.
 
 ## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
 
@@ -59,9 +58,8 @@ instructions. However, they may be able to get
 the upload instructions from their ET mentor or another trained team.
 
 Make sure the VE Team Liaison does the following:
-* Forward your approval email from the ARRL/VEC to verifications@examtools.org
-  making sure to note your call sign, username and email address.
-  This will result in your Examtools profile being upgraded from VE to Team Lead (Session Manager).
+* Has permissions from the ARRL VEC to perform the duties of the team liaison for the team.
+  This will result in your ExamTools profile being upgraded from VE to Team Lead (Session Manager).
 * Sign up for the VE Discord chat: https://discord.gg/CsKrBmA
 * Read through the ExamTools [CVE documentation]({{< relref "../cve/" >}}) and ask questions in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
@@ -72,21 +70,17 @@ Make sure the VE Team Liaison does the following:
 
 ## How do I collect candidate exam fee payments?
 
-At this time, ExamTools does not provide for any payment
-processing. You will need to establish a mechanism for requesting and
-collecting payments and keeping track of who has paid – preferably
-before or during the exam session – and sending payment to the VEC as
-appropriate.
+ExamTools does not provide for any payment processing. You will need to sign up with an online payment system to accept credit cards, debit cards or payment transfers and maintain an accounting of payments collected.
 
 Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e. payment information, Zoom meeting details and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
-PayPal, Square, Zelle, Apple Pay, Google Pay, etc. Locate the candidate's email address
+PayPal, Square, Zelle, Apple Pay, Google Pay, etc.  Locate the candidate's email address
 from the MANAGE dropdown `Edit Applicant` on the candidate in the session. 
 
 ## Can I get reimbursed for expenses like Zoom Pro and PayPal transaction fees?
 
-Yes. Simply keep records of your "necessary and prudent" expenses required to run the exam session and retain up to \$7 per applicant. You may keep all of the \$5 from a youth exam.
+Yes. Simply keep records of your "necessary and prudent" expenses required to run the exam session and retain up to seven dollars per applicant. You may keep all five dollars from a youth exam.
 Remember the [limit](http://www.arrl.org/arrl-vec-exam-fees)
-of up to \$7 per candidate. For a monthly fee
+of up to seven dollars per candidate. For a monthly fee
 like that of Zoom Pro, prorate it over several exam sessions if the
 expense exceeds the per candidate limit for a single session. See
 Retaining A Portion of the Fees on page 61 of the VE Manual for
@@ -113,8 +107,8 @@ to retain fees for no-shows:
 
 The no-show candidate fees can be listed separately in "other fees collected"
 or all test fees could be added together. VE teams are
-allowed to retain up to \$7 per candidate for reasonable expenses
-including the no-shows. No-show candidates who are not refunded should remain on the applicant list and a note should be included
+allowed to retain up to seven dollars per candidate for reasonable expenses
+including the no-shows. No-show candidates whose fees are not refunded should remain on the applicant list and a note should be included
 explaining the additional fee. Candidates that give the team ample
 time to schedule another candidate in their vacated time slot should
 be refunded. See above. See page 61 of the VE Manual for complete
@@ -140,7 +134,7 @@ ARRL/VEC
 NEWINGTON CT 06111-9825
 ```
 
-## Can I charge more (or less) than the \$15 ARRL VEC fee?
+## Can I charge more (or less) than the fifteen dollar ARRL VEC fee?
 
 No.
 
@@ -154,8 +148,7 @@ to be applied uniformly throughout the calendar year to ensure every
 candidate is treated equally and without discrimination.
 
 The exam fee cannot be increased for a particular group of
-candidates. Therefore, teams should hold back a portion of each \$15
-exam fee to offset a credit card company’s payment fee. The exam fee
+candidates. Therefore, teams should hold back a portion of each exam fee to offset a credit card company’s payment fee. The exam fee
 should be not increased to offset the credit card fees.
 
 ## A candidate cancelled and told us to keep the fee as a donation. What do I do?
@@ -192,7 +185,7 @@ Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. An
 
 ## Can EBF files be uploaded to ARRL/VEC?
 
-Instead of an EBF file, the VEC uses the JSON file, which is already included in the VEC ARCHIVE. (See above)
+Instead of an EBF file, the ARRL VEC uses the JSON file, which is already included in the VEC ARCHIVE. (See above)
 
 ## Do we still have to provide FCC license copies in the uploaded package? CSCEs?
 
@@ -256,4 +249,8 @@ Teams using GradeCam will only need to print GradeCam exams and bubble answer sh
 ## How to we get our sessions listed on the HamStudy website?  We aren't doing online exams.
 
 Create a session in ExamTools and adjust the setting to allow for online registration or not.  It is up to the team.  They don't have to use it for testing, but can use it for registration or to create a listing where candidates contact the team directly to sign up.
+
+## How long does it take for the ARRL VEC to process my uploaded session and for my candidates to get their licenses?
+
+It may take two to three days. Sometimes longer, if there are problems at the FCC. ExamTools sessions are often processed on the first business day following a submission.  Candidates (new licensees only) may pay their thirty-five dollar application fee by logging into CORES once they have a pending application with the FCC.  They can not pay before then. Candidates should use a computer and not a cell phone or tablet to pay.  There is a history of problems with payments made on mobile devices. If they pay before 6pm Eastern, they most likely will receive their callsign over night. The candidate must pay within ten calendar days of their application being processed at the FCC.  If they do not, the application will be dismissed and the candidate will have to ask the VEC for the application to be resubmitted. They should expect two emails from the FCC.  The first one requests payment linking to CORES and the other includes the new license when granted or upgraded. Candidates who do not get these emails need to still log into CORES to pay and should not wait more than a few days.  Then, into the License Manager to export a copy of their official license.  Candidates who are upgrading do not have to pay an application fee to the FCC.  Their applications are usually processed all the way through when received at the FCC and typically should see their upgrades within a hour.
 
