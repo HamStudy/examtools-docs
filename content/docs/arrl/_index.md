@@ -24,7 +24,7 @@ leads monitor the channel and welcome new team members.  Also, check in your are
 
 Active VEs are listed on http://www.arrl.org/ve-session-counts. VEs can view their accreditations in ExamTools under their Profile found in the upper left corner when logged into ExamTools. 
 
-If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and updated the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
+If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and update the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
@@ -116,7 +116,7 @@ rules and record-keeping requirements for retained fees.
 
 ## How do I send the exam fees to the VEC?
 
-The team has three choices: Call and pay with credit card per session, keep a credit card on file or mail a check.
+The team has three choices: Call and pay with credit card per session, keep a credit card on file, or mail in a check.
 
 The VE team may keep a credit card on file with the VEC department to pay for the exam session fees. Contact
 the VEC to make arrangements. Do not email your credit card information.
@@ -136,7 +136,7 @@ NEWINGTON CT 06111-9825
 
 ## Can I charge more (or less) than the fifteen dollar ARRL VEC fee?
 
-No.
+No. The only exception is the five dollars collected for exams administered to youths.
 
 FCC Rules require VEC organizations to agree to assure that, for any
 examination, every examinee qualified under these rules is registered
@@ -177,7 +177,7 @@ No. (See above)
 
 ## How should I prepare my session to upload to the VEC?
 
-Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any Youth Grant Reimbursement Forms, CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC ARCHIVE.  Leave the VEC ARCHIVE zipped. Do *not* submit a ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
+Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any [Youth Grant Reimbursement Forms](https://www.arrl.org/youth-licensing-grant-program), CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC ARCHIVE.  Leave the VEC ARCHIVE zipped. Do *not* submit a ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
  The following is a screen shot of the upload page:
 
 ![ARRL/VEC Upload](./images/upload.png)
