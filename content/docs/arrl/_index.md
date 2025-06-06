@@ -136,7 +136,7 @@ NEWINGTON CT 06111-9825
 
 ## Can I charge more (or less) than the fifteen dollar ARRL VEC fee?
 
-No. The only acception is the five dollars collected for exams administered to youths.
+No. The only exception is the five dollars collected for exams administered to youths.
 
 FCC Rules require VEC organizations to agree to assure that, for any
 examination, every examinee qualified under these rules is registered
