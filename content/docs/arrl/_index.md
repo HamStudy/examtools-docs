@@ -28,12 +28,13 @@ If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. 
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
+* Team lead confirms lead status in ExamTools. if a team member needs lead status, email to VEC@arrl.org requesting permission to use ExamTools. If there is more than one lead, each VE will need to request permission. 
 * Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an official copy of their current license.
 * Decide on a video-platform for team training (and remote testing, if you'll be offering it). Most use Zoom.
 * Familiarize your team with ExamTools by training in the sandbox which requires another account on the dev server.
 * Visit remote teams, which are already skilled in the use of ExamTools. Ask to be mentored.
 * Create one Team Account in ExamTools.
-* Send email to VEC@arrl.org. Include your the team lead’s call sign (or call signs, if more than one) and your ExamTools Team Identifier (Team ID).
+* Email VEC@arrl.org informing them of your team lead’s call sign (or call signs, if more than one) and your ExamTools Team Identifier (Team ID).
 * Create a session for your exam. An exam session can be used for multiple candidates, even if they tested one at a time in series.
 * Review the Volunteer Examiner information on the ARRL website. http://www.arrl.org/volunteer-examiners
 * Set up a method of payment. Or you can accept cash the day of for in-person exams.
