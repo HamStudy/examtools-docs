@@ -17,14 +17,14 @@ icon_pack: fas
 
 ## How can a Volunteer Examiner (VE) join existing teams using ExamTools (ET)?
 
-Go into the `#arrl` channel in Discord and volunteer. Several team
+Go into the `#arrl` channel in [Discord]({{< relref "../docs/general/gethelp/" >}}) and volunteer. Several team
 leads monitor the channel and welcome new team members.  Also, check in your area for a local VE team.
 
 ## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
 
 Active VEs are listed on http://www.arrl.org/ve-session-counts. VEs can view their accreditations in ExamTools under their Profile found in the upper left corner when logged into ExamTools. 
 
-If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once listed at http://www.arrl.org/ve-session-counts, ExamTools will sync and update the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
+If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once a VE is listed on http://www.arrl.org/ve-session-counts pages, ExamTools will sync and update the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
@@ -37,7 +37,7 @@ If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. 
 * Email VEC@arrl.org informing them of your team lead’s call sign (or call signs, if more than one) and your ExamTools Team Identifier (Team ID).
 * Create a session for your exam. An exam session can be used for multiple candidates, even if they tested one at a time in series.
 * Review the Volunteer Examiner information on the ARRL website. http://www.arrl.org/volunteer-examiners
-* Set up a method of payment. Or you can accept cash the day of for in-person exams.
+* Set up a method of payment or you can accept cash the day of for in-person exams.
 * Print exams and answer sheets, if doing in-person. 
 * Purchase or borrow tablets or computers for in-person electronic exams.
  
@@ -63,7 +63,7 @@ Make sure the VE Team Lead does the following:
 * Has permissions from the ARRL VEC to perform the duties of the team lead for the team.
   This will result in your ExamTools profile being upgraded from VE to Team Lead (Session Manager).
 * Sign up for the VE Discord chat: https://discord.gg/CsKrBmA
-* Read through the ExamTools [CVE documentation]({{< relref "../cve/" >}}) and ask questions in the Discord `#arrl` channel.
+* Read through the ExamTools [Team Lead Documentation]({{< relref "../cve/" >}}) and ask questions in the Discord `#arrl` channel.
 * Register in the sandbox at http://hamstudy.dev/ and then login at https://beta.examtools.dev/ with your
   team members. DO NOT use a Facebook or Google login: Make a "real" user.
   There's more info in [getting an exam.tools and sandbox account]({{< relref "../ve/getexamtoolsaccount/" >}})
@@ -74,7 +74,7 @@ Make sure the VE Team Lead does the following:
 
 ExamTools does not provide for any payment processing. You will need to sign up with an online payment system to accept credit cards, debit cards or payment transfers and maintain an accounting of payments collected.
 
-Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e. payment information, Zoom meeting details and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
+Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e. payment information, Zoom meeting invite and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
 PayPal, Square, Zelle, Apple Pay, Google Pay, etc.  Locate the candidate's email address
 from the MANAGE dropdown `Edit Applicant` on the candidate in the session. 
 
@@ -92,7 +92,7 @@ complete rules and record-keeping requirements.
 ## What if a registered candidate fails to pay the fee?
 
 It is entirely possible that some candidates will register for a
-session, not pay and not respond to your attempts to contact them. The registration email could have gone to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
+session, then will not pay nor respond to your attempts to contact them. The registration email may have gone to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
 registration, remove them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
 someone else.
 
@@ -103,7 +103,7 @@ online payment systems. Also don't forget to remove them from the
 ExamTools roster before submitting the test session package to the
 VEC. You do this by deleting them using the MANAGE dropdown `Delete Applicant` on the candidate before
 Finalizing the session. See the next question if your team policy is
-to retain fees for no-shows:
+to retain fees for no-shows.
 
 ## How are retained fees for pre-registered no-shows handled?
 
@@ -151,7 +151,7 @@ candidate is treated equally and without discrimination.
 
 The exam fee cannot be increased for a particular group of
 candidates. Therefore, teams should hold back a portion of each exam fee to offset a credit card company’s payment fee. The exam fee
-should be not increased to offset the credit card fees.
+should be not be increased to offset the credit card fees. Additionally, teams should not accept a donation to cover the credit card fee.
 
 ## A candidate cancelled and told us to keep the fee as a donation. What do I do?
 
@@ -207,7 +207,7 @@ Enter the credit(s) using the ExamTools MANAGE dropdown `Add Credit` for the can
 
 * If the candidate already has a current license and thus is not taking an actual exam, change the candidate Status from `registered` or `seen` to `ready to sign`. The candidate logs into the session using the team identifier and their pin and is presented with the usual signature process.
 
-After the 3 assigned VEs and the candidate has all signed, the candidate is Marked Complete and ExamTools generates the proper forms reflecting these credits.
+After the three assigned VEs and the candidate have all signed, the candidate is Marked Complete and ExamTools generates the proper forms reflecting these credits.
 
 Submit the proof documents for the candidate together with the VEC ARCHIVE at the end of the session.
 
@@ -216,14 +216,14 @@ Submit the proof documents for the candidate together with the VEC ARCHIVE at th
 There is nothing to sign. Proof of failure is displayed in the Applicant List and the session manifest. The candidate's results sheet showing a failing score is included in the VEC ARCHIVE.
 
 In traditional in-person exams, the candidate usually fills out the
-605 in advance of the exam in order to streamline the process at the
+[NCVEC QUICK-FORM 605 APPLICATION](https://www.arrl.org/files/file/VEs/NCVEC_Form_605_July_2022_INTERACTIVE.pdf) in advance of the exam in order to streamline the process at the
 end of the session and so the VEs can confirm candidate identity
 matches their photo ID. In that case, it is common practice to either
 return the unsigned 605 to the candidate [per 97.509(i)] or to send it
 to the VEC, possibly signed but with the NO NEW LICENSE OR UPGRADE WAS
 EARNED box checked.
 
-However, it is acceptable [citation?] for a candidate to only fill out
+However, it is acceptable for a candidate to only fill out
 their 605 after successful completion of the exam element(s) and then
 the VEs sign it and send it to the VEC [97.509(l)].
 
@@ -248,7 +248,7 @@ ExamTools only provides the exams keyed to the templates.  Everything else comes
 
 Teams using GradeCam will only need to print GradeCam exams and bubble answer sheets. ExamTools takes care of all the paperwork. Teams submit the VEC ARCHIVE to the portal when done.  That is it!
 
-## How to we get our sessions listed on the HamStudy website?  We aren't doing online exams.
+## How do we get our sessions listed on the HamStudy website?  We aren't doing online exams.
 
 Create a session in ExamTools and adjust the setting to allow for online registration or not.  It is up to the team.  They don't have to use it for testing, but can use it for registration or to create a listing where candidates contact the team directly to sign up.
 
