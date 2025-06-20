@@ -17,7 +17,7 @@ icon_pack: fas
 
 ## How can a Volunteer Examiner (VE) join existing teams using ExamTools (ET)?
 
-Go into the `#arrl` channel in [Discord]({{< relref "../docs/general/gethelp/" >}}) and volunteer. Several team
+Go into the `#arrl` channel in [Discord]({{< relref "../general/gethelp/" >}}) and volunteer. Several team
 leads monitor the channel and welcome new team members.  Also, check in your area for a local VE team.
 
 ## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
