@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Frequently Asked Questions for ARRL VE Team Liaisons
-linktitle: ARRL CVE FAQ
+title: Frequently Asked Questions for ARRL VE Team Lead
+linktitle: ARRL Team Lead FAQ
 type: book
 # date: 2020-09-13T15:51:12-04:00
 lastmod: 2025-05-20T11:05:00-04:00
@@ -59,8 +59,8 @@ receive the confidential session document upload
 instructions. However, they may be able to get
 the upload instructions from their ET mentor or another trained team.
 
-Make sure the VE Team Liaison does the following:
-* Has permissions from the ARRL VEC to perform the duties of the team liaison for the team.
+Make sure the VE Team Lead does the following:
+* Has permissions from the ARRL VEC to perform the duties of the team lead for the team.
   This will result in your ExamTools profile being upgraded from VE to Team Lead (Session Manager).
 * Sign up for the VE Discord chat: https://discord.gg/CsKrBmA
 * Read through the ExamTools [CVE documentation]({{< relref "../cve/" >}}) and ask questions in the Discord `#arrl` channel.
