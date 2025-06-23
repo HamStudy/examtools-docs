@@ -17,21 +17,20 @@ icon_pack: fas
 
 ## How can a Volunteer Examiner (VE) join existing teams using ExamTools (ET)?
 
-Go into the `#arrl` channel in [Discord]({{< relref "../general/gethelp/" >}}) and volunteer. Several team
-leads monitor the channel and welcome new team members.  Also, check in your area for a local VE team.
+Go into the `#arrl` channel in [Discord]({{< relref "../general/gethelp/" >}}) and volunteer. Several team leads monitor the channel and welcome new team members.  Also, check in your area for a local VE team.
 
 ## I am already using ExamTools with another VEC. How do I get added as an ARRL VE?
 
 Active VEs are listed on http://www.arrl.org/ve-session-counts. VEs can view their accreditations in ExamTools under their Profile found in the upper left corner when logged into ExamTools. 
 
-If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to sign up. Once a VE is listed on http://www.arrl.org/ve-session-counts pages, ExamTools will sync and update the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
+If not accredited, then go to http://www.arrl.org/become-an-arrl-ve to apply. Once a VE is listed on http://www.arrl.org/ve-session-counts pages, ExamTools will sync and update the profile. Team leads will not be able to add VEs to the exam session until they have a verified ExamTools account and are accredited.
 
 ## Is there a checklist of what my VE team needs to do to get started with ExamTools?
 
 * Team lead confirms lead status in ExamTools. If a team member needs lead status, email to VEC@arrl.org requesting permission to use ExamTools. If there is more than one lead, each VE will need to request permission. 
-* Make sure all your VEs have signed up for an ExamTools Account and have verified by uploading an official copy of their current license.
+* Make sure all your VEs have registered for an ExamTools Account and have verified by uploading an official copy of their current license.
 * Decide on a video-platform for team training (and remote testing, if you'll be offering it). Most use Zoom.
-* Familiarize your team with ExamTools by training in the sandbox which requires another account on the dev server.
+* Familiarize your team with ExamTools by training in the sandbox, which requires another account on the dev server.
 * Visit remote teams, which are already skilled in the use of ExamTools. Ask to be mentored.
 * Create one Team Account in ExamTools.
 * Email VEC@arrl.org informing them of your team lead’s call sign (or call signs, if more than one) and your ExamTools Team Identifier (Team ID).
@@ -49,7 +48,7 @@ Teams can apply for permission by contacting the VEC, but be aware of these requ
 
 _ARRL VE teams must meet the following criteria and adhere to the
 following rules/policies to participate in the Video sessions
-program. Long-standing, well established teams with a history of
+program. Long-standing, well-established teams with a history of
 adhering to the highest degree of examination integrity, and that
 consistently submit accurate exam documents consistent with ARRL VEC
 standards will be selected to participate._
@@ -72,7 +71,7 @@ Make sure the VE Team Lead does the following:
 
 ## How do I collect candidate exam fee payments?
 
-ExamTools does not provide for any payment processing. You will need to sign up with an online payment system to accept credit cards, debit cards or payment transfers and maintain an accounting of payments collected.
+ExamTools does not provide for any payment processing. You will need to sign up with an online payment system to accept credit and debit cards or payment transfers and maintain an accounting of payments collected.
 
 Many teams use the registration confirmation email "Note to applicant" field found in the session listing to include additional info (i.e. payment information, Zoom meeting invite and other exam details) in the registration confirmation email which ExamTools sends to the applicant or may send a separate email with this information. Teams typically use online payment processors like Venmo,
 PayPal, Square, Zelle, Apple Pay, Google Pay, etc.  Locate the candidate's email address
@@ -92,7 +91,7 @@ complete rules and record-keeping requirements.
 ## What if a registered candidate fails to pay the fee?
 
 It is entirely possible that some candidates will register for a
-session, then will not pay nor respond to your attempts to contact them. The registration email may have gone to their spam folder.  Try calling or texting, but if you decide that you need to cancel their
+session, then will not pay nor respond to your attempts to contact them. The registration email may have gone to their spam folder.  Try phoning or texting, but if you decide that you need to cancel their
 registration, remove them using the MANAGE dropdown `Delete Applicant` on the candidate. This frees up the exam slot for
 someone else.
 
@@ -118,14 +117,13 @@ rules and record-keeping requirements for retained fees.
 
 ## How do I send the exam fees to the VEC?
 
-The team has three choices: Call and pay with credit card per session, keep a credit card on file, or mail in a check.
+The team has three choices: Phone and pay with credit card per session, keep a credit card on file, or mail in a check.
 
 The VE team may keep a credit card on file with the VEC department to pay for the exam session fees. Contact
 the VEC to make arrangements. Do not email your credit card information.
 
 When sending checks for exam fees by mail, teams should please
-include the test date and location and the VE team leader’s name, call
-sign, and contact information for reference so ARRL can match it to the
+include the test date and location and the VE team leader’s name, call sign, and contact information for reference so ARRL can match it to the
 session.
 
 The ARRL VEC's mailing address is:
@@ -136,7 +134,7 @@ ARRL/VEC
 NEWINGTON CT 06111-9825
 ```
 
-## Can I charge more (or less) than the fifteen dollar ARRL VEC fee?
+## Can I charge more (or less) than the fifteen-dollar ARRL VEC fee?
 
 No. The only exception is the five dollars collected for exams administered to youths.
 
@@ -151,7 +149,7 @@ candidate is treated equally and without discrimination.
 
 The exam fee cannot be increased for a particular group of
 candidates. Therefore, teams should hold back a portion of each exam fee to offset a credit card company’s payment fee. The exam fee
-should be not be increased to offset the credit card fees. Additionally, teams should not accept a donation to cover the credit card fee.
+should not be increased to offset the credit card fees. Additionally, teams should not accept a donation to cover the credit card fee.
 
 ## A candidate cancelled and told us to keep the fee as a donation. What do I do?
 
@@ -179,7 +177,7 @@ No. (See above)
 
 ## How should I prepare my session to upload to the VEC?
 
-Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any [Youth Grant Reimbursement Forms](https://www.arrl.org/youth-licensing-grant-program), CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC ARCHIVE.  Leave the VEC ARCHIVE zipped. Do *not* submit a ARRL Test Session report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
+Upload the VEC ARCHIVE (includes PDF of Final Forms and JSON) from ExamTools. Any [Youth Grant Reimbursement Forms](https://www.arrl.org/youth-licensing-grant-program), CSCEs, or other documentation should be selected and loaded at the same time, but not included in the VEC ARCHIVE.  Leave the VEC ARCHIVE zipped. Do *not* submit an ARRL Test Session Report when using ExamTools.  Everything the VEC needs is in the VEC ARCHIVE.
  The following is a screen shot of the upload page:
 
 ![ARRL/VEC Upload](./images/upload.png)
@@ -254,5 +252,5 @@ Create a session in ExamTools and adjust the setting to allow for online registr
 
 ## How long does it take for the ARRL VEC to process my uploaded session and for my candidates to get their licenses?
 
-It may take two to three days. Sometimes longer, if there are problems at the FCC. ExamTools sessions are often processed on the first business day following a submission.  Candidates (new licensees only) may pay their thirty-five dollar application fee by logging into CORES once they have a pending application with the FCC.  They can not pay before then. Candidates should use a computer and not a cell phone or tablet to pay.  There is a history of problems with payments made on mobile devices. If they pay before 6pm Eastern, they most likely will receive their callsign over night. The candidate must pay within ten calendar days of their application being processed at the FCC.  If they do not, the application will be dismissed and the candidate will have to ask the VEC for the application to be resubmitted. They should expect two emails from the FCC.  The first one requests payment linking to CORES and the other includes the new license when granted or upgraded. Candidates who do not get these emails need to still log into CORES to pay and should not wait more than a few days.  Then, into the License Manager to export a copy of their official license.  Candidates who are upgrading do not have to pay an application fee to the FCC.  Their applications are usually processed all the way through when received at the FCC and typically should see their upgrades within a hour.
+It may take two to three days, sometimes longer, if there are problems at the FCC. ExamTools sessions are often processed on the first business day following a submission.  Candidates (new licensees only) may pay their thirty-five dollar application fee by logging into CORES once they have a pending application with the FCC.  They will be unable to pay before then. Candidates should use a computer and not a cell phone or tablet to pay.  There is a history of problems with payments made on mobile devices. If they pay before 6pm Eastern, they most likely will receive their FCC license over night. The candidate must pay within ten calendar days of their application being processed at the FCC.  If they do not, the application will be dismissed and the candidate will have to ask the VEC for the application to be resubmitted. They should expect two emails from the FCC.  The first one requests payment linking to CORES and the other includes the new license when granted or upgraded. Candidates who do not get these emails need to still log into CORES to pay and should not wait more than a few days.  Then, log into the License Manager to export a copy of their official license.  Candidates who are upgrading do not have to pay an application fee to the FCC.  Their applications are usually processed all the way through when received at the FCC and typically should see their upgrades within an hour.
 
