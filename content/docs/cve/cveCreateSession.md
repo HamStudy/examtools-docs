@@ -22,15 +22,11 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * In the second window **Log in as a Volunteer Examiner**, enter your **Username or email** and **Password**.
 
-* **ExamTools (ET)** should open in the **[Session List](https://exam.tools/ve/sessions)**.
+* **ExamTools (ET)** should open in the **[Session List](https://exam.tools/ve/)**.
 
-* On the left navigation, click on **Manage Sessions**.
+* In the middle top of the Session List, click on **[+ NEW SESSION]([https://exam.tools/ve/sessions/new))**. If you do not see the **NEW SESSION** button, then contact your VEC to confirm your team lead status.
 
-* **[Upcoming Sessions](https://exam.tools/admin/sessions)** should display at top.
-
-* On the far right of the title header row, click on **[Add new](https://exam.tools/admin/newSession)**.
-
-* The **Add Session** window should display.  
+* The **Schedule new session** window should display.  
 
 * **Event name (summary)**:  Enter your session title to display in HamStudy listing. You may want to include time and time zone, in-person or remote/online information as well.
 
@@ -87,4 +83,15 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 ## To Edit an Existing Session
 
-* Return to **Manage Sessions** and click on **Edit Schedule** to update or change your listing.  Do this within the session from the **Current or Session List**.  Open your session.  Along the top of the window, look for a button for **EDIT SCHEDULE**.  This button will take you to the Edit Session window where you can make changes to your exam.  
+* Return to **Manage Sessions** and click on **Edit Schedule** to update or change your listing.  Do this within the session from the **Current or Session List**.  Open your session.  Along the top of the window, look for a button for **EDIT SCHEDULE**.  This button will take you to the Edit Session window where you can make changes to your exam.
+
+## To Clone a Past or Future Session
+
+* Once you have a complete and accurate session listing, clone it for future sessions.  From the left navigation, select **Session List**, locate the past or future session which you want to duplicate and click on the three vertical dots to the right of the **Edit Schedule** button. Select **Clone** from the drop-down.
+   
+* Make any edits to the session and add a new **Session Date** under **Schedule**. Adding the date is required before you can save it.
+  
+* Decide if you want to clone the VE list from the source exam session.  Locate **Clone VE List** between **Email address for notifications** and **Publicly visible notes** and select **YES** or **NO**. Selecting Yes, will copy the entire Volunteer Examiners List from the source exam session. The VEs will see the session in their session list, have access to and retain the same VE permissions as they did in the original. If you have a small regular group of VEs who never miss a session, then cloning a session with those regular VEs would be beneficial and save you time. However, you may not want to clone a VE list from a random session across an entire year as the VE population changes overtime. 
+
+**IMPORTANT NOTE:** Before you finalize your session, double check your Volunteer Examiners list and remove any cloned or added VEs who did not show or participate in the session.  Last chance to add any VEs who may have been missed.  The Volunteer Examiner list becomes part of the session manifest in VEC ARCHIVE and should accurately reflect those VEs who were present at the exam session.  Do not include all members of your team.  Only those who were actually there.
+ 
