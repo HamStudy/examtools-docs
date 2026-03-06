@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Create and Edit Sessions in ExamTools
+linktitle: Create, Edit and Clone Sessions in ExamTools
 summary: Step-by-step instructions on how to create sessions, edit them after creation, and make any needed changes.
 weight: 30
 featured: false
@@ -26,13 +26,21 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * In the middle top of the Session List, click on **[+ NEW SESSION]([https://exam.tools/ve/sessions/new))**. If you do not see the **NEW SESSION** button, then contact your VEC to confirm your team lead status.
 
-* The **Schedule new session** window should display.  
+* The **Schedule new session** window should display.
 
-* **Event name (summary)**:  Enter your session title to display in HamStudy listing. You may want to include time and time zone, in-person or remote/online information as well.
+* Start under **General session information:**:
 
-* **VEC**:  Select the VEC organization which is associated with this exam.
+* **Team:**: Select a team from the drop-down list.  If you do not see any teams listed, you will need to either create a **Team Account** or be added to an exisiting team account as a co-owner. [More info about Team Accounts]({{<relref "/cveTeams.md">}})
 
-* **Session Type**:  Select Online Session or In-Person Session from the radio buttons.
+* **VEC**:  Select the VEC organization which is associated with this exam. If you do not see the desired VEC, check your Team Account delgates and also your profile to confirm team lead status.
+
+* **Team Lead**:  Select the person who is responsible for the session.
+
+* **Event Name**:  Enter your session title to display in HamStudy listing. You may want to include unique information which isn't listed in other fields.
+  
+* **Session Identifier**: This fleid is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in paratheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list. *(i.e hidden or note a particular VEC, a team lead or location)*
+  
+* **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even, if you are using tablets or computers for the exam. 
 
 * If you select In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
 
