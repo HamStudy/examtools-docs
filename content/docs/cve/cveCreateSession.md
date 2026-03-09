@@ -40,7 +40,7 @@ Start under **General session information:**:
 
 * **Event Name**:  Enter your session title to display in HamStudy listing. You may want to include unique information which isn't listed in other fields.
   
-* **Session Identifier**: This fleid is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in paratheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list. *(i.e hidden or note a particular VEC, a team lead or location)*
+* **Session Identifier**: This fleid is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in paratheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list, *(i.e hidden or note a particular VEC, a team lead or location)*. It doesn't display in HamStudy.
 
 * **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even, if you are using tablets or computers for the exam. 
 
@@ -49,21 +49,30 @@ Start under **General session information:**:
 ***
 
 Next, go to **Registration options:**
- Use ExamTools Registration? Yes No
- Use ExamTools for grading or paperwork? Yes No
- Walk-ins allowed? Yes No Note: This field will only display if the in-person selector is toggled.
+ * **Use ExamTools Registration?** If you select **Yes**, you will have the following options below.
+ * **Use ExamTools for grading or paperwork?** Select **Yes** or **No**. If you select **NO** then applicants will not be issued a PIN. The PIN is required for them to sign into the system, so be sure to indicate **YES** if you plan to use ExamTools to administer exams (whether with GradeCam or computerized exams) or if you plan to use ExamTools to handle paperwork.
+ * **Walk-ins allowed?** Select **Yes** or **No** Note: This option will only display if the in-person selector is toggled and is purely informational for the applicant to let them know if they can come to your session without registering ahead of time.
 
-* **Maximum number of Participants** *No Limit / Choose.
-* Selecting No Limit allowed an unlimited number of applicants to register.  Inmder Choose, enter the number of applicants you would like to limit the session to.  If you are just using ET for scheduling, then just leave this blank.
+* **Maximum number of Participants** No Limit / Choose.
+* Selecting **No Limit** allows an unlimited number of applicants to register.  Under **Choose**, enter the number of applicants you would like to limit. The system will attempt to enforce this, but it is not foolproof -- for example, if two people try to register at once it's possible they may both get in before the registration is closed.
 
+* **Use ExamTools Registration?** If you select **No**, you will have the following options below.
+* **Registration Method:** None / External Link / Email Link
+
+  * [None] - Your exam will appear on the schedule and online registration will be disabled.  Use this option for listing your in-person, walk-up exam or if you are going to be registering applicants in another manner.  Add registration information to the session description in the Publicly visible notes: box.
+   
+  * [External Link] - Your exam will appear on the schedule, but will be directed to another website to register.  Enter your url in the **Registration link** field.
+
+  * [Email Link] - Your exam will appear on the schedule, but applicants will be provided with an Contact Name and Email Address to use to contact the team to register for your exam.
+  
 ***
 
-**Schedule:**
+Then, choose your **Schedule:** options.
 
 * **Time zone**: Select your time zone from the dropdown list.
 
 *  **Listing Visibility:** Visible / Hidden
-**  If set to "hidden" then this session will not appear on any public session listings. This can be useful if you want to keep the session "private" so only people coming from your website can access it -- the registration link can be found on the session page.
+**  If set to "hidden" then this session will not appear on any public session listings. This can be useful if you want to keep the session "private" so only people coming from your website can access it -- the registration link can be found on the session page.  Especially helpful, if you want to work on your session listing ahead of time and aren’t quite ready for applicants or want to share a private link to a certain population for whom the session has been scheduled.  (i.e. Local radio club or college course)  The session is still accessible online, but the applicant will need a private link to view.  When you are ready to list your session on HamStudy, return to the session in ET and uncheck the box and it will appear in the HamStudy list of [Upcoming test sessions](https://ham.study/sessions). 
 * **Session Date** Enter the date of you exam.
 * **Start Time** Enter time which your applicants should expect the exam to begin.
 Use the clock icon for a touch-friendly time picker
@@ -71,50 +80,35 @@ Use the clock icon for a touch-friendly time picker
 
 ***
 
-**Locations:**
+Select, Add or Edit your **Locations:**. 
 
-* If you selected In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
+ * The VEC is required to submit session location to the FCC, so this is required even for remote exams. The most common value for this is the city / state / zip of the team lead.
+
+* If you selected In-Person Session, enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
 
 ***
+
+Configure Elements Offered, Exam Fee and Registration Notices.
+
+* **All exam elements offered?** If this is selected then all elements will be displayed as an option in the registration process.  If you select specific elements, limiting the choices, only those selected options will appear during the registration process and the applicant will only be able to choose from those.  It doesn't prevent an applicant from taking another exam on the day of the session, but it prevents them from indicating their intent to take an element.  For example, you might hava tech only exam and select Element 2: Technician.  The applicant registers and can only choose from Technician.  On the day of the exam, you find out that you have enought VEs to admister a General exam and the applicant is allowed to take the exam.  ExamTools won't prevent them from taking and exam which wasn't indicated at registration.  What was indicated will display as part of the applicant information when expanded in the session on the applicant tab.
 
 * **Examination Fee:**: This field should populate automatically in most cases baised on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in Other Notes field farther down in the form. 
 
 
-**Receive email notifications on applicant registration?** The session registration emails will follow the settings in the team account if these are not modified.  Otherwise, you can add an email here to recieve the notifications from this session.
+* **Receive email notifications on applicant registration?** If **Yes**, an email will be sent to the configured address each time someone registers for the session.
+Choose "Team Default" to use the default settings for your team. 
+
+ * The New Applicant Registration notice will include the following applicant information: Name, License Class, FRN, Address, Email, Phone Number and the date/time of the session in which applicant registered.
 
 ***
 
-**Publicly visible notes:** These are the notes which will appear with your session listing; they should be complete and useful.
-We strongly recommend including any special rules that your session has as well as a way for potential applicants to contact you.
+Add your session discription for HamStudy and customize the email to your applicants.
 
-**Notes for applicant (email):** This will be emailed to applicants when they register for your session -- it will not be shown to anyone who has not registered for your session, so it is less public than the regular notes.
-If these are not provided then the session notes will be sent instead.
+* **Publicly visible notes** *[(markdown enabled)](https://markdownguide.org)*: These are the notes which will appear with your session listing; they should be complete and useful. Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information. We strongly recommend including any special rules that your session has as well as a way for potential applicants to contact you. Using markdown, you can style your listing using headers and bullets, include pictures and logos, links and more.  Images must be hosted on another server.
 
-///Nothing below here is in the new form.
-* **ExamTools Features Desired**:  From the dropdown, select one from the following list. By default Schedule only is selected.
-
-  * [Schedule, Registration, and Exams] - Your exam will appear on the schedule, registration will be enabled, and users will be assigned a PIN which they will receive in their email.  Use this option if you plan to do remote or in-person exams in ET.
-
-  * [Schedule and Registration] - Your exam will appear on the schedule and online registration will be enabled, but users will not receive a PIN.  Use this option if you plan to use a method other than ET to test applicants.
-
-  * [Schedule only] - Your exam will appear on the schedule and online registration will be disabled.  Use this option for listing your in-person, walk-up exam or if you are going to be registering applicants in another manner.  Add registration information to the session description in the Other Notes field.
-
-* Options:  
-  * Pre-registration required
-  * Do not list on HamStudy.org – Hide your session and do not display on HamStudy.  Especially helpful, if you want to work on your session listing ahead of time and aren’t quite ready for applicants or want to share a private link to a certain population for whom the session has been scheduled.  (i.e. Local radio club or college course)  The session is still accessible online, but the applicant will need a private link to view.  When you are ready to list your session on HamStudy, return to the session in ET and uncheck the box and it will appear in the HamStudy list of [Upcoming test sessions](https://ham.study/sessions). 
-  * Receive notification on applicant signup - If this box is selected, a New Applicant Registration notice will be sent to the email listed in the Contact Name and Email field. This email will include the following applicant information: Name, License Class, FRN, Address, Email, Phone Number and the date/time of the session in which applicant registered.
-
-* Toggle the ExamTools Features Desired dropdown back to Choose… in order to add or remove a check mark for Schedule only and edit the options above.  You will see the Schedule only description in the blue box, if your listing is set to not display.  In that case, you will need to go back to Choose... to remove the Do not list on HamStudy.org selection.
-
-  * **Schedule only** - Your exam will not appear on the schedule and online registration will be disabled.
-
-  Select the Schedule only and Do not list on HamStudy.org combo before you are ready for the public to view your session and register.  You may do this to proof-read it, experiment with formatting or share it with your VE team using the private link before it goes live.
-  
-  * **Contact Name and Email** - This field will include the Session Manager's email address by default, but may be changed to a preferred email address as long as the formatting is maintained.  ET uses this email for notification and does not appear in your session listing online.  If you want your email to be posted, added it to the Other Notes below.
-
-  * **Other Notes** *[(markdown enabled)](https://markdownguide.org)*:  Add your session description here.  Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information.  Using markdown, you can style your listing using headers and bullets, include pictures and logos, links and more.  Images must be hosted on another server.
-
-* Review your listing and click [Save] when done.
+* **Notes for applicant (email):** Information entered will be emailed to applicants when they register for your session -- it will not be shown to anyone who has not registered for your session, so it is less public than the regular notes. You can use this option to send your applicant the Zoom link for your remote session or specific directions to your phyical location, but keep in mind that you will also need to copy over pertainent information from the public notes that you want emailed to the applicants.  If the **notes for applicants** is left empty, then the public notes will be sent instead.
+ 
+* Review your listing carefully and click [Save] when done.
 
 ## To View Your Session on HamStudy
 
