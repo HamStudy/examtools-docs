@@ -26,9 +26,11 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * In the middle top of the Session List, click on **[+ NEW SESSION]([https://exam.tools/ve/sessions/new))**. If you do not see the **NEW SESSION** button, then contact your VEC to confirm your team lead status.
 
-* The **Schedule new session** window should display.
+The **Schedule new session** window should display.
 
-* Start under **General session information:**:
+***
+
+Start under **General session information:**:
 
 * **Team:**: Select a team from the drop-down list.  If you do not see any teams listed, you will need to either create a **Team Account** or be added to an exisiting team account as a co-owner. [More info about Team Accounts]({{<relref "/cveTeams.md">}})
 
@@ -39,21 +41,56 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 * **Event Name**:  Enter your session title to display in HamStudy listing. You may want to include unique information which isn't listed in other fields.
   
 * **Session Identifier**: This fleid is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in paratheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list. *(i.e hidden or note a particular VEC, a team lead or location)*
-  
+
 * **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even, if you are using tablets or computers for the exam. 
 
-* If you select In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
+
+
+***
+
+Next, go to **Registration options:**
+ Use ExamTools Registration? Yes No
+ Use ExamTools for grading or paperwork? Yes No
+ Walk-ins allowed? Yes No Note: This field will only display if the in-person selector is toggled.
+
+* **Maximum number of Participants** *No Limit / Choose.
+* Selecting No Limit allowed an unlimited number of applicants to register.  Inmder Choose, enter the number of applicants you would like to limit the session to.  If you are just using ET for scheduling, then just leave this blank.
+
+***
+
+**Schedule:**
 
 * **Time zone**: Select your time zone from the dropdown list.
 
-* **Date and time**: Enter the date and time which your applicants should expect the exam to begin.
+*  **Listing Visibility:** Visible / Hidden
+**  If set to "hidden" then this session will not appear on any public session listings. This can be useful if you want to keep the session "private" so only people coming from your website can access it -- the registration link can be found on the session page.
+* **Session Date** Enter the date of you exam.
+* **Start Time** Enter time which your applicants should expect the exam to begin.
+Use the clock icon for a touch-friendly time picker
+* **Duration (minutes):**  Enter the number of minutes you expect the session to last (i.e. a two-hour exam would be 120 mins). This is purely informational and displayed on the session listing page.
 
-* **Maximum number of applicants** *(0 for unlimited)*:  Enter the number of applicants you would like to limit the session to.  If you are just using ET for scheduling, then just leave this blank.
+***
 
-* **Duration in minutes**:  Enter the number of minutes you expect the session to last (i.e. a two-hour exam would be 120 mins).
+**Locations:**
 
-* **Fee amount**: Enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in Other Notes field farther down in the form.
+* If you selected In-Person Session, a **Location** field will appear.  Enter the street address of the exam session venue.  Once entered, a preview of a map will pop up.  The map will also be visible on HamStudy. [More info about Session Locations]({{<relref "/cveSessionLocation.md">}})
 
+***
+
+* **Examination Fee:**: This field should populate automatically in most cases baised on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in Other Notes field farther down in the form. 
+
+
+**Receive email notifications on applicant registration?** The session registration emails will follow the settings in the team account if these are not modified.  Otherwise, you can add an email here to recieve the notifications from this session.
+
+***
+
+**Publicly visible notes:** These are the notes which will appear with your session listing; they should be complete and useful.
+We strongly recommend including any special rules that your session has as well as a way for potential applicants to contact you.
+
+**Notes for applicant (email):** This will be emailed to applicants when they register for your session -- it will not be shown to anyone who has not registered for your session, so it is less public than the regular notes.
+If these are not provided then the session notes will be sent instead.
+
+///Nothing below here is in the new form.
 * **ExamTools Features Desired**:  From the dropdown, select one from the following list. By default Schedule only is selected.
 
   * [Schedule, Registration, and Exams] - Your exam will appear on the schedule, registration will be enabled, and users will be assigned a PIN which they will receive in their email.  Use this option if you plan to do remote or in-person exams in ET.
