@@ -15,22 +15,22 @@ type: book  # Do not modify.
 ---
 
 ## In-Person Exams with ExamTools
-For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in several sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Participation in remote online exams is the perfect place to learn how ExamTools works.
+For more complete instructions, please contact your VEC for documentation and guidance.  We strongly recommend that you shadow other team leads and participate in many sessions before starting to run your own. You are encouraged to have an experienced team lead and experienced VEs join your first few sessions to help out. Initial sessions are recommended to be only one or two applicants until you're comfortable with the whole process.  Both leads and VEs should participate in remote online exams to learn how ExamTools works.  ExamTools functions the same for both in-person and remote exams.  Contact your VEC for help locating a team to train with.
 
 ## Prepare for In-Person Exam:
 
  * Session Manager (SM) [creates a session]({{<relref "cveCreateSession.md">}}) on ExamTools (ET).
  * Session Manager [prints paper exams]({{<relref "printedExamCreation.md">}}) for use with GradeCam.  Exams printed for use with templates will not work with GradeCam.  However, you may use the Record External Exam feature under Manage to add exams which were graded without the use of ET.
  * Session Manager or team members prepare computers or tablets for applicant use or applicants will be notified what kind of devices are allowed.
- * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)]({{<relref "cveVEList.md">}}) to the exam session.
+ * SM (owner) or co-owner [adds participating Volunteer Examiners (VEs)]({{<relref "cveVEList.md">}}) to the exam session. Only add VEs who are actively participating in the exam and not all the members of your team.
 
 ## Applicant Registration:
 
-1. PRE-REGISTER: Direct applicants to pre-register (and pay online) before the exam by using the link on [HamStudy](https://ham.study).  The session listing may be public or private.  A public session will be listed on HamStudy and anyone may register for the exam.  A private session will not be listed on HamStudy and applicants will need to be sent the link to the session listing in order to view and register.  The SM marks the *Do not post on HamStudy.org* checkbox option.  Once a session has been listed publicly, applicants may able to navigate back to it even after the session listing is edited to hide it on HamStudy. 
-2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register in two ways.
+1. PRE-REGISTER: Direct applicants to pre-register (and pay online, if required) before the exam by using the link on [HamStudy](https://ham.study).  The session listing may be public or private.  A public session will be listed on HamStudy and anyone may register for the exam.  A private session will not be listed on HamStudy and applicants will need to be sent the link to the session listing in order to view and register.  The SM selects the *hidden* option.  Once a session has been listed publicly, applicants may able to navigate back to it even after the session listing has been edited hide on HamStudy. 
+2. WALK-INS or SAME DAY REGISTRATION: If you allow walk-ins on the day of the exam, assign a VE to help applicants register.
 
-- On [https://ham.study](https://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information.
-- In ExamTools, a VE can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
+- *Highly recommended and easiest method:* On [https://ham.study](https://ham.study/), direct applicants to use their own device (a smartphone or tablet) or one provided by a VE to register. Applicants will receive a registration email which includes their pin and allows them to confirm their information. Tip: Use a QR Code linked directly to your session listing on HamStudy to allow people to register while waiting in line to check-in.  For larger exam sessions, create a walk-in/registeration area staffed with a VE to assist.  Provide a table, seating and tablets or laptops to be used for registration.  Onced registered, canidates can join the check-in line.
+- *If needed to resolve registration problems:* In ExamTools, a VE with co-owner permissions can register applicants using the **Add Applicant** feature located in the upper right corner of the applicants list. Applicants added in this manner will not receive a registration email.
 ![Add Applicant Icon](../images/addApplicant.png)
   
 A VE should confirm FRNs and call signs on the ULS.  Although ExamTools does have some automatic lookup features, all information should be confirmed by a real person. All applicants need a FRN to register on ExamTools. The FCC requires an email address which will used to contact the applicants about their license application.  The applicant may need to log in to CORES to pay (within ten calendar days) or License Manager obtain a copy of their license, if they do not receive emails from the FCC.
@@ -39,9 +39,9 @@ Since ExamTools registers the applicant electronically, the 605 may not be requi
 
 ## Paper or Device?
 
-- Paper exam booklets and answer sheets must be printed from ET by a SM. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
+- Paper exam booklets and answer sheets must be printed from ET by a SM or someone delegated to do so from within the ET team admin account. The paper exams are reusable, printed with or without figures, randomly generated and have unique test ID numbers. Font size is adjustable. Should be printed on white paper as some people have problems with reading on colored paper. Select exams to be graded by GradeCam. [Instructions on Printing Exams for GradeCam]({{<relref "printedExamCreation.md">}}) Check with your VEC to find out if they may print or reimburse you for the exams.  Suggestion: Use brightly colored folders or cover sheets to keep track of exams and elements.
 - Paper and grading templates provided to stocked teams may be used with ExamTools.  Check with your VEC to see to what the procedure is for accepting ExamTools exports for these types of sessions.  Supplemental files (i.e answer sheets) may be required.
-- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs, team or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC.
+- Devices (computers, tablets, smartphones) may be owned by the applicants, VEs, team or VEC. The ET process is nearly identical to a remote session. Devices may or may not be reimbursable by your VEC. Tip: Ask your community for donations of unused devices.  Many teams use 8inch Amazon Tablets.
 - Exam results may be shared depending on your VEC's policy. Exam results are found on the Applicant Tab under PRINT FORMS in the expanded view of the applicant.  On devices, exam results may be shared as each exam is randomly generated. When exams are graded by GradeCam, ET results may or may not be shared depending on the number of versions of the paper exam you have and if the exam is to be reused.  It would always be safe to provide the question pool number (i.e. T6A07) to the applicant.  
 
 ## Check in Applicants:
@@ -51,7 +51,8 @@ Change the applicant status from Registered to Seen in ExamTools to indicate tha
 - Check ID and collect any fee from applicants.
 - Use a paper roster provided to you by your VEC to track payment and ID check or download an applicant list from ExamTools and add columns for both. Defer to your VEC for direction.
 - Confirm any CSCE and add credit.
-- Confirm any existing license (current or expired).  
+- Confirm any existing license (current or expired).  ExamTools will attempt to link to current licenses.
+- Resolve any alerts on the Applicant record.  Some are just advisory and not resolveable. 
 
 ## Start Exam:
 
@@ -69,22 +70,24 @@ Suggestion: Provide each applicant with an instruction or exam cover sheet to pr
 
 ## To Test with a Device: 
 
-Provide each applicant with a sheet of blank paper, a pencil/pen and calculator, if needed. Inspect the device as you would for remote testing. The applicant needs only a web browser open and should be instructed to remain on that page only. Settings, profiles, and/or apps (i.e. Fully Kiosk) maybe used to secure VE team owned devices.
+Provide each applicant with a sheet of blank paper, a pencil/pen and calculator, if needed.  Inspect the device as you would for remote testing. The applicant needs only a web browser open and should be instructed to remain on that page only. Settings, profiles, and/or apps (i.e. Fully Kiosk) maybe used to secure VE team owned devices.
 
 The applicant should go to [https://exam.tools](https://exam.tools/) and join the session with the team identifier and the applicant pin. A VE will need to authorize at points during the exam as they would during a remote exam.
+
+ExamTools in-app calculator: For applicants, it is located in the upper left corner of the ExamTools exam screen. VEs also have access to a caculator in the upper right corner of the screen while logged into ExamTools.  The ExamTools calculator doesn't replace an applicant's need for their calculator or one provided by a team, it is only offered as an option.  Teams and applicants should use what they are confortable with and in some cases, allowing an applicant to use the calculator which they have practiced with and are familiar with is the best option for them.
 
 ## During Exam:
 
 For both paper and device testing, VEs should be assigned to monitor the applicants. Walk around behind the applicants with devices, make sure that they stay on the exam page and provide assistance when needed. VEs will need to assign themselves or a VE Admin or higher can assign Certifying VEs to each applicant.  This can be done during or after the exam is graded as ExamTools is flexible on when the VEs are assigned.  Defer to the team lead's instructions.
 
-The team should determine how they want the applicants to signal when they are done with the exam. For an exam taken on a device, the applicant can hit the grade exam button. For those who are using paper, they may need to raise their hand or bring their exam and materials to a specific table to be graded. All materials, pencil and calculators should be collected from the applicants.
+The team should determine how they want the applicants to signal when they are done with the exam. For an exam taken on a device, the applicant can hit the grade exam button and optionally, raise their hand so you can easily locate them. For those who are using paper, they may need to raise their hand or bring their exam and materials to a specific table to be graded. All materials including exam, scratch paper, pencil and calculator should be collected from the applicants.
 
 ## Grading Exams:
 
 For applicants using a device, they can proceed through the exam process as if they are being tested online.
 
 For paper exams, use GradeCam to grade the exam. Navigate to the
-Session Detail page, and click the GradeCam button. VE will be
+Manage Session page, and click the GradeCam button. VE will be
 prompted to choose the camera to use to scan. Center the filled out
 answer sheet within the camera window, and the software will grade
 the exam automatically. If ET cannot clearly determined which answer
@@ -92,28 +95,28 @@ was selected, the VE will be prompted to visually confirm the answer.
 This can occur when an applicant does not cleanly erase a previous
 answer when changing it. Any device with a camera (tablet, cell phone, or computer) may be used for scoring.
 The SM and the rest of the VE team may want to practice this and test out different devices in the
-[SandBox]({{<relref "../ve/getSandboxAccount.md">}}) before your session.
+[SandBox]({{<relref "../ve/getSandboxAccount.md">}}) before your session.  Lighting and shiney pencil lead can cause problems for ExamTools.
 
 ## To Add a Score from a Non-ExamTools Exam:
 
 A VE team may use existing exam booklets and scoring templates which were provided to them as a stocked team, if desired.  Go to the applicant record and use the Record External Exam feature under Manage to add the element, score and any notes for the exam.  Teams choosing this method should check with their VEC and confirm what additional documentation (i.e. original answer sheets) should be provided beyond the documents which ET exports.
 
-## Viewing 605 and Draft CSCE:
+## Viewing 605 and Draft CSCE in ExamTools:
 
-All applicants should be able to sign in or remain signed in using their own device (a smart phone) or one (a tablet, iPad, computer) provided to them to view their score, finish and sign forms (view 605/CSCE and create an electronic signature). For paper exam applicants, you can skip right to the 605/CSCE and signature by changing the applicant status to Ready to Sign in ET.
+All successful applicants should be able to sign into ExamTools or remain signed in using their own device (a smart phone) or one (a tablet, iPad, computer) provided to them to view their score, finish and sign forms (view 605/CSCE and create an electronic signature). For paper exam applicants, you can skip right to the 605/CSCE and signature by changing the applicant status to Ready to Sign in ET.
 
 ## Official Certificate of Successful Completion:
 
-Once the applicant and three Certifying VEs have all signed, a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. Only the co-owners have the ability to mark applicants complete, but any VE may send the CSCE.  The Mark Complete button displays to co-owners in the expanded view of the applicant.  All three VEs must sign before the Mark Complete button becomes active.  Once the applicant has been marked complete, they will drop to the bottom of the applicant list. A VE can then click on the up arrow displaying just to the right of the applicant's pin to send the CSCE.
+Once the applicant and three Certifying VEs have all signed, a co-owner should **Mark Complete** the applicant and **send the CSCE**. The applicant should check their email which they used to register and confirm that they received the CSCE. Only the co-owners have the ability to mark applicants complete, but any VE may send the CSCE.  The Mark Complete button displays to co-owners in the expanded view of the applicant.  All three VEs must sign before the Mark Complete button becomes active.  Once the applicant has been marked complete, they will drop to the bottom of the applicant list. A VE can then click on the up arrow displaying just to the right of the applicant's pin to send the CSCE. The session is not complete until every successful applicant has been sent their CSCE.
 
 ## Applicants Who Did Not Pass:
 
-Will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. One common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED most all teams do not sign and some do not even keep VEs assigned for failed applicants. Check with your VEC for direction.
+Will not receive anything unless the team would like to either print or email the applicants the 605 from ET. Depending on the team's point of view, returning the 605 is completely unnecessary as the applicant did not provide a 605 when registering. One common practice for the three certifying VEs is to remain assigned to the non-passing applicant. Although ExamTools will allow VEs to sign a 605 on which NO NEW LICENSE OR UPGRADE WAS EARNED, most all teams do not sign and some do not even keep VEs assigned for failed applicants. Check with your VEC for direction.
 
 ## Closing the Session:
 
-* The SM cleans up the manifest, will remove any non-participating VEs and add any that did participate. Optionally, remove applicants who did not show. Then, clicks **Finalize Session**.
-* Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc). A few VECs have an upload portal to submit the session documents and do not require the materials to be mailed back.
+* The SM cleans up the manifest by removing any non-participating VEs and add any that did participate. The VEs listed on the session are included in the offical documentation for the session and when they finalize the session they are confirming that everything about the session is correct including which VEs were in attendance and witnessed the exam session.  Optionally, remove applicants who did not show. If they are submitting instead of refunding exam fees for no show applicants, best practice is to leave them listed on the session. Then, clicks **Finalize Session**.
+* Session Manager submits session docs (EXPORT>VEC Archive) to the Volunteer Examiner Coordinator (VEC) along with any other requested documentation (i.e. expense report, CSCEs, etc). Most VECs have an upload portal to submit the session documents and do not require the materials to be mailed back.  Everything that a VEC needs is included in the VEC ARCHIVE.
 
 ## VEC Upload, Licenses and Upgrades:
 
