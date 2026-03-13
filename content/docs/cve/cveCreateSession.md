@@ -40,9 +40,9 @@ Start under **General session information:**:
 
 * **Event Name**:  Enter your session title to display in HamStudy listing. You may want to include unique information which isn't listed in other fields.
   
-* **Session Identifier**: This fleid is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in paratheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list, *(i.e hidden or note a particular VEC, a team lead or location)*. It doesn't display in HamStudy.
+* **Session Identifier**: This field is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in parentheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list, *(i.e hidden or note a particular VEC, a team lead or location)*. It doesn't display in HamStudy.
 
-* **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even, if you are using tablets or computers for the exam. 
+* **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even if you are using tablets or computers for the exam. 
 
 
 
@@ -73,7 +73,7 @@ Then, choose your **Schedule:** options.
 
 *  **Listing Visibility:** Visible / Hidden
 **  If set to "hidden" then this session will not appear on any public session listings. This can be useful if you want to keep the session "private" so only people coming from your website can access it -- the registration link can be found on the session page.  Especially helpful, if you want to work on your session listing ahead of time and aren’t quite ready for applicants or want to share a private link to a certain population for whom the session has been scheduled.  (i.e. Local radio club or college course)  The session is still accessible online, but the applicant will need a private link to view.  When you are ready to list your session on HamStudy, return to the session in ET and uncheck the box and it will appear in the HamStudy list of [Upcoming test sessions](https://ham.study/sessions). 
-* **Session Date** Enter the date of you exam.
+* **Session Date** Enter the date of your exam.
 * **Start Time** Enter time which your applicants should expect the exam to begin.
 Use the clock icon for a touch-friendly time picker
 * **Duration (minutes):**  Enter the number of minutes you expect the session to last (i.e. a two-hour exam would be 120 mins). This is purely informational and displayed on the session listing page.
@@ -90,23 +90,23 @@ Select, Add or Edit your **Locations:**.
 
 Configure Elements Offered, Exam Fee and Registration Notices.
 
-* **All exam elements offered?** If this is selected then all elements will be displayed as an option in the registration process.  If you select specific elements, limiting the choices, only those selected options will appear during the registration process and the applicant will only be able to choose from those.  It doesn't prevent an applicant from taking another exam on the day of the session, but it prevents them from indicating their intent to take an element.  For example, you might hava tech only exam and select Element 2: Technician.  The applicant registers and can only choose from Technician.  On the day of the exam, you find out that you have enought VEs to admister a General exam and the applicant is allowed to take the exam.  ExamTools won't prevent them from taking and exam which wasn't indicated at registration.  What was indicated will display as part of the applicant information when expanded in the session on the applicant tab.
+* **All exam elements offered?** If this is selected then all elements will be displayed as an option in the registration process.  If you select specific elements, limiting the choices, only those selected options will appear during the registration process and the applicant will only be able to choose from those.  It doesn't prevent an applicant from taking another exam on the day of the session, but it prevents them from indicating their intent to take an element.  For example, you might hava tech only exam and select Element 2: Technician.  The applicant registers and can only choose from Technician.  On the day of the exam, you find out that you have enough VEs to administer a General exam and the applicant is allowed to take the exam.  ExamTools won't prevent them from taking and exam which wasn't indicated at registration.  What was indicated will display as part of the applicant information when expanded in the session on the applicant tab.
 
-* **Examination Fee:**: This field should populate automatically in most cases baised on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in Other Notes field farther down in the form. 
+* **Examination Fee:**: This field should populate automatically in most cases baised on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in **Other Notes** field farther down in the form. 
 
 
 * **Receive email notifications on applicant registration?** If **Yes**, an email will be sent to the configured address each time someone registers for the session.
 Choose "Team Default" to use the default settings for your team. 
 
- * The New Applicant Registration notice will include the following applicant information: Name, License Class, FRN, Address, Email, Phone Number and the date/time of the session in which applicant registered.
+ * The New Applicant Registration notice will include the following applicant information: Name, License Class, FRN, Address, Email, Phone Number and the date/time of the session in which the applicant registered.
 
 ***
 
-Add your session discription for HamStudy and customize the email to your applicants.
+Add your session description for HamStudy and customize the email to your applicants.
 
-* **Publicly visible notes** *[(markdown enabled)](https://markdownguide.org)*: These are the notes which will appear with your session listing; they should be complete and useful. Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information. We strongly recommend including any special rules that your session has as well as a way for potential applicants to contact you. Using markdown, you can style your listing using headers and bullets, include pictures and logos, links and more.  Images must be hosted on another server.
+* **Publicly visible notes** *[(markdown enabled)](https://markdownguide.org)*: These are the notes which will appear with your session listing; they should be complete and useful. Add any additional information which wasn’t included in the rest of the listing.  For remote sessions, you may want to include the time and time zone again, links to instructions, how to pay, and contact information. We strongly recommend including any special rules that your session has as well as a way for potential applicants to contact you. Using markdown, you can style your listing using headers and bullets, to include pictures and logos, links and more.  Images must be hosted on another server.
 
-* **Notes for applicant (email):** Information entered will be emailed to applicants when they register for your session -- it will not be shown to anyone who has not registered for your session, so it is less public than the regular notes. You can use this option to send your applicant the Zoom link for your remote session or specific directions to your phyical location, but keep in mind that you will also need to copy over pertainent information from the public notes that you want emailed to the applicants.  If the **notes for applicants** is left empty, then the public notes will be sent instead.
+* **Notes for applicant (email):** Information entered will be emailed to applicants when they register for your session -- it will not be shown to anyone who has not registered for your session, so it is less public than the regular notes. You can use this option to send your applicant the Zoom link for your remote session or specific directions to your physical location, but keep in mind that you will also need to copy over pertinent information from the public notes that you want emailed to the applicants.  If the **notes for applicants** box is left empty, then the **public notes** will be sent instead.
  
 * Review your listing carefully and click [Save] when done.
 
