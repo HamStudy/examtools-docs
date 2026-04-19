@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 ## To Add a Session to HamStudy
 
-Detailed instructions to schedule an exam session in the ExamTools software are written below.  You may also watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walk-through.
+Below are instructions for scheduling and editing an exam session in the ExamTools application.  Watch [this video](https://www.youtube.com/watch?v=vyoIsFpNkZ8&list=PLDxsQ4bjUNnppBmsjEE9vad-ZuQonD8Bp&index=3) for a walk-through. You must have an verified ExamTools account with team lead status or be on a Team Account where you have been granted premission to create exam sessions. 
 
 * Login to **[ExamTools](https://exam.tools)** by clicking on [SIGN IN] under Assist with or Manage Exams.
 
@@ -24,25 +24,25 @@ Detailed instructions to schedule an exam session in the ExamTools software are 
 
 * **ExamTools (ET)** should open in the **[Session List](https://exam.tools/ve/)**.
 
-* In the middle top of the Session List, click on **[+ NEW SESSION]([https://exam.tools/ve/sessions/new))**. If you do not see the **NEW SESSION** button, then contact your VEC to confirm your team lead status.
+* In the middle top of the Session List, click on **[+ NEW SESSION]([https://exam.tools/ve/sessions/new))**. If you do not see the **NEW SESSION** button, make sure that you have created a Team Account.  If you do not see [Team Accounts]({{<relref "/cveTeams.md">}}) as an option on your left navigation, then contact your VEC to confirm your team lead status.
 
-The **Schedule new session** window should display.
+The **Schedule new session** window should display. For additional help, click on any of the blue bubbles with a question mark.  
 
 ***
 
 Start under **General session information:**:
 
-* **Team:**: Select a team from the drop-down list.  If you do not see any teams listed, you will need to either create a **Team Account** or be added to an exisiting team account as a co-owner. [More info about Team Accounts]({{<relref "/cveTeams.md">}})
+* **Team:**: Select a team from the drop-down list.  If you do not see any teams listed, you will need to either create a **Team Account** or be added to an existing team account as a co-owner. [More info about Team Accounts]({{<relref "/cveTeams.md">}})
 
-* **VEC**:  Select the VEC organization which is associated with this exam. If you do not see the desired VEC, check your Team Account delgates and also your profile to confirm team lead status.
+* **VEC**:  Select the VEC organization which is associated with this exam. If you do not see the desired VEC, check your Team Account delegates and also your profile to confirm team lead status.
 
 * **Team Lead**:  Select the person who is responsible for the session.
 
-* **Event Name**:  Enter your session title to display in HamStudy listing. You may want to include unique information which isn't listed in other fields.
+* **Event Name**:  Enter your session title to display in the HamStudy listing and the Session List in ExamTools. Include unique information which isn't listed in other fields. The Event Name should be more descriptive than exam or test.
   
 * **Session Identifier**: This field is primarily used for the GLAARG ID number, but can be repurposed as a note field by non-GLAARG teams.  This field will display in the Session List in parentheses between the Team ID and the Event Name. Use to note something unique about a session which would be helpful to see displayed in the session list, *(i.e hidden or note a particular VEC, a team lead or location)*. It doesn't display in HamStudy.
 
-* **Session Type**:  Select Online Session or In-Person Session from the radio buttons. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even if you are using tablets or computers for the exam. 
+* **Session Type**:  Select **In-Person** or **Online Remote**. This setting controls how your session is listed on HamStudy.  Online is used for remote sessions over a video-conference software.  In-Person is used for an exam session being held at a specific location even if you are using tablets or computers for the exam. 
 
 
 
@@ -63,7 +63,7 @@ Next, go to **Registration options:**
    
   * [External Link] - Your exam will appear on the schedule, but will be directed to another website to register.  Enter your url in the **Registration link** field.
 
-  * [Email Link] - Your exam will appear on the schedule, but applicants will be provided with an Contact Name and Email Address to use to contact the team to register for your exam.
+  * [Email Link] - Your exam will appear on the schedule, but applicants will be provided with a Contact Name and Email Address to use to contact the team to register for your exam.
   
 ***
 
@@ -90,9 +90,9 @@ Select, Add or Edit your **Locations:**.
 
 Configure Elements Offered, Exam Fee and Registration Notices.
 
-* **All exam elements offered?** If this is selected then all elements will be displayed as an option in the registration process.  If you select specific elements, limiting the choices, only those selected options will appear during the registration process and the applicant will only be able to choose from those.  It doesn't prevent an applicant from taking another exam on the day of the session, but it prevents them from indicating their intent to take an element.  For example, you might hava tech only exam and select Element 2: Technician.  The applicant registers and can only choose from Technician.  On the day of the exam, you find out that you have enough VEs to administer a General exam and the applicant is allowed to take the exam.  ExamTools won't prevent them from taking and exam which wasn't indicated at registration.  What was indicated will display as part of the applicant information when expanded in the session on the applicant tab.
+* **All exam elements offered?** If this is selected then all elements will be displayed as an option in the registration process.  If you select specific elements, limiting the choices, only those selected options will appear during the registration process and the applicant will only be able to choose from those.  It doesn't prevent an applicant from taking another exam on the day of the session, but it prevents them from indicating their intent to take an element.  For example, you might hava tech only exam and select Element 2: Technician.  The applicant registers and can only choose from Technician.  On the day of the exam, you find out that you have enough VEs to administer a General exam and the applicant is allowed to take the exam.  ExamTools won't prevent them from taking an exam which wasn't indicated at registration.  What was indicated will display as part of the applicant information when expanded in the session on the applicant tab.
 
-* **Examination Fee:**: This field should populate automatically in most cases baised on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in **Other Notes** field farther down in the form. 
+* **Examination Fee:**: This field should populate automatically in most cases based on your VEC policies once you have selected a VEC in the general session information section.  If not, enter the amount for your exams as directed by your VEC. You can add payment information, terms and info about waived fees in the session description in **Other Notes** field farther down in the form. 
 
 
 * **Receive email notifications on applicant registration?** If **Yes**, an email will be sent to the configured address each time someone registers for the session.
