@@ -29,3 +29,7 @@ The [ExamTools ecosystem]({{<relref "../general/websiteDecoder.md">}}) has two d
 * Inform your Team Lead that you are set up on ExamTools and ready to participate in sessions.
 
 If you plan to run practice exam sessions, setup your [sandbox account]({{<relref "getSandboxAccount.md">}}) once you have completed the production account process above.
+
+## Related guides
+
+- [Update Your Email Address]({{<relref "updateEmailAddress.md">}}) — Change the email address associated with your ExamTools account
