@@ -6,6 +6,7 @@
   HUGO_VERSION = "0.161.1"
   HUGO_EXTENDED = "true"
   HUGO_ENABLEGITINFO = "true"
+  NODE_VERSION = "20"
 
 [context.production.environment]
   HUGO_ENV = "production"
