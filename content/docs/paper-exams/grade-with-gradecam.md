@@ -15,7 +15,7 @@ GradeCam is a bubble-sheet scanning tool built into ExamTools. A VE holds a comp
 
 Open your session, then click **GradeCam** in the session toolbar. The scanner opens in a new browser tab. Allow camera access when prompted.
 
-<SCREENSHOT: Session toolbar with GradeCam button highlighted>
+![Session header showing the GradeCam, Download, Print, and overflow buttons in the toolbar](/img/docs/paper-exams/paper-gradecam-toolbar.png)
 
 ## Scan each bubble form
 
@@ -31,11 +31,7 @@ Open your session, then click **GradeCam** in the session toolbar. The scanner o
 
 6. A preview dialog titled **Answer Sheet Scanned** appears showing the applicant name, Exam ID, element, and all answers. Review the answers, then click **Grade Scan**.
 
-   <SCREENSHOT: Answer Sheet Scanned dialog showing applicant name, Exam ID, element, detected answers, and Grade Scan button>
-
 7. The **Exam Results** dialog shows the outcome — **Passed!** or **Did not pass** — with the score and a list of any missed questions. Click **Close**.
-
-   <SCREENSHOT: Exam Results dialog showing Pass/Fail outcome, score, and missed questions list>
 
 The result is now recorded on the applicant's record in the session. Repeat for each applicant's bubble form.
 

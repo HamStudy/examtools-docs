@@ -18,7 +18,7 @@ After all applicants are marked complete, a Co-Owner finalizes the session by en
 
 1. In the session view, click **Finalize Session**.
 
-   <SCREENSHOT: Session view with Finalize Session button highlighted>
+   ![Session header showing the date, session title, and Finalize Session button in the top right](/img/docs/sessions/session-finalize-button.png)
 
    A confirmation dialog appears:
 
@@ -26,7 +26,7 @@ After all applicants are marked complete, a Co-Owner finalizes the session by en
 
 2. Click **Review Forms** to preview the signed session paperwork as a PDF before proceeding.
 
-   <SCREENSHOT: Finalize Session confirmation dialog showing warning text, Review Forms button, and password entry field>
+   ![Finalize Session dialog showing the warning text, Review Forms button, Password field, and Complete button](/img/docs/sessions/session-finalize-dialog.png)
 
 3. Enter your ExamTools password when prompted:
 
@@ -58,7 +58,9 @@ The session returns to **In progress** status.
 
 After finalization, use the **Print** and **Download** menus in the session view to retrieve forms and export files.
 
-<SCREENSHOT: Session view after finalization showing Print and Download menus open with all available export options> Some items are only available once the session is closed.
+![Session view showing the Download menu open with export options including VEC Archive, Laurel SessionManager, W5YI, JSON export, EBF File, Applicant List, and Applicant JSON](/img/docs/sessions/session-download-menu.png)
+
+Some items are only available once the session is closed.
 
 ### Print menu
 

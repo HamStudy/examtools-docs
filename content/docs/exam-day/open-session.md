@@ -19,7 +19,7 @@ Starting the session allows applicants to sign in and begin their exams. Do this
 
 3. Click **Start Session** in the top-right area of the session header.
 
-   <SCREENSHOT: Session header with Start Session button>
+   ![Session header showing the date, session title, and Start Session button in the top right](/img/docs/sessions/session-open-start.png)
 
 4. A confirmation dialog appears:
 

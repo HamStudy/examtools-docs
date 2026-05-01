@@ -17,7 +17,7 @@ The applicant list shows every registered applicant as a row. Each row displays:
 
 Click a row to expand it and see all available actions for that applicant.
 
-<SCREENSHOT: Applicant list showing a row expanded with action buttons visible (Manage, Status, Mark Complete, Print Forms, signature indicator)>
+![Session Applicants tab showing an expanded applicant row with Assign to Me, Manage, Status, and Print Forms action buttons visible](/img/docs/sessions/session-applicant-list.png)
 
 ### Sorting the list
 
@@ -55,7 +55,7 @@ If an applicant has not pre-registered, a Co-Owner can add them on the spot — 
 1. Click the **Add Applicant** icon (person with a plus) in the applicant toolbar.
 2. Fill in the applicant's information (FRN or callsign, name, elements desired).
 
-   <SCREENSHOT: Add Applicant dialog showing FRN/callsign, name, and exam element fields>
+   ![New Applicant form showing fields for license status, FRN, applicant identity, address, contact information, and exam element options](/img/docs/sessions/session-add-applicant.png)
 
 3. Click **Save**. The applicant appears in the list and receives a PIN if PIN issuance is enabled.
 
@@ -85,7 +85,7 @@ VEs respond to applicant requests directly from the session view. When an applic
 
 The **Manage** button (person with edit icon) opens a dropdown with the following options depending on role and applicant state:
 
-<SCREENSHOT: Manage dropdown open showing available actions (Edit Applicant, View Applicant, Re-open, Delete Applicant, Email CSCE, Move to another session, etc.)>
+![Expanded applicant row with the Manage dropdown open showing Edit Applicant, Delete Applicant, Move to another session, Add Credit, and Record External Exam options](/img/docs/sessions/session-manage-dropdown.png)
 
 | Action | Available when | Who can |
 |--------|---------------|---------|
@@ -110,7 +110,7 @@ The dialog includes editable fields for name, FRN, callsign, address, license cl
 - **Restrict question selection to:** — Limits the exam to questions without figures (accessibility option; Co-Owner only)
 - **Preferred Language** — Changes the exam language if supported by the VEC
 
-<SCREENSHOT: "Warning: Signatures will be Cleared" confirmation dialog with warning text and confirm/cancel buttons>
+!["Warning: Signatures will be Cleared" dialog explaining that changes to applicant information will remove existing signatures, with Cancel and Continue buttons](/img/docs/sessions/session-signatures-warning.png)
 
 > **Warning: editing applicant information clears signatures.** If the applicant or any VE has already signed the Form 605 and you change any personal information field (name, address, FRN, callsign, license class, contact info, or felony status), ExamTools will warn you: *"Making changes to the applicant's information will remove the existing signatures on the 605 form. If you continue, both the applicant and the Volunteer Examiners (VEs) will need to provide new signatures."* You must confirm before the save proceeds. The application title for this dialog is **"Warning: Signatures will be Cleared"**.
 
@@ -140,7 +140,7 @@ Constraints:
 
 Unlocks a finalized applicant record so corrections can be made. Requires the Co-Owner's password.
 
-<SCREENSHOT: Re-open confirmation dialog showing the strong warning about voiding existing documentation and the password field>
+![Re-open session confirmation dialog warning that reopening can lead to data inconsistency, with Cancel and OK buttons](/img/docs/sessions/session-reopen-warning.png)
 
 **Use with caution.** ExamTools warns: *"This application has already been finalized; re-opening it is the equivalent of tearing up the existing CSCE and 605 forms in order to make additional changes — except that copies may have already been made. This could result in incorrect signed documentation being present outside of the system."* A full audit of this action is saved and can be reviewed by the VEC.
 
@@ -176,7 +176,7 @@ The **Status** button shows the applicant's current status and opens a dropdown 
 
 The **Mark Complete** button finalizes the applicant's record. This locks their data and marks them as done. Required for each applicant before the session itself can be finalized.
 
-<SCREENSHOT: Expanded applicant row with Mark Complete button active, showing all signatures collected>
+![Completed applicant row highlighted in green showing STATUS: FINALIZED, Manage and Print Forms buttons, and Exam History with a passing score](/img/docs/sessions/session-applicant-complete.png)
 
 Prerequisites for marking complete:
 - All exams are graded (or voided)

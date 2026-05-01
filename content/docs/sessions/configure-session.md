@@ -13,7 +13,7 @@ After creating a session, you can edit any of its settings until the session is 
 
 3. Click **EDIT SCHEDULE** near the top of the session view.
 
-   <SCREENSHOT: Session view with EDIT SCHEDULE button highlighted>
+   ![Session view showing the session header with the overflow menu open revealing Edit Schedule and Old Manifest options](/img/docs/sessions/session-edit-schedule.png)
 
 4. The session form opens with the current settings loaded. Make your changes and click **Save**.
 

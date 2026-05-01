@@ -15,7 +15,7 @@ Create a team account in ExamTools to schedule sessions and manage your administ
 
 2. Click **+ New Team Account**.
 
-   <SCREENSHOT: Team Accounts page with + New Team Account button>
+   ![ExamTools Team Accounts page listing existing teams with a + New Team Account button in the upper right](/img/docs/teams/teams-list-new-button.png)
 
 3. The **New Team Account** window appears. Fill in the four fields:
 
@@ -32,7 +32,7 @@ Create a team account in ExamTools to schedule sessions and manage your administ
 
    **VEC** — Select the VEC(s) under which this team will schedule sessions. You can only select VECs for which you hold team lead credentials.
 
-   <SCREENSHOT: New Team Account dialog with fields filled in>
+   ![New Team Account dialog with fields for Team Identifier, Team Name, Contact E-mail Address, and VEC](/img/docs/teams/teams-new-dialog.png)
 
 4. Click **Save**.
 
@@ -44,13 +44,13 @@ Before the team can schedule sessions, at least one owner or co-owner must deleg
 
 2. Click the pencil (edit) icon next to **Delegated Privileges**.
 
-   <SCREENSHOT: Manage Account page showing Delegated Privileges section with edit pencil icon>
+   ![Manage Account page showing the Delegated Privileges section with delegated VEC cards and a pencil edit icon](/img/docs/teams/teams-manage-delegated-privileges.png)
 
 3. The **Delegated Privileges** dialog opens with the subtitle: *"Which of your VEC credentials should this team be allowed to use to schedule exams?"*
 
    Check the VEC(s) you want to make available to this team.
 
-   <SCREENSHOT: Delegated Privileges dialog showing VEC checkbox options>
+   ![Delegated Privileges dialog showing a list of VEC credentials with checkboxes to select which the team can use to schedule exams](/img/docs/teams/teams-delegated-privileges-dialog.png)
 
 4. Click **Save**.
 

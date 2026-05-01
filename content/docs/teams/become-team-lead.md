@@ -16,7 +16,7 @@ Team lead status in ExamTools comes from your VEC — it is part of your VE accr
 2. Go to your **Profile** (upper left navigation).
 3. Expand **Volunteer Examiner Credentials** by clicking the arrow on the right.
 
-   <SCREENSHOT: Profile showing Volunteer Examiner Credentials section expanded>
+   ![ExamTools Profile page showing the Volunteer Examiner Credentials section expanded, listing multiple VEC accreditations with credential type (Team Lead or Volunteer Examiner) beside each](/img/docs/account-setup/profile-vec-credentials-expanded.png)
 
 4. Look at what your VEC credential says. You need to see **Team Lead** next to the VEC you plan to run sessions under.
 

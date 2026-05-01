@@ -11,7 +11,7 @@ Exam PDFs are generated from the **Generate Exams** page, accessible from the si
 
 2. Select a **grading method** using the buttons at the top:
 
-   <SCREENSHOT: Generate Exams page showing Manual Grading, Pre-determined Key, and Scan with GradeCam grading method buttons>
+   ![Generate Exams page showing Manual Grading, Pre-determined Key, and Scan with GradeCam method tabs above the exam generation options form](/img/docs/paper-exams/paper-generate-page.png)
 
    - **Manual Grading** — produces an exam booklet and a separate answer key PDF for hand grading
    - **Pre-determined Key** — generates exams based on a fixed answer key you select
@@ -29,7 +29,7 @@ Exam PDFs are generated from the **Generate Exams** page, accessible from the si
    - **Omit questions with figures** — excludes questions that require a diagram
    - **Output Format** — PDF (default) or TEXT (ZIP)
 
-   <SCREENSHOT: Exam generation options panel showing Text Size, Print answer keys, Omit questions with figures, and Output Format controls>
+   ![Exam generation options showing Text Size dropdown, Question Pool selector, number of exams slider, Omit questions with figures toggle, and PDF/Text output format buttons](/img/docs/paper-exams/paper-generate-options.png)
 
 6. Click **Generate**. ExamTools builds a unique, randomized exam for each copy and downloads the file.
 
@@ -49,7 +49,9 @@ On the Generate Exams page, scroll to **Supplemental resources** and download th
 
 Print one bubble form per applicant (plus extras). Bubble forms are not pre-assigned to applicants — the applicant fills in their own **Applicant ID** (their PIN) and **Exam ID** (from their booklet) by bubbling the digits, and also bubbles the element (T, G, or E).
 
-<SCREENSHOT: GradeCam bubble form showing Applicant ID, Exam ID, and element (T/G/E) bubble fields that the applicant must complete> GradeCam reads these bubbled fields to identify the applicant and score the exam against the correct answer key.
+![GradeCam bubble form showing Applicant Name, Applicant ID, and Exam ID fields at the top, element bubbles (T/G/E), and numbered answer bubble rows 1–50](/img/docs/paper-exams/paper-gradecam-form.png)
+
+GradeCam reads these bubbled fields to identify the applicant and score the exam against the correct answer key.
 
 ---
 

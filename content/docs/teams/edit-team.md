@@ -18,7 +18,7 @@ Edit your team's profile, contact information, website, and saved locations from
 
 Most fields use inline editing: click the pencil (edit) icon next to a value to open an edit field, make your change, then click **Save** or press **Enter**. Click **Cancel** to discard the change.
 
-<SCREENSHOT: Manage Account page showing a field in inline edit mode with pencil icon, edit input, and Save/Cancel buttons>
+![Manage Account page showing a team field in inline edit mode with a text input and Save and Cancel buttons](/img/docs/teams/teams-manage-inline-edit.png)
 
 ### Team Identifier
 
@@ -41,7 +41,9 @@ The **Contact E-mail Addresses** field accepts one or more email addresses for t
 
 Below the address list is a toggle labeled **Receive email notifications on applicant registration?** Set this to **Yes** to receive an email each time someone registers for a session.
 
-<SCREENSHOT: Contact E-mail Addresses section showing email list and Receive email notifications toggle set to Yes/No> This setting can be overridden on a per-session basis.
+![Contact E-mail Addresses section showing a list of email addresses and a Receive email notifications on applicant registration toggle](/img/docs/teams/teams-manage-contact-email.png)
+
+This setting can be overridden on a per-session basis.
 
 ### Team Website
 
@@ -52,9 +54,9 @@ Enter a valid `http://` or `https://` URL for the team's website. This is option
 The **Locations** section stores addresses that can be reused across sessions. Saved locations appear in the session creation form as quick-select options.
 
 **To add a location:**
-- Click **Add Location** and choose either **Add via Map** (Google Maps picker) or **Enter Manually**.
+- Click **Add Location** and choose either **Simple Entry** (manual form) or **Advanced** (Google Maps picker).
 
-  <SCREENSHOT: Add Location dialog showing Add via Map and Enter Manually options>
+  ![Add Location dialog showing Simple Entry and Advanced options for entering a location address](/img/docs/teams/teams-add-location-dialog.png)
 
 **To edit a location:**
 - Select the location from the dropdown and click **Edit Location**.

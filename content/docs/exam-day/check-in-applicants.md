@@ -32,7 +32,7 @@ When an applicant submits a join request, a red badge appears on the applicant l
 
 1. In the session view, click the red pending-actions badge on the applicant list — or expand the individual applicant row.
 
-   <SCREENSHOT: Applicant list with red pending-action badge>
+   ![Applicant list showing an applicant row with a red pending-action badge indicating a join request is waiting for approval](/img/docs/sessions/session-check-in-badge.png)
 
 2. A dialog appears:
 

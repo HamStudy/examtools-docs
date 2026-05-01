@@ -25,7 +25,7 @@ Two preview buttons let the applicant review their forms before signing:
 - **Review Quick-form 605** — opens the Form 605 as a PDF
 - **Review CSCE** — opens the CSCE as a PDF (for applicants who passed)
 
-<SCREENSHOT: Applicant signing page showing Review Quick-form 605 and Review CSCE buttons above the certification box>
+![Applicant signing page showing the applicant identity card, Review Quick-form 605 and Review CSCE buttons, and the certification and signature area below](/img/docs/sessions/session-signing-page.png)
 
 ### Sign
 
@@ -36,7 +36,7 @@ In the certification box, the applicant:
 3. Draws their signature in the signature pad
 4. Clicks **Sign Documents** (disabled until both the name and a signature are provided)
 
-<SCREENSHOT: Certification box showing legal name field, signature pad, Sign Documents button, and Clear Signature option>
+![Certification box showing the certification text, Full Name of signer field, signature pad with Sign Here placeholder, and Clear Signature and Sign Documents buttons](/img/docs/sessions/session-signing-cert.png)
 
 A final confirmation appears:
 
@@ -54,7 +54,7 @@ Confirming signs both Form 605 and the CSCE in one step.
 
 Each assigned VE signs from the session view. Three VE signatures are required before the applicant can be marked complete.
 
-<SCREENSHOT: Applicant row showing signature indicator with badge count — amber when under 3 VE signatures, tooltip "Click to manage signatures">
+![Expanded applicant row showing STATUS: SIGNED with signature indicator badge, action buttons, and Exam History showing a passing score](/img/docs/sessions/session-signing-indicator.png)
 
 The **signature indicator** (file-signature icon with a badge showing the count of signatures collected) is visible on each applicant row. The tooltip reads **"Click to manage signatures"** when the applicant has already signed, or **"Manage VE signatures after applicant signs"** when they have not.
 
@@ -73,7 +73,7 @@ Two tabs offer signature options:
 - **Use Saved Signature** — applies the VE's signature already on file
 - **Use New Signature** — draw a new signature in the pad; an option to **Save as default signature** saves it for future use
 
-<SCREENSHOT: VE signing dialog showing "Are you ready to sign the 605 and CSCE?" title, Use Saved Signature / Use New Signature tabs, and Password field>
+![VE signing dialog titled "Are you ready to sign the 605 and CSCE?" showing the certification statement, Use Saved Signature and Use New Signature tabs, and a Password field](/img/docs/sessions/session-ve-sign-dialog.png)
 
 A **Password** field is required regardless of which tab is used.
 

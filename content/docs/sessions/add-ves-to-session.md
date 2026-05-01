@@ -20,11 +20,11 @@ VEs are added to individual sessions, not to the team account. You can add VEs a
 
 3. Click **+ ADD VES**.
 
-   <SCREENSHOT: Session view showing Volunteer Examiner tab and + ADD VES button>
+   ![Session Volunteer Examiners tab showing a list of VEs with their session roles and a + ADD VES button](/img/docs/sessions/session-ve-list.png)
 
 4. The **Add Volunteer Examiners** window appears. In the **VE call sign (enter to add)** field, type a callsign and press **Enter**. Repeat for each VE you want to add.
 
-   <SCREENSHOT: Add Volunteer Examiners dialog showing callsign entry field>
+   ![Add Volunteer Examiners dialog showing a VE entry with callsign input field, a listed VE, and Cancel and Save buttons](/img/docs/sessions/session-add-ve-dialog.png)
 
    If you see **NOT REGISTERED** next to a callsign, that VE does not have what they need to join the session:
    - No ExamTools account → they need to [create one](../account-setup/create-account)

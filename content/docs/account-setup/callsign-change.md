@@ -13,7 +13,7 @@ If you receive a new callsign, ExamTools updates automatically. You do not need 
 
 3. Confirm your callsign has updated in your profile on both your production and sandbox accounts (if you have one).
 
-   <SCREENSHOT: Profile page showing updated callsign in the Volunteer Examiner Credentials section>
+   ![ExamTools Profile page showing a verified callsign under Call sign and the Volunteer Examiner Credentials section expanded with VEC accreditations listed](/img/docs/account-setup/profile-vec-credentials-expanded.png)
 
 ## What to expect during the transition
 

@@ -17,7 +17,7 @@ Team administrators are the small group of VEs who handle scheduling, session ma
 
 2. Find the **Administrators** section and click **+ INVITE**.
 
-   <SCREENSHOT: Manage Team Account page showing Administrators section with + INVITE button>
+   ![Manage Account page showing the Administrators section listing current admins with their permission levels and a + INVITE button](/img/docs/teams/teams-manage-administrators.png)
 
 3. Enter the callsign of the VE you want to add. They must already have an ExamTools account.
 
@@ -41,7 +41,7 @@ To change a permission:
 3. Select the new permission level from the **Permissions** dropdown.
 4. Click **Save**.
 
-   <SCREENSHOT: Edit team admin permissions dialog>
+   ![Edit administrator dialog showing a Permissions dropdown with Owner, Co-owner, Schedule, and Print Exams options](/img/docs/teams/teams-admin-edit-dialog.png)
 
 ## Remove an administrator
 

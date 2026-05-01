@@ -19,13 +19,13 @@ ExamTools uses a saved digital signature for NCVEC Form 605 and exam pass certif
 
 3. Find the **Saved Signature** section on your profile page and expand it.
 
-   <SCREENSHOT: Profile page with Saved Signature section>
+   ![ExamTools Profile page showing the Saved Signature section expanded with a signature preview and a New Signature button](/img/docs/account-setup/profile-saved-signature.png)
 
 4. Click **New Signature**. A white box labeled **Sign Here** will appear.
 
 5. Use your mouse, trackpad, or touchscreen to draw your signature in the box. Sign the same way you would sign a paper form — this signature appears on official FCC documents.
 
-   <SCREENSHOT: Signature canvas with Sign Here label>
+   ![New Signature dialog showing a drawing canvas with a Sign Here watermark, a Clear Signature button, and Cancel/Save actions](/img/docs/account-setup/profile-signature-canvas.png)
 
 6. Click **Save**.
 

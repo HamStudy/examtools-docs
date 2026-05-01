@@ -42,7 +42,7 @@ After completing these steps, visit your profile at [exam.tools/me](https://exam
 - Your VEC accreditation listed
 - A signature preview
 
-<SCREENSHOT: Profile page showing callsign, VEC accreditation, and signature preview all present — the ready-to-go state>
+![ExamTools Profile page showing a verified callsign, Volunteer Examiner Credentials expanded with VEC accreditations and credential types listed, and a Saved Signature section — the complete ready-to-participate state](/img/docs/account-setup/profile-ready-state.png)
 
 If all three are present, you're ready to join a session.
 

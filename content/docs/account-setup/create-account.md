@@ -24,11 +24,11 @@ This guide walks through creating a production ExamTools account and getting you
 
 4. Sign in at [exam.tools](https://exam.tools) using the button labeled **Assist with an Exam** or **Assist with or Manage Exams**.
 
-   <SCREENSHOT: exam.tools homepage with Assist with an Exam / Assist with or Manage Exams sign-in button highlighted>
+   ![ExamTools homepage showing three options: Take an exam (for applicants), Assist with or Manage exams (for VEs with a Sign In button), and VE Documentation](/img/docs/account-setup/homepage-sign-in.png)
 
 5. After signing in, the page shows instructions for verifying your account. Click **Profile** in the upper left navigation to continue.
 
-   <SCREENSHOT: ExamTools dashboard after first sign-in, showing Profile link in upper left>
+   ![ExamTools Getting Started page after first sign-in, showing the Profile link in the left navigation and a welcome message prompting callsign verification](/img/docs/account-setup/dashboard-getting-started.png)
 
 ## Part 2: Verify your callsign
 
@@ -38,23 +38,21 @@ The process requires downloading your **Official License Copy** PDF from the FCC
 
 ### Get your Official License Copy from the FCC
 
-1. Go to the [FCC ULS License Manager](https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp) and log in with your FCC username and password.
-
-2. Find your license and download the **Official Copy** (PDF). This is distinct from the Reference Copy — you need the Official Copy specifically.
-
-   <SCREENSHOT: FCC ULS License Manager showing Official Copy download option>
+Follow the [FCC's guide to downloading your Official Copy](https://fccprod.servicenowservices.com/wireless?id=kb_article_view_public&sysparm_article=KB0017039&sys_kb_id=ccd5b0b61bd0a110fdb72f41f54bcb26&spa=1). You need the **Official Copy** specifically — not the Reference Copy, and not a scan or photo of your paper license.
 
 ### Submit the verification request in ExamTools
 
-1. On your ExamTools **Profile** page, find the **Verify Callsign** form.
+1. On your ExamTools **Profile** page, find the **Call sign** section and click **Verify Now**.
 
-   <SCREENSHOT: Profile page showing Verify Callsign section>
+   ![ExamTools Profile page showing the Call sign section with a "Your call sign has not been verified" message and a Verify Now button](/img/docs/account-setup/profile-verify-callsign.png)
 
-2. Upload the Official Copy PDF you downloaded from the FCC.
+2. In the dialog that opens, upload the Official Copy PDF you downloaded from the FCC.
+
+   ![ExamTools Verify Call Sign dialog showing the upload field, affirmation text, signature area, and Submit Request button](/img/docs/account-setup/profile-verify-callsign-dialog.png)
 
 3. Read and sign the verification form. By signing, you are declaring under penalty of law that you are the owner of this callsign. Falsifying this form constitutes forgery.
 
-4. Submit the form.
+4. Click **Submit Request**.
 
 ## Part 3: Wait for confirmation
 

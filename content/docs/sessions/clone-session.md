@@ -18,7 +18,7 @@ Cloning copies the settings of an existing session into a new one with a new dat
 
 3. Click **Clone session schedule** (available from within the session view or session list menu).
 
-   <SCREENSHOT: Session view or session list showing Clone session schedule option>
+   ![Session list showing a session row with the overflow menu open and a Clone option visible](/img/docs/sessions/session-clone-session.png)
 
 4. The session form opens pre-filled with the original session's settings. The form title reads **Clone session**.
 

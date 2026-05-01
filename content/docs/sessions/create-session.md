@@ -16,11 +16,11 @@ Schedule a new exam session for your team in ExamTools.
 
 2. Click **New session** (top right of the session list).
 
-   <SCREENSHOT: Session List page with New session button>
+   ![ExamTools Session List page showing upcoming sessions with EDIT SCHEDULE buttons and a + New Session button in the upper right](/img/docs/sessions/session-list.png)
 
 3. The session creation form opens in several sections. Complete them in order — some sections only appear after earlier choices are made.
 
-   <SCREENSHOT: Session creation form showing General session information section with Team, VEC, Team Lead, Event Name, and Session Type fields>
+   ![Session creation form showing the General session information section with Team, VEC, Team Lead, Event Name, Session Identifier, and Session Type fields](/img/docs/sessions/session-create-general.png)
 
 ---
 
@@ -87,7 +87,9 @@ Schedule a new exam session for your team in ExamTools.
 
 Select a saved location from your team's location dropdown. If no locations exist yet, or the location you need is not listed, click **Add location...** to add one now.
 
-<SCREENSHOT: Locations section showing saved location dropdown and Add location option> Locations added here are saved to the team and available for future sessions.
+![Session Locations section showing a saved location selected from a dropdown with the address displayed, and an Add Location button](/img/docs/sessions/session-create-locations.png)
+
+Locations added here are saved to the team and available for future sessions.
 
 - **In-person sessions:** The full street address appears in session documents and on HamStudy.
 - **Remote sessions:** Only city, state, and zip are required; the VEC uses this for record-keeping.
@@ -125,7 +127,7 @@ When an applicant registers (with ExamTools Registration and PIN issuance enable
 
 Before saving, ExamTools checks that required fields are filled. If anything is missing, a warning alert appears above the Save button listing what needs to be addressed:
 
-<SCREENSHOT: Session creation form showing validation warning alert above Save button with list of unresolved items>
+![Session creation form showing an orange validation warning alert above the Save button listing required items that must be addressed before saving](/img/docs/sessions/session-create-validation.png)
 
 | Warning | What to fix |
 |---------|-------------|

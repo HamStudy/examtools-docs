@@ -19,7 +19,7 @@ Both methods can be used in the same session, and an individual applicant can ta
 
 If the applicant needs a direct URL to sign in — common in remote sessions — click the applicant's **PIN badge** in the session view. A menu appears with the option **Copy Applicant Login Link**. This copies the applicant's personal portal URL to your clipboard.
 
-<SCREENSHOT: PIN badge menu open showing Copy Applicant Login Link option>
+![PIN badge menu open showing Copy Applicant Login Link, Copy Applicant Name, and Copy Applicant Summary options](/img/docs/sessions/session-pin-menu.png)
 
 ---
 
@@ -40,7 +40,7 @@ The applicant requests to start their exam from their portal. When they do, a re
 
 ## The applicant's exam interface
 
-<SCREENSHOT: Applicant exam interface showing question cards, lettered answer choices, unanswered-question number chips in toolbar, and navigation controls>
+![Applicant exam interface showing the toolbar with skipped-question chips and remaining count, question cards with lettered answer choices, and a figure-based question](/img/docs/sessions/session-exam-interface.png)
 
 Once the exam starts, the applicant sees a scrollable page with all questions displayed as individual cards. Each card shows:
 
@@ -59,7 +59,7 @@ Once the exam starts, the applicant sees a scrollable page with all questions di
 
 - A **Grade Exam** button appears at the bottom of the question list and in the top-right of the toolbar once all questions are answered.
 
-  <SCREENSHOT: Exam toolbar showing Grade Exam button (all answered) and Stop and Grade Exam button (unanswered remaining)>
+  ![Grade exam dialog showing applicant identity information and username/password fields for VE authorization](/img/docs/sessions/session-grade-exam.png)
 
 - If there are unanswered questions, the button reads **Stop and Grade Exam** and clicking it prompts a confirmation: *"You have not answered all questions; any question which is not answered will be marked wrong. Are you sure you want to stop the exam?"*
 - After the applicant clicks **Grade Exam** (or confirms early submission), they see a waiting screen while the VE authorizes grading.
