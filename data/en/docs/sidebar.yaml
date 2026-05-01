@@ -97,6 +97,11 @@
     - title: Get Help
       url: /docs/troubleshooting/get-help/
 
+- title: For Applicants
+  pages:
+    - title: Applicant Reference
+      url: /docs/applicants/applicant-guide/
+
 - title: About
   pages:
     - title: About ExamTools
