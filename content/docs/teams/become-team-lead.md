@@ -25,7 +25,7 @@ Team lead status in ExamTools comes from your VEC — it is part of your VE accr
 
 ## If you only see "Volunteer Examiner"
 
-Contact your VEC and ask them to grant you team lead (session manager) status. Most VECs update ExamTools automatically once they approve you — you should see the updated credentials within a few hours of their approval.
+Contact your VEC and ask them to grant you team lead (session manager) status. ExamTools syncs VEC records every 4 hours, but VECs update on their own schedule — allow up to 24–48 hours after your VEC confirms the change before expecting it to appear.
 
 ExamTools staff do not grant team lead status. This must come from your VEC.
 
