@@ -19,6 +19,11 @@
       "src": "/img/icon/icon-180.png",
       "type": "image/png",
       "sizes": "180x180"
+    },
+    {
+      "src": "/img/icon/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "background_color": "#0d1b2a",
