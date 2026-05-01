@@ -26,10 +26,10 @@
       <ul role="menu" class="dropdown-menu">
         {{ if .IsTranslated }}
           {{ range .AllTranslations }}
-          <li role="menuitem"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+          <li role="menuitem"><a href="{{ .Permalink }}">{{ .Language.Label }}</a></li>
           {{ end }}
         {{ else }}
-          <li role="menuitem"><a href="#">{{ .Language.LanguageName }}</a></li>
+          <li role="menuitem"><a href="#">{{ .Language.Label }}</a></li>
         {{ end }}
       </ul>
     </div>

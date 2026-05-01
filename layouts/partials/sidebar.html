@@ -1,4 +1,4 @@
-{{ $data := index .Site.Data .Site.Language.Lang .Section "sidebar" }}
+{{ $data := index hugo.Data .Site.Language.Lang .Section "sidebar" }}
 
 <aside id="sidebar">
   <span class="btn-close"><i class="icon icon-close"></i></span>

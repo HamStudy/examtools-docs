@@ -8,8 +8,8 @@ defaultContentLanguage: en
 languages:
   en:
     weight: 1
-    languageName: English
-    languageCode: en-US
+    label: English
+    locale: en-US
     contentDir: content
     title: ExamTools Documentation
     params:
