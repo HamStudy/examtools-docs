@@ -7,7 +7,7 @@ VEC accreditation in ExamTools is automatic — you do not add it yourself. Your
 
 ## How it works
 
-Once your VEC officially confirms your accreditation, they add you to their list. ExamTools syncs with that list periodically. The sync timing varies by VEC — most accreditations appear within a day or two.
+Once your VEC officially confirms your accreditation, they add you to their list. ExamTools reads VEC records every 4 hours, but VECs update on their own schedule. Allow up to 24–48 hours after your VEC confirms your accreditation before expecting it to appear.
 
 ## Confirm your accreditation is active
 
@@ -28,7 +28,7 @@ Once your VEC officially confirms your accreditation, they add you to their list
 ## If your accreditation is not showing
 
 - Confirm your VEC has officially processed your accreditation on their end.
-- If it has been more than a day or two since your VEC confirmed, contact your VEC directly.
+- If it has been more than 48 hours since your VEC confirmed, contact your VEC directly.
 - ExamTools syncs automatically — ExamTools staff does not need to be contacted for a normal accreditation sync.
 
 ## Adding accreditation from a second VEC
