@@ -37,10 +37,5 @@
 {{- $customCSS := resources.Get "css/examtools-custom.css" | minify | fingerprint -}}
 <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.integrity }}">
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<script>
-window.addEventListener('DOMContentLoaded', () => {
-  new PagefindUI({ element: '#site-header-search', showSubResults: true });
-});
-</script>
+<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-component-ui.js"></script>
