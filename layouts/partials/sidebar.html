@@ -1,0 +1,24 @@
+{{ $data := index .Site.Data .Site.Language.Lang .Section "sidebar" }}
+
+<aside id="sidebar">
+  <span class="btn-close"><i class="icon icon-close"></i></span>
+
+  <div class="sticky">
+    {{- range $group := $data -}}
+      <strong class="sidebar-section">{{ $group.title }}</strong>
+
+      {{- range $index, $page := $group.pages -}}
+        {{- $href := $page.url | default (printf "/%s/%s/" $.Section ($page.title | urlize)) -}}
+        {{- $isActivePage := eq $.RelPermalink $href -}}
+        <a class="sidebar-link {{ if $isActivePage }}current{{ end }}" href="{{ $href }}">
+          {{ if and (eq $index 0) $group.replaceFirstPageTitle }}
+            {{ $group.replaceFirstPageTitle }}
+          {{ else }}
+            {{ $page.title }}
+          {{ end }}
+        </a>
+      {{- end }}
+
+    {{- end }}
+  </div>
+</aside>

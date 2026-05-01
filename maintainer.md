@@ -39,12 +39,12 @@ This guide covers how to contribute to the ExamTools documentation and how maint
 
 ### Keeping the theme up to date
 
-The Hextra theme is a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) pinned to a specific commit. To update it:
+The Docura theme is a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) pinned to a specific commit. To update it:
 
 ```bash
-git submodule update --remote themes/hextra
-git add themes/hextra
-git commit -m "Update Hextra theme to latest"
+git submodule update --remote themes/docura
+git add themes/docura
+git commit -m "Update Docura theme to latest"
 ```
 
 ---
@@ -82,13 +82,13 @@ git commit -m "Update Hextra theme to latest"
 hugo server
 ```
 
-Or use the provided script for a stricter preview:
+Or use the provided script for a stricter preview (disables fast render, shows i18n warnings):
 
 ```bash
 ./view.sh
 ```
 
-Open http://localhost:1313/ in your browser. Hugo rebuilds automatically when you save a file.
+Open http://localhost:1316/ in your browser. Hugo rebuilds automatically when you save a file.
 
 ---
 

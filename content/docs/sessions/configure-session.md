@@ -3,51 +3,44 @@ title: Configure a Session
 weight: 3
 ---
 
-After creating a session, configure its location, public registration, and other settings.
+After creating a session, you can edit any of its settings until the session is finalized. The same form used to create the session is used to edit it.
 
-## Prerequisites
+## Open a session for editing
 
-- A [created session](create-session)
+1. Sign in to [exam.tools](https://exam.tools) and click **Session List** in the left navigation.
 
-## Set the location
+2. Click on the session you want to edit to open it.
 
-1. Open the session from your sessions list.
-2. Click **Edit** or the settings gear icon.
-3. Enter the **location**:
-   - **In-person:** Full street address of the exam venue.
-   - **Remote:** The video platform meeting link (Zoom, Google Meet, etc.).
+3. Click **EDIT SCHEDULE** near the top of the session view.
 
-   <SCREENSHOT: Session settings page showing location field>
+   <SCREENSHOT: Session view with EDIT SCHEDULE button highlighted>
 
-4. Click **Save**.
+4. The session form opens with the current settings loaded. Make your changes and click **Save**.
 
-## Enable public registration
+## Common configuration tasks
 
-Public registration gives applicants a URL they can use to sign up for your session in advance.
+### Set the session to visible
 
-1. In the session settings, find **Public Registration** and toggle it on.
-2. Copy the registration link that appears — you can share this with applicants.
+If you created the session as **Hidden**, change **Listing Visibility** to **Visible** when you are ready for applicants to see and register.
 
-   <SCREENSHOT: Public registration toggle and link>
+### Update the location
 
-> **Note:** Enabling public registration does not prevent you from adding applicants manually on exam day. It just provides an additional self-service option.
+Change the selected location in the **Locations** section. If the location you need does not exist yet, click **Add location...** to add one to your team. See [Edit team settings →](../teams/edit-team#manage-saved-locations).
 
-## Set a registration limit
+### Change the session notes
 
-To cap the number of applicants who can pre-register, enter a number in the **Registration Limit** field.
+Click **Edit** in the **Publicly visible notes** section to open the markdown editor. These notes appear on the HamStudy listing page. Include exam rules, payment information, and contact details.
 
-## Assign VEs to the session
+### Change the registration cap
 
-1. In the session settings, find the **VEs** section.
-2. Add VEs from your team roster who will be working this session.
+In the **Registration options** section, adjust **Maximum number of Participants** or set it to unlimited.
 
-   <SCREENSHOT: VE assignment section>
+### Change email notifications
 
-## Verify
-
-Review the session details page. Confirm the date, location, elements, and VE list are all correct.
+In the exam elements section, update **Receive email notifications on applicant registration?** and the notification address if needed.
 
 ## Related guides
 
-- [Clone a session (re-use settings for the next session) →](clone-session)
-- [Open the session on exam day →](../exam-day/open-session)
+- [Create a session →](create-session)
+- [Clone a session →](clone-session)
+- [Managing VEs →](add-ves-to-session)

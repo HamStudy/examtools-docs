@@ -3,9 +3,10 @@ title: Teams
 weight: 3
 ---
 
-Teams are the organizational unit in ExamTools. All sessions are run under a team, and your VE roster is managed at the team level.
+A team account in ExamTools is the administrative home for your VE group. All sessions are scheduled under a team, and team accounts control who has scheduling and management privileges.
 
-- **[Teams overview](teams-overview)** — What teams are, how ownership works, and how teams relate to VECs.
-- **[Become a team lead](become-team-lead)** — How to request team lead privileges from your VEC.
-- **[Create a team](create-team)** — Set up a new team in ExamTools.
-- **[Manage your VE roster](manage-ve-roster)** — Add and remove VEs, and set their roles within the team.
+- **[Teams overview](teams-overview)** — What team accounts are, how the admin roles work, and how teams relate to VECs.
+- **[Become a team lead](become-team-lead)** — How to confirm you have team lead credentials and what to do if you don't.
+- **[Create a team](create-team)** — Set up a new team account in ExamTools.
+- **[Manage team administrators](manage-team-admins)** — Invite and manage the VEs who have administrative access to your team.
+- **[Edit team settings](edit-team)** — Update your team's name, contact email, website, and saved locations.

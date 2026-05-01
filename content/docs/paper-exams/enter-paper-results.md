@@ -1,40 +1,39 @@
 ---
-title: Enter Paper Exam Results
+title: Record Paper Exam Results
 weight: 6
 ---
 
-After grading your paper exams, enter the scores into the active ExamTools session. This connects the results to the applicant's record and allows form signing and VEC submission to proceed.
+This step is only needed when using ExamTools for applicant management and digital signatures after a manually graded exam. If your session uses paper CSCEs and paper Form 605s submitted to the VEC traditionally, you do not need to record results in ExamTools.
+
+GradeCam exams are recorded automatically during scanning — this step does not apply to them.
 
 ## Prerequisites
 
 - Graded answer sheets with scores
-- An [open session](../exam-day/open-session) with applicants [checked in](../exam-day/check-in-applicants)
+- An [open session](../exam-day/open-session) with the applicant [checked in](../exam-day/check-in-applicants)
 
 ## Steps
 
-1. In the session dashboard, find the applicant you are entering results for.
+1. In the session view, expand the applicant's row and open the **Manage** menu.
 
-2. Click **Enter Score** next to their name.
+2. Select **Record External Exam**.
 
-   <SCREENSHOT: Session applicant list with Enter Score button>
+3. In the dialog:
+   - Select the **exam element** the applicant tested for.
+   - Enter the **score** (number of correct answers).
+   - Optionally enter an **Exam Identifier** and any notes for your records.
 
-3. Enter the **number of correct answers** for the exam element they tested for.
+4. Click **Record exam**. ExamTools calculates the pass/fail result and attaches it to the applicant's record.
 
-4. ExamTools calculates the pass/fail result automatically based on the passing threshold.
-
-5. Confirm the result and click **Save**.
-
-   <SCREENSHOT: Score entry form with pass/fail result displayed>
-
-6. Repeat for each applicant.
+> ExamTools will remind you that you need to provide evidence of this exam when submitting to your VEC.
 
 ## Verify
 
-Each applicant in the session list should now show a score and a **Pass** or **Fail** status.
+The applicant's row in the session view shows a **Pass** or **Fail** result for the element.
 
 ## Next steps
 
-From here, the session proceeds exactly as it would for a computer exam:
+After results are recorded, the applicant connects with their PIN to sign their forms:
 
-- [Collect signatures on Form 605 →](../exam-day/sign-forms)
-- [Close the session and submit to VEC →](../exam-day/close-session)
+- [Complete the applicant →](../exam-day/complete-applicant)
+- [Finalize the session →](../exam-day/close-session)

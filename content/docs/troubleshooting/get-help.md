@@ -7,12 +7,21 @@ If you can't resolve an issue with the troubleshooting guides, the ExamTools com
 
 ## Community support
 
-The primary support channel is the **ExamTools community on ham radio forums and groups**. Search for "ExamTools" on your preferred amateur radio community platform — there are active communities on several platforms where experienced team leads and ExamTools developers participate.
+The primary support channel is the **VE Discord Chat Server**. Experienced team leads and ExamTools developers participate there regularly.
 
-## Report a bug or documentation issue
+[Join the VE Discord server →](https://discord.gg/qn4Tx6VTyB)
 
-- **Documentation:** Open an issue or pull request at [github.com/HamStudy/examtools-docs](https://github.com/HamStudy/examtools-docs).
-- **Application bugs:** Report issues through the ExamTools application or the HamStudy GitHub page.
+## File a support ticket
+
+For issues that need direct attention, file a helpdesk ticket at [support@examtools.org](mailto:support@examtools.org).
+
+## Report a bug
+
+Report bugs on the [VE Discord server](https://discord.gg/qn4Tx6VTyB) or via a support ticket at [support@examtools.org](mailto:support@examtools.org).
+
+## Report a documentation issue
+
+Open an issue or pull request at [github.com/HamStudy/examtools-docs](https://github.com/HamStudy/examtools-docs).
 
 ## Before asking for help
 

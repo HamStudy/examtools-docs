@@ -3,7 +3,9 @@ title: Add Your Signature
 weight: 3
 ---
 
-ExamTools uses a digital signature for NCVEC Form 605 and exam pass certificates. You must set this up before you can sign anything during a session.
+ExamTools uses a saved digital signature for NCVEC Form 605 and exam pass certificates. You need to set this up before you can sign anything during a session.
+
+> **Pro tip:** A smartphone or tablet gives the best-looking results since you can sign with your finger naturally.
 
 ## Prerequisites
 
@@ -11,27 +13,31 @@ ExamTools uses a digital signature for NCVEC Form 605 and exam pass certificates
 
 ## Steps
 
-1. Sign in to [exam.tools](https://exam.tools) and go to your profile by clicking your callsign in the top-right corner, then selecting **Profile**.
+1. Go to [exam.tools](https://exam.tools) and sign in under **Assist with an Exam**.
 
-2. Scroll down to the **Signature** section and click **Edit Signature**.
+2. Click **Profile** in the upper left navigation.
 
-   <SCREENSHOT: Profile page signature section>
+3. Find the **Saved Signature** section on your profile page and expand it.
 
-3. Sign your name in the signature box using your mouse, trackpad, or touchscreen. Sign the same way you would sign a paper form — this signature will appear on official FCC documents.
+   <SCREENSHOT: Profile page with Saved Signature section>
 
-   <SCREENSHOT: Signature drawing canvas>
+4. Click **New Signature**. A white box labeled **Sign Here** will appear.
 
-4. Click **Save Signature**.
+5. Use your mouse, trackpad, or touchscreen to draw your signature in the box. Sign the same way you would sign a paper form — this signature appears on official FCC documents.
 
-## Updating your signature
+   <SCREENSHOT: Signature canvas with Sign Here label>
 
-You can update your signature at any time by returning to your profile and clicking **Edit Signature** again. The new signature will be used on all future documents.
-
-> **Note:** Updating your signature does not retroactively change signatures already applied to past sessions.
+6. Click **Save**.
 
 ## Verify
 
-After saving, a preview of your signature appears on your profile page. Confirm that it looks the way you intend.
+Your signature preview appears in the **Saved Signature** section of your profile. Confirm it looks the way you intend before joining a session.
+
+## Updating your signature
+
+Return to your profile at any time, expand **Saved Signature**, and click **New Signature** to draw a new one. The updated signature will be used on all future documents.
+
+> Updating your signature does not change signatures already applied to past sessions.
 
 ## Next steps
 

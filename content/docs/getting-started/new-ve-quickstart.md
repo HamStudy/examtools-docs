@@ -3,29 +3,32 @@ title: New VE Quickstart
 weight: 2
 ---
 
-This guide gets a brand-new Volunteer Examiner set up in ExamTools. By the end you will have an account, your VEC accreditation linked, and your signature profile ready — everything needed to join a session and start proctoring.
-
-**Time required:** About 15 minutes.
+This guide gets a brand-new Volunteer Examiner set up in ExamTools. By the end you will have an account, your VEC accreditation confirmed, and your signature profile ready — everything needed to join a session and start proctoring.
 
 ## Prerequisites
 
 Before you start, make sure you have:
 
 - Your FCC callsign (you must already be a licensed amateur radio operator)
-- Your VEC accreditation information (the VEC that credentialed you as a VE)
 - A device with a modern web browser ([supported browsers](../reference/environments#supported-browsers))
 
 ## Step 1: Create your account
 
-[Create an account on HamStudy](../account-setup/create-account). ExamTools uses the same login system as HamStudy.
+[Create your ExamTools account →](../account-setup/create-account)
 
-## Step 2: Add your VEC accreditation
+## Step 2: Verify your callsign
 
-ExamTools needs to know which VEC(s) you are accredited through before you can participate in sessions.
+Callsign verification is required before you can join sessions or sign forms. You will need your Official License Copy PDF from the FCC ULS.
 
-[Add your VEC accreditation →](../account-setup/add-vec-accreditation)
+[Verify your callsign →](../account-setup/create-account#part-2-verify-your-callsign)
 
-## Step 3: Add your signature
+## Step 3: Confirm your VEC accreditation
+
+Your VEC accreditation appears automatically on your profile once your VEC processes it — you do not add it yourself. This step confirms it is showing correctly before your first session.
+
+[Confirm your VEC accreditation →](../account-setup/add-vec-accreditation)
+
+## Step 4: Add your signature
 
 ExamTools uses a digital signature for NCVEC Form 605 and exam certificates. You need to set this up before you can sign anything in a session.
 
@@ -39,10 +42,12 @@ After completing these steps, visit your profile at [exam.tools/me](https://exam
 - Your VEC accreditation listed
 - A signature preview
 
+<SCREENSHOT: Profile page showing callsign, VEC accreditation, and signature preview all present — the ready-to-go state>
+
 If all three are present, you're ready to join a session.
 
 ## Next steps
 
-- **Tell your team lead you're set up.** They will add you to the team and include you in upcoming sessions.
+- **Tell your team lead you're set up.** They will add you to upcoming sessions.
 - [Learn what happens on exam day →](../exam-day)
-- [Explore the sandbox environment →](../reference/environments#sandbox)
+- [Explore the sandbox environment →](../reference/environments#production-vs-sandbox)

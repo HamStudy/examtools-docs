@@ -3,27 +3,30 @@ title: About ExamTools
 weight: 1
 ---
 
-ExamTools is a free, open-source platform for administering amateur radio license exams. It was built by the team at [SignalStuff](https://signalstuff.com) and is maintained in partnership with the amateur radio community.
+Just over a decade ago, Richard Bateman KD7BBC saw the need to improve and modernize how amateur radio exams are administered. He and a close-knit team of volunteers began developing web and computer-based software with that goal. The result was two tools:
 
-## History
+- **[HamStudy](https://ham.study)** — A study platform for exam candidates. Uses intelligent flashcard study and practice tests. Available free on the web and as a mobile app. Covers US amateur radio exams, several FCC commercial elements, and amateur radio exams in other countries.
+- **[ExamTools](https://exam.tools)** — A platform for volunteer examiners. Supports administering and grading exams by computer or paper, and digital signing of all forms including NCVEC Form 605 and Certificates of Successful Completion.
 
-ExamTools was originally developed in response to the COVID-19 pandemic, which forced the suspension of in-person exam sessions in 2020. The platform made it possible for VE teams to continue administering exams safely through online-supervised remote sessions.
+Both projects are funded primarily through proceeds from [SignalStuff](https://signalstuff.com), Richard's antenna design company, with additional support from [Icom America](https://www.icomamerica.com/).
 
-Since then, ExamTools has expanded to support in-person sessions as well, with features like paper exam generation, GradeCam grading, and direct VEC integration.
+## Remote exams and COVID-19
 
-## Mission
+The COVID-19 pandemic halted in-person amateur radio license testing in spring 2020. In response, a Fully-Remote Working Group representing several VECs was formed to determine how to implement remote proctoring while remaining in full compliance with Part 97 requirements and VEC-specific policies.
 
-ExamTools exists to modernize the amateur radio licensing process for both examiners and applicants. The goal is to reduce the administrative burden on VE teams and make it easier for more people to earn their amateur radio license.
+The first fully-remote exam session was held on **March 26, 2020** as a proof of concept. The session was successful but the process was cumbersome, requiring remote access to the candidate's computer and third-party digital signature tools. ExamTools Tier 2 — with a fully integrated remote exam and digital signature workflow — was released on May 26, 2020.
 
-## VEC support
+From March 26 through December 1, 2020, ExamTools administered exams for over 1,100 in-person candidates and 9,000 fully-remote candidates.
 
-ExamTools is VEC-agnostic and works with the major VECs that participate in the program. Contact your VEC to confirm they support ExamTools sessions.
+## Today
 
-## Source and contributions
+Several VEC organizations actively use ExamTools for both in-person and fully-remote exam sessions. ExamTools continues to be developed and improved based on input from active VEs and a team of volunteers who assist with design, development, testing, documentation, and training.
 
-The documentation source is available on GitHub at [github.com/HamStudy/examtools-docs](https://github.com/HamStudy/examtools-docs). Corrections and improvements are welcome via pull request — see the [contributor guide](https://github.com/HamStudy/examtools-docs/blob/master/maintainer.md).
+## Contributing to the docs
+
+The documentation source is on GitHub at [github.com/HamStudy/examtools-docs](https://github.com/HamStudy/examtools-docs). Corrections and improvements are welcome via pull request — see [maintainer.md](https://github.com/HamStudy/examtools-docs/blob/master/maintainer.md) for instructions.
 
 ## Get help
 
-- [Troubleshooting guides →](../troubleshooting)
+- [Troubleshooting →](../troubleshooting)
 - [Get help →](../troubleshooting/get-help)

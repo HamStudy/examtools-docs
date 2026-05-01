@@ -7,10 +7,11 @@ weight: 2
 
 **Symptom:** A VE sees an error when trying to join, or doesn't appear in the VE list.
 
-1. Confirm the VE has a completed ExamTools account (account created, callsign verified, VEC accreditation added).
-2. Confirm the VE is a member of the team associated with the session. Check the [team roster](../teams/manage-ve-roster).
-3. Confirm the session is in **Open** status. VEs cannot join a session that hasn't been opened yet.
-4. Ask the VE to try refreshing the page or clearing their browser cache.
+1. Confirm the VE has a completed ExamTools account — callsign verified and VEC accreditation on file.
+2. Confirm the VE has been added to the session. See [Add VEs to a session →](../sessions/add-ves-to-session)
+3. Confirm the VE is accredited by the same VEC as the session.
+4. Confirm the session is in **In progress** status. VEs cannot join a session that hasn't been started yet.
+5. Ask the VE to try refreshing the page or clearing their browser cache.
 
 ## An applicant can't access their exam
 
@@ -28,7 +29,7 @@ weight: 2
 
 ## I accidentally closed a session early
 
-Contact the ExamTools support community — see [Get help](get-help). In most cases a closed session can be reopened by an admin.
+Use the **Unfinalize Session** button on the session page to reopen it. This action can put session data into an inconsistent state, so only proceed if you are certain you need to reopen the session.
 
 ## Related guides
 

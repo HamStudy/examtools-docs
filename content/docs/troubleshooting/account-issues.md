@@ -7,9 +7,9 @@ weight: 1
 
 **Symptom:** Login fails or you see an error after entering your credentials.
 
-1. Confirm you are signing in at the correct URL: [exam.tools](https://exam.tools) (production) or [sandbox.exam.tools](https://sandbox.exam.tools) (sandbox). These are separate systems with separate accounts.
-2. If you forgot your password, use the **Forgot password** link on the sign-in page.
-3. If you created your account on HamStudy and haven't verified your email, check your inbox for a verification email.
+1. Confirm you are signing in at the correct URL: [exam.tools](https://exam.tools) (production) or [examtools.dev](https://examtools.dev) / [sandbox.examtools.org](https://sandbox.examtools.org) (sandbox). These are separate systems with separate accounts.
+2. If you forgot your password, go to [exam.tools/reset](https://exam.tools/reset) to reset it.
+3. If you just created your account, check your inbox for a verification email and confirm your address before signing in.
 
 ## My callsign isn't being recognized
 
@@ -21,15 +21,15 @@ weight: 1
 
 ## My VEC accreditation isn't showing up
 
-**Symptom:** After adding your VEC accreditation, it shows as pending or is not accepted.
+VEC accreditation is applied to your account automatically — you do not enter it yourself. If it is missing or expired, contact your VEC directly. Neither ExamTools nor the support team can add or update your accreditation on your behalf.
 
-1. Verify you entered the correct accreditation information. Requirements vary by VEC — check with your VEC if you are unsure what to enter.
-2. Some VECs manually review new accreditation requests. Allow a few business days before following up.
-3. Contact your VEC directly if the issue persists.
+**"Your account is verified, but you have no known VE credentials"** — Your callsign is confirmed but ExamTools has no accreditation on file for you. Contact your VEC to verify your status.
+
+**"Your account is verified, but the only VE credentials we know about have expired"** — Your accreditation has lapsed. Contact your VEC to renew.
 
 ## My signature isn't saving
 
-1. Make sure you are drawing the signature in the signature box, not outside it.
+1. Make sure you are drawing the signature inside the signature box, not outside it.
 2. Try a different browser. Signature capture can occasionally fail in older browsers.
 3. If using a touchscreen, try using a stylus or switching to a mouse on a desktop browser.
 

@@ -5,10 +5,10 @@ weight: 5
 
 Step-by-step guides for running a session from start to finish.
 
-- **[Open the session](open-session)** — Launch the session and get VEs checked in.
+- **[Start the session](open-session)** — Start the session so applicants can sign in.
 - **[Check in applicants](check-in-applicants)** — Verify identity and add applicants to the active session.
-- **[Proctor a computer exam](proctor-computer-exam)** — Guide an applicant through the online exam, monitor progress, and record the result.
-- **[Sign forms](sign-forms)** — Collect digital signatures on NCVEC Form 605 and certificates.
-- **[Close the session](close-session)** — Finalize results and submit to your VEC.
+- **[Give the exam](give-exam)** — Administer a computer-based exam: authorize start, monitor progress, and grade.
+- **[Complete an applicant](complete-applicant)** — Collect signatures on Form 605 and CSCE, mark the applicant complete, and email their CSCE.
+- **[Finalize the session](close-session)** — Lock results and close the session.
 
-> **Running paper exams?** See the [Paper Exams](../paper-exams) section for the parallel workflow.
+> **GradeCam or paper exams?** See the [Paper Exams](../paper-exams) section. Sessions can mix computer and GradeCam exams — even for the same applicant.

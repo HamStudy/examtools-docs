@@ -3,35 +3,42 @@ title: Become a Team Lead
 weight: 2
 ---
 
-Team lead (CVE) privileges in ExamTools allow you to create and manage sessions, build a VE roster, and submit results to your VEC. This guide explains how to get those privileges.
+Team lead status in ExamTools comes from your VEC — it is part of your VE accreditation, not something you set up inside ExamTools itself. This page explains how to confirm you have it and what to do if you don't.
 
 ## Prerequisites
 
-- A completed [ExamTools account](../account-setup/create-account) with VEC accreditation
-- VE experience — most VECs require you to have participated in a number of sessions before granting team lead status
+- A verified [ExamTools account](../account-setup/create-account)
+- VE accreditation from a VEC
 
-## How to request team lead access
+## Check whether you already have team lead status
 
-Team lead privileges are granted in one of two ways, depending on how your VEC manages ExamTools:
+1. Sign in to [exam.tools](https://exam.tools).
+2. Go to your **Profile** (upper left navigation).
+3. Expand **Volunteer Examiner Credentials** by clicking the arrow on the right.
 
-### Option 1: Granted by your VEC
+   <SCREENSHOT: Profile showing Volunteer Examiner Credentials section expanded>
 
-Some VECs manage team lead assignments directly. Contact your VEC to request CVE status. Once they approve it, your account will automatically gain team lead privileges the next time you sign in.
+4. Look at what your VEC credential says. You need to see **Team Lead** next to the VEC you plan to run sessions under.
 
-### Option 2: Granted by an existing team owner
+   - **Team Lead** — you are ready to create a team and schedule sessions.
+   - **Volunteer Examiner** — you have VE accreditation but not team lead privileges yet.
 
-If a team already exists for your group, an existing team owner can promote you to co-owner from the team management page.
+## If you only see "Volunteer Examiner"
 
-1. Ask an existing team owner to go to [exam.tools/teams](https://exam.tools/teams) and open your team.
-2. They should find your callsign in the VE list and change your role to **Co-owner**.
+Contact your VEC and ask them to grant you team lead (session manager) status. Most VECs update ExamTools automatically once they approve you — you should see the updated credentials within a few hours of their approval.
 
-   <SCREENSHOT: Team member role selector showing Co-owner option>
+ExamTools staff do not grant team lead status. This must come from your VEC.
 
-## Verify
+## Before running your first session
 
-After your privileges are granted, sign in to [exam.tools](https://exam.tools) and go to **Teams**. If you have team lead access, you will see a **Create Team** button and the ability to manage existing teams you own.
+Once you have team lead status confirmed, the recommended steps are:
 
-## Next steps
+1. [Create your team →](create-team)
+2. Set up your [sandbox account](../reference/environments) and practice running a session there before going live.
+3. Ask in the appropriate VEC channel on the ExamTools Discord to shadow another team running live exams.
+4. When you feel ready, create your first real session in the production environment.
+
+## Related guides
 
 - [Create a team →](create-team)
-- [New team lead quickstart →](../getting-started/new-team-lead-quickstart)
+- [Confirm your VEC accreditation →](../account-setup/add-vec-accreditation)

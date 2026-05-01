@@ -1,46 +1,57 @@
 ---
-title: Open the Session
+title: Start the Session
 weight: 1
 ---
 
-Opening the session marks it as active and allows VEs and applicants to join. Do this at the start of exam day, once your VEs are present.
+Starting the session allows applicants to sign in and begin their exams. Do this on exam day once your VEs are ready.
 
 ## Prerequisites
 
-- A [scheduled session](../sessions/create-session) for today
-- At least three VEs assigned to the session (FCC requirement)
+- A [scheduled session](../sessions/create-session) in **Pending** status for today
+- VEs [added to the session](../sessions/add-ves-to-session) in advance
+- **Co-Owner** session permissions (required to start the session)
 
 ## Steps
 
-1. Sign in to [exam.tools](https://exam.tools) and click **Sessions**.
+1. Sign in to [exam.tools](https://exam.tools) and click **Session List** in the left navigation.
 
-2. Find today's session and click **Open Session**.
+2. Find today's session and click it to open the session view.
 
-   <SCREENSHOT: Session list with Open Session button highlighted>
+3. Click **Start Session** in the top-right area of the session header.
 
-3. ExamTools will confirm the session is now active. You should see the live session view.
+   <SCREENSHOT: Session header with Start Session button>
 
-   <SCREENSHOT: Active session dashboard>
+4. A confirmation dialog appears:
 
-4. Share the **session join link** with your VEs so they can check themselves in. VEs can also find the session through their own ExamTools dashboard.
+   > *"Are you sure you want to start the session? Once started you can't return to pending status and applicants will be able to sign in until you close the test session. Please also review the session documents using the button above and ensure that everything is correct."*
 
-## VE check-in
+   Review the session documents if you haven't already, then confirm to proceed.
 
-Each VE must check themselves in before the session begins:
+## "You are not part of this session" alert
 
-1. The VE opens the session link or finds the session in their dashboard.
-2. They click **Join Session**.
-3. Their name appears in the VEs panel on the session dashboard.
+If you are a Co-Owner who is not currently in the session's VE list, a yellow warning appears in the applicants tab:
 
-   <SCREENSHOT: VE list showing checked-in VEs>
+**"You are not part of this session."**
 
-> **Remote sessions:** VEs should also be present in the video call before the session opens to applicants.
+This happens when a team member with Co-Owner permissions opens the session but was not added to the session's VE roster. Click the **Join** button in the alert to add yourself to the session. The Join button only appears if you have a callsign set on your ExamTools account.
+
+---
+
+## What VEs see before the session starts
+
+VEs who are in the session's VE list but do not have Co-Owner permissions see this message in the applicants tab until the session is started:
+
+> *"The session has not yet been started. Applicants will be able to sign in after the team lead has started the exam."*
+
+---
 
 ## Verify
 
-Before admitting any applicants, confirm:
-- At least three VEs are checked in and visible in the VE panel
-- The session status shows **Open**
+After starting:
+
+- The session status changes to **In progress** in your session list.
+- The **Start Session** button is replaced by **Finalize Session**.
+- Applicants can now sign in using their session PIN.
 
 ## Next steps
 

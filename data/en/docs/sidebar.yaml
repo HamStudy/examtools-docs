@@ -1,0 +1,105 @@
+- title: Getting Started
+  pages:
+    - title: What is ExamTools?
+      url: /docs/getting-started/what-is-examtools/
+    - title: New VE Quickstart
+      url: /docs/getting-started/new-ve-quickstart/
+    - title: New Team Lead Quickstart
+      url: /docs/getting-started/new-team-lead-quickstart/
+
+- title: Account Setup
+  pages:
+    - title: Create Your Account
+      url: /docs/account-setup/create-account/
+    - title: Confirm Your VEC Accreditation
+      url: /docs/account-setup/add-vec-accreditation/
+    - title: Add Your Signature
+      url: /docs/account-setup/add-signature/
+    - title: Change Your Callsign
+      url: /docs/account-setup/callsign-change/
+
+- title: Teams
+  pages:
+    - title: Teams Overview
+      url: /docs/teams/teams-overview/
+    - title: Become a Team Lead
+      url: /docs/teams/become-team-lead/
+    - title: Create a Team
+      url: /docs/teams/create-team/
+    - title: Edit Team Settings
+      url: /docs/teams/edit-team/
+    - title: Manage Team Administrators
+      url: /docs/teams/manage-team-admins/
+
+- title: Sessions
+  pages:
+    - title: Sessions Overview
+      url: /docs/sessions/sessions-overview/
+    - title: Create a Session
+      url: /docs/sessions/create-session/
+    - title: Configure a Session
+      url: /docs/sessions/configure-session/
+    - title: Clone a Session
+      url: /docs/sessions/clone-session/
+    - title: Managing VEs in a Session
+      url: /docs/sessions/add-ves-to-session/
+    - title: Managing Applicants
+      url: /docs/sessions/managing-applicants/
+
+- title: Exam Day
+  pages:
+    - title: Start the Session
+      url: /docs/exam-day/open-session/
+    - title: Check In Applicants
+      url: /docs/exam-day/check-in-applicants/
+    - title: Give the Exam
+      url: /docs/exam-day/give-exam/
+    - title: Complete an Applicant
+      url: /docs/exam-day/complete-applicant/
+    - title: Finalize the Session
+      url: /docs/exam-day/close-session/
+
+- title: Paper Exams
+  pages:
+    - title: Paper Exams Overview
+      url: /docs/paper-exams/paper-exams-overview/
+    - title: Generate and Print Exams
+      url: /docs/paper-exams/generate-and-print/
+    - title: Grade with GradeCam
+      url: /docs/paper-exams/grade-with-gradecam/
+    - title: Grade Manually
+      url: /docs/paper-exams/grade-manually/
+    - title: Run a Paper Exam Session
+      url: /docs/paper-exams/run-paper-exam-day/
+    - title: Record Paper Exam Results
+      url: /docs/paper-exams/enter-paper-results/
+
+- title: Remote Exams
+  pages:
+    - title: Remote Exam Differences
+      url: /docs/remote-exams/remote-differences/
+
+- title: Reference
+  pages:
+    - title: Roles and Permissions
+      url: /docs/reference/roles-and-permissions/
+    - title: Environments and URLs
+      url: /docs/reference/environments/
+    - title: Glossary
+      url: /docs/reference/glossary/
+
+- title: Troubleshooting
+  pages:
+    - title: Account Issues
+      url: /docs/troubleshooting/account-issues/
+    - title: Session Issues
+      url: /docs/troubleshooting/session-issues/
+    - title: Get Help
+      url: /docs/troubleshooting/get-help/
+
+- title: About
+  pages:
+    - title: About ExamTools
+      url: /docs/about/about-examtools/
+    - title: Frequently Asked Questions
+      url: /docs/faq/

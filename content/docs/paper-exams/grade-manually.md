@@ -15,11 +15,11 @@ Manual grading uses the answer key PDF to score each applicant's answer sheet by
 1. Print the answer key or open it on a device.
 
 2. For each applicant's answer sheet:
-   a. Match the exam number on the answer sheet to the same exam number in the answer key.
-   b. Compare each answer on the sheet to the key — count the number of correct answers.
-   c. Record the score (number correct out of 35).
+   - Match the exam number on the answer sheet to the same exam number in the answer key.
+   - Compare each answer on the sheet to the key and count the correct answers.
+   - Record the score.
 
-3. Passing score is **26 correct out of 35** for all elements (Technician, General, Extra).
+3. Determine pass or fail using the passing thresholds:
 
    | Element | Questions | Required to pass |
    |---------|-----------|-----------------|
@@ -27,10 +27,8 @@ Manual grading uses the answer key PDF to score each applicant's answer sheet by
    | General (Element 3) | 35 | 26 |
    | Amateur Extra (Element 4) | 50 | 37 |
 
-4. Note: Element 4 (Extra) has 50 questions and requires 37 correct.
+## Next steps
 
-## Enter results
+Enter the scores into ExamTools:
 
-After grading, enter the scores into ExamTools:
-
-- [Enter paper exam results →](enter-paper-results)
+- [Record paper exam results →](enter-paper-results)

@@ -1,42 +1,43 @@
 ---
-title: Add Your VEC Accreditation
+title: Confirm Your VEC Accreditation
 weight: 2
 ---
 
-Before you can participate in an ExamTools session, you need to link the VEC (Volunteer Examiner Coordinator) that accredited you. ExamTools uses this to verify your credentials when you join a session.
+VEC accreditation in ExamTools is automatic — you do not add it yourself. Your VEC maintains a list that ExamTools syncs with. This page explains how that process works and how to confirm your accreditation is showing correctly.
 
-## Prerequisites
+## How it works
 
-- A verified [ExamTools account](create-account)
-- Your VEC accreditation information (issued by your VEC when you passed your VE exam)
+Once your VEC officially confirms your accreditation, they add you to their list. ExamTools syncs with that list periodically. The sync timing varies by VEC — most accreditations appear within a day or two.
 
-## Steps
+## Confirm your accreditation is active
 
-1. Sign in to [exam.tools](https://exam.tools) and go to your profile by clicking your callsign in the top-right corner, then selecting **Profile**.
+1. Sign in to [exam.tools](https://exam.tools) under **Assist with an Exam**.
 
-   <SCREENSHOT: Profile menu dropdown>
+2. Go to your **Profile** (upper left navigation).
 
-2. On your profile page, find the **VEC Accreditation** section and click **Add VEC**.
+3. Scroll down to **Volunteer Examiner Credentials** and click the arrow on the right to expand it.
 
-   <SCREENSHOT: Profile page showing VEC Accreditation section>
+   <SCREENSHOT: Profile page showing Volunteer Examiner Credentials section collapsed>
 
-3. Select your VEC from the list.
+4. Your accreditation should appear here, listing your VEC and whether you hold **Volunteer Examiner** or **Team Lead** status.
 
-   <SCREENSHOT: VEC selection dropdown>
+   <SCREENSHOT: Volunteer Examiner Credentials expanded showing VEC accreditation>
 
-4. Enter the information your VEC requires. This varies by VEC but typically includes your accreditation ID or the date you were accredited.
+5. Let your team lead know your accreditation is showing correctly and you are ready to participate in sessions.
 
-   <SCREENSHOT: VEC accreditation entry form>
+## If your accreditation is not showing
 
-5. Click **Save**.
+- Confirm your VEC has officially processed your accreditation on their end.
+- If it has been more than a day or two since your VEC confirmed, contact your VEC directly.
+- ExamTools syncs automatically — ExamTools staff does not need to be contacted for a normal accreditation sync.
 
-## Adding a second VEC
+## Adding accreditation from a second VEC
 
-If you are accredited through more than one VEC, repeat the steps above for each VEC. You can hold accreditation with multiple VECs simultaneously.
+If you become accredited with an additional VEC after your initial setup, the same automatic process applies. Your new VEC adds you to their list, ExamTools syncs, and the new credential appears under **Volunteer Examiner Credentials** in your profile. No action is needed in ExamTools itself.
 
 ## Verify
 
-Your profile page should now list your VEC under **VEC Accreditation**, along with your accreditation status (active/pending).
+Your profile shows your VEC name and your credential type (Volunteer Examiner or Team Lead) under **Volunteer Examiner Credentials**.
 
 ## Next steps
 

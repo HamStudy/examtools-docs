@@ -1,46 +1,100 @@
 ---
-title: Close the Session
+title: Finalize the Session
 weight: 5
 ---
 
-When all applicants have finished their exams and all forms are signed, close the session and submit results to your VEC.
+After all applicants are marked complete, a Co-Owner finalizes the session by entering their ExamTools password. Finalization locks the session and prevents further changes.
 
 ## Prerequisites
 
-- All applicants have recorded results (pass or fail)
-- All Form 605s are fully signed
-- You have team lead or owner privileges for the session
+- All applicants have status **Finalized** (see [Complete an Applicant →](complete-applicant))
+- You have **Co-Owner** session permissions
 
-## Steps
+> **Applicants who are not finalized will block finalization.** The system will reject finalization if any applicant has a passing score on a non-voided exam without being completed.
 
-1. In the session dashboard, review the applicant list. Confirm every applicant has:
-   - A recorded result (pass/fail)
-   - **Signed** status on their Form 605
+---
 
-   <SCREENSHOT: Session dashboard with all applicants showing Signed status>
+## Finalize the session
 
-2. Click **Close Session**.
+1. In the session view, click **Finalize Session**.
 
-   <SCREENSHOT: Close Session button>
+   <SCREENSHOT: Session view with Finalize Session button highlighted>
 
-3. ExamTools will warn you if any applicants have unsigned forms or missing results. Resolve these before proceeding.
+   A confirmation dialog appears:
 
-4. Once closed, click **Submit to VEC**. ExamTools packages the session data and transmits it to your VEC.
+   > *"Are you sure you want to finalize this session? Once finalized no more changes can be made. Before you finalize the session, make sure you have reviewed and completed any applicants with passing scores on any exams."*
 
-   <SCREENSHOT: Submit to VEC confirmation screen>
+2. Click **Review Forms** to preview the signed session paperwork as a PDF before proceeding.
 
-5. Note the submission confirmation or reference number for your records.
+   <SCREENSHOT: Finalize Session confirmation dialog showing warning text, Review Forms button, and password entry field>
 
-## After submission
+3. Enter your ExamTools password when prompted:
 
-- Applicants who passed will receive their license grant from the FCC, typically within a few days.
-- You can view the session record at any time from your sessions list; it will show status **Submitted**.
+   > *"When you have reviewed the paperwork a final time please enter the password for [your username] to finalize and close the exam session."*
+
+4. Click **Complete**.
+
+The session status changes to **Closed**.
+
+---
+
+## Unfinalize a session
+
+If you need to make changes after finalization, a Co-Owner can reopen the session.
+
+1. Click **Unfinalize Session** in the session view.
+
+2. A confirmation dialog appears:
+
+   > *"Are you sure you want to reopen this session? This can be dangerous and makes it very easy to put data into an inconsistent state. Only proceed if you know what you are doing!"*
+
+3. Confirm to reopen. No password is required.
+
+The session returns to **In progress** status.
+
+---
+
+## Download session files
+
+After finalization, use the **Print** and **Download** menus in the session view to retrieve forms and export files.
+
+<SCREENSHOT: Session view after finalization showing Print and Download menus open with all available export options> Some items are only available once the session is closed.
+
+### Print menu
+
+PDF documents for review, filing, or submission:
+
+| Item | Contents |
+|------|----------|
+| **Final forms** | All signed final session forms in a single PDF — the primary document package for VEC submission |
+| **Signed forms** | Signed forms only (excludes unsigned or voided documents) |
+| **All forms** | Every form generated for the session, regardless of status |
+| **Session Manifest** | Summary listing of all applicants and their exam results |
+| **Form 605** | FCC Form 605 for each applicant |
+| **CSCE** | Certificate of Successful Completion for each applicant who passed |
+| **Results** | Exam scores and pass/fail outcomes |
+
+### Download menu
+
+Export files for submission to your VEC or import into external systems:
+
+| Item | Format | Description |
+|------|--------|-------------|
+| **VEC Archive** | ZIP | Complete session package for VECs that accept electronic archives — requires finalized session |
+| **EBF File** | EBF | Electronic Blue Form for VECs that use this format — requires finalized session |
+| **W5YI** | CSV | Export for W5YI VEC submission — requires finalized session |
+| **Laurel SessionManager** | CSV | Import file for Laurel VEC SessionManager |
+| **Applicant List** | CSV | Basic applicant information for your own records |
+| **JSON export** | JSON | Full session data export |
+
+> **Which format does your VEC require?** Consult your VEC's guidance. Most VECs accept either the VEC Archive or a VEC-specific format (EBF, W5YI, Laurel). The VEC Archive and VEC-specific exports are only available after the session is finalized.
+
+---
 
 ## Verify
 
-The session status changes to **Submitted** in your sessions list.
+The session status shows **Closed** in the sessions list after finalization.
 
-## Related guides
+## Next steps
 
-- [Troubleshoot session issues →](../troubleshooting/session-issues)
-- [Get help →](../troubleshooting/get-help)
+- [Return to your sessions list →](../sessions/)

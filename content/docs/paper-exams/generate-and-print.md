@@ -3,61 +3,73 @@ title: Generate and Print Exams
 weight: 2
 ---
 
-Generate randomized paper exam PDFs from within your ExamTools session, then print them before exam day.
-
-## Prerequisites
-
-- A [scheduled or open session](../sessions/create-session) with the correct license elements selected
-- Team lead or owner privileges
+Exam PDFs are generated from the **Generate Exams** page, accessible from the sidebar. This is separate from the session view and can be done before exam day.
 
 ## Generate the exams
 
-1. Open your session in ExamTools and click **Generate Exams** (or find this under the session's **Paper Exams** menu).
+1. Click **Generate Exams** in the sidebar.
 
-   <SCREENSHOT: Session view with Generate Exams button>
+2. Select a **grading method** using the buttons at the top:
 
-2. Select the **license element** you are generating exams for (Technician, General, or Extra).
+   <SCREENSHOT: Generate Exams page showing Manual Grading, Pre-determined Key, and Scan with GradeCam grading method buttons>
 
-3. Enter the **number of copies** to generate. Generate at least as many as your expected applicants, plus two or three extras.
+   - **Manual Grading** — produces an exam booklet and a separate answer key PDF for hand grading
+   - **Pre-determined Key** — generates exams based on a fixed answer key you select
+   - **Scan with GradeCam™** — produces an exam booklet; bubble forms for scanning are downloaded separately (see below)
 
-4. Select your **grading method**:
-   - **GradeCam** — generates answer sheets formatted for the GradeCam bubble-sheet scanner
-   - **Manual / Answer key** — generates a separate answer key PDF for hand grading
+3. Select the **Question Pool** for the license element you are testing.
 
-   <SCREENSHOT: Exam generation options panel>
+4. Set the **number of exams** to generate (up to 50).
 
-5. Click **Generate**. ExamTools creates a unique, randomized exam for each copy requested.
+   Exam booklets can be reused across applicants as long as applicants do not write in them. Generate as many booklet variations as you want applicants testing concurrently — not necessarily one per applicant. For GradeCam sessions, print enough bubble forms for every applicant plus a few extras, since bubble forms cannot be reused.
 
-6. When generation is complete, download the PDF(s):
-   - **Exam booklets** — one PDF containing all exam copies, each with a unique exam number
-   - **Answer sheets** — bubble sheet for each exam copy (GradeCam method)
-   - **Answer key** — reference sheet showing the correct answers for each exam number (manual method)
+5. Adjust any other options as needed:
+   - **Text Size** — controls the font size in the printed booklet
+   - **Print answer keys?** — (GradeCam only) includes answer keys in the output
+   - **Omit questions with figures** — excludes questions that require a diagram
+   - **Output Format** — PDF (default) or TEXT (ZIP)
 
-   <SCREENSHOT: Download links for exam PDFs>
+   <SCREENSHOT: Exam generation options panel showing Text Size, Print answer keys, Omit questions with figures, and Output Format controls>
 
-> Keep the answer key secure. Do not distribute it before or during the exam.
+6. Click **Generate**. ExamTools builds a unique, randomized exam for each copy and downloads the file.
+
+> **Keep the answer key secure.** Do not distribute it before or during the exam.
+
+---
+
+## GradeCam bubble forms
+
+GradeCam requires a separate bubble form for each applicant — this is the sheet the applicant marks their answers on and the camera reads. Bubble forms are **not** included in the exam booklet PDF; they are downloaded separately.
+
+On the Generate Exams page, scroll to **Supplemental resources** and download the appropriate bubble form:
+
+- **35-question form** — for Technician and General exams
+- **50-question form** — for Amateur Extra exams
+- **35/50 combo form** — works for all elements
+
+Print one bubble form per applicant (plus extras). Bubble forms are not pre-assigned to applicants — the applicant fills in their own **Applicant ID** (their PIN) and **Exam ID** (from their booklet) by bubbling the digits, and also bubbles the element (T, G, or E).
+
+<SCREENSHOT: GradeCam bubble form showing Applicant ID, Exam ID, and element (T/G/E) bubble fields that the applicant must complete> GradeCam reads these bubbled fields to identify the applicant and score the exam against the correct answer key.
+
+---
 
 ## Print the exams
 
-1. Open the exam booklet PDF in your PDF viewer.
-2. Print at **actual size** (do not scale to fit). Scaling can misalign GradeCam answer sheet grids.
-3. Print the answer sheets on separate pages from the exam booklets.
+1. Print at **actual size** — do not scale to fit. Scaling distorts GradeCam bubble grids.
+2. Use standard 8.5" × 11" letter paper.
+3. Print bubble forms on separate pages from the exam booklets.
 
-**Printing tips:**
-- Use standard 8.5" × 11" letter paper.
-- Black-and-white printing is fine.
-- Staple or bind each exam booklet separately so pages don't get mixed up.
-- Label each answer sheet with the exam number before the session.
+---
 
 ## Verify
 
-Flip through a printed copy to confirm:
-- Page numbers are present
-- Text is fully legible (not cut off at margins)
-- If using GradeCam: the bubble grid is clear and not distorted
+Before exam day, check a printed copy:
+
+- Text is fully legible and not cut off at the margins
+- GradeCam bubble grids are clear and undistorted
 
 ## Next steps
 
-- [Run the paper exam session on exam day →](run-paper-exam-day)
+- [Run a paper exam session →](run-paper-exam-day)
 - [Grade with GradeCam →](grade-with-gradecam)
 - [Grade manually →](grade-manually)
