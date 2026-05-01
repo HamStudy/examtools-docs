@@ -1,320 +1,139 @@
 # Instructions for Contributors and Maintainers
 
-Here's a checklist for Contributors and Maintainers, using [Github workflow](https://guides.github.com/introduction/flow/).
-The examples all assume you've [added a github ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
+This guide covers how to contribute to the ExamTools documentation and how maintainers publish changes.
 
-<!-- install markdown-toc: `npm install -g markdown-toc` -->
-<!-- run `markdown-toc -i maintainer.md` to update this ToC -->
+## Contents
 
-<!-- toc -->
+- [Setup](#setup)
+- [Branch and edit workflow](#branch-and-edit-workflow)
+- [Preview locally](#preview-locally)
+- [Front matter reference](#front-matter-reference)
+- [Submit a pull request](#submit-a-pull-request)
+- [Maintainer: review and merge](#maintainer-review-and-merge)
+- [Maintainer: publish](#maintainer-publish)
 
-- [Contributors and Maintainers Defined](#contributors-and-maintainers-defined)
-- [Fork the repo](#fork-the-repo)
-- [Add a ref to the upstream repo](#add-a-ref-to-the-upstream-repo)
-- [Make a feature branch](#make-a-feature-branch)
-- [Make your changes](#make-your-changes)
-  * [Notes about the front matter metadata](#notes-about-the-front-matter-metadata)
-- [Test your changes](#test-your-changes)
-- [Commit your changes and push to your repo](#commit-your-changes-and-push-to-your-repo)
-- [Submit a Pull Request](#submit-a-pull-request)
-- [Alternative approach: Editing in the browser on GithHub](#alternative-approach-editing-in-the-browser-on-githhub)
-- [Maintainer Only: Review and Merge Pull Request](#maintainer-only-review-and-merge-pull-request)
-- [Maintainer Only: Publish](#maintainer-only-publish)
-
-<!-- tocstop -->
-
-## Contributors and Maintainers Defined
-
-Anybody can be a *Contributor*. Follow the next steps to fork the repo, make a feature branch and submit a pull request (PR).
-
-*Maintainers* have permissions to review and merge PRs into the master branch and to publish to the release branch.
-
-## Fork the repo
-
-If you are new to maintaining the docs, perform this one-time task:
-
-Fork your own copy of the repo. In the examples below, I call it `my-repo`.
-
-Go to https://github.com/HamStudy/examtools-docs and click Fork.
-
-![Make a fork](./images/fork.png "make a fork")
-
-Once you've forked it, you can clone it locally to your desktop, following the instructions provided.
-
-```text
-$ git clone git@github.com:myname/examtools-docs.git my-repo
-$ cd my-repo
-```
-
-Your clone of the repo will have the default remote name of `origin`.
-
-```text
-$ git remote -v
-origin	git@github.com:myname/examtools-docs.git (fetch)
-origin	git@github.com:myname/examtools-docs.git (push)
-```
-
-## Add a ref to the upstream repo
-
-Add a reference to upstream so you can keep your fork in sync.
-
-```text
-$ git remote add upstream git@github.com:HamStudy/examtools-docs.git
-$ git remote -v
-origin	git@github.com:myname/examtools-docs.git (fetch)
-origin	git@github.com:myname/examtools-docs.git (push)
-upstream	git@github.com:HamStudy/examtools-docs.git (fetch)
-upstream	git@github.com:HamStudy/examtools-docs.git (push)
-```
-
-Any time you want to get up-to-date with the latest changes, `git pull upstream master`:
-
-```text
-$ git checkout master
-$ git pull upstream master
-remote: Enumerating objects: 1, done.
-remote: Counting objects: 100% (1/1), done.
-remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (1/1), done.
-From github.com:HamStudy/examtools-docs
- * branch            master     -> FETCH_HEAD
-   03a0672..fca28f5  master     -> upstream/master
-Updating 03a0672..fca28f5
-Fast-forward
- content/docs/cve/_index.md | 2 --
- 1 file changed, 2 deletions(-)
-```
-
-To keep your fork of the repo current, you can push to it (note that the first time you use this shortcut flavor
-of `git push` you'll be prompted to do a longer command: `git push --set-upstream origin master`.
-From then on just `git push` pushes to your repo).
-
-```text
-$ git push
-Total 0 (delta 0), reused 0 (delta 0)
-To github.com:myname/examtools-docs.git
-   03a0672..fca28f5  master -> master
-```
-
-## Make a feature branch
-
-Now that your fork is current with the master branch, make a new feature branch to hold your changes.
-
-```text
-$ git checkout -b my_feature
-Switched to a new branch 'my_feature'
-```
-
-## Make your changes
-
-The web site content is in the `content` directory tree.
-
-Do some editing of the content files as needed. For example, I want to make some changes to the ARRL CVE checklist:
-
-```text
-$ emacs content/docs/cve/arrl/checklist.md
-```
-
-### Notes about the front matter metadata
-
-Hugo uses the front matter tags to do things like sort the documents in the lefthand menu (`weight` tag)
-and to set the last update date of the file (`date` tag). However, if you leave the `date` out, then
-it will be set to the date of the git commit for the file. This is probably what you wanted and eliminates
-the need to manually update this field every time you edit a given file. If you want to force the date
-to be something other than the git commit date, then set the tag explictly.
-
-This is especially useful for the [RSS feed](https://docs.exam.tools/index.xml) since feed readers will notify
-subscribers of new updates automatically:
-
-![rss feed](./images/rss.png "rss feed")
-
-Here's an example of the front matter for one file with the date commented out:
-```
----
-# Title, summary, and page position.
-linktitle: VE Roles and Permissions in an ExamTools session
-weight: 30
-featured: false
-draft: false
-icon: book-reader
-icon_pack: fas
-
-# Page metadata.
-title: VE Roles and Permissions in an ExamTools session
-#date: "2012-12-11T00:00:00Z"
-type: book  # Do not modify.
 ---
 
+## Setup
+
+### One-time setup
+
+1. **Install Hugo (extended).** The minimum required version is listed in `netlify.toml`.
+
+   On macOS with Homebrew:
+   ```bash
+   brew install hugo
+   ```
+
+   On Linux, download the extended binary from the [Hugo releases page](https://github.com/gohugoio/hugo/releases).
+
+2. **Clone the repo and initialise the theme submodule:**
+
+   ```bash
+   git clone git@github.com:HamStudy/examtools-docs.git
+   cd examtools-docs
+   git submodule update --init --recursive
+   ```
+
+3. **Fork the repo** if you do not have write access. Go to https://github.com/HamStudy/examtools-docs and click **Fork**, then clone your fork.
+
+### Keeping the theme up to date
+
+The Hextra theme is a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) pinned to a specific commit. To update it:
+
+```bash
+git submodule update --remote themes/hextra
+git add themes/hextra
+git commit -m "Update Hextra theme to latest"
 ```
 
-## Test your changes
+---
 
-One time: See the [instructions](https://wowchemy.com/docs/install-locally/) for installing Hugo locally.
+## Branch and edit workflow
 
-For example, on a Mac with homebrew.
-```
-brew install git golang hugo
-```
+1. Make sure your fork/clone is current with upstream:
 
-Then run the Hugo server to view your newly updated site:
+   ```bash
+   git checkout master
+   git pull upstream master   # or: git pull origin master
+   ```
 
-```text
-$ hugo server
-hugo: downloading modules …
-hugo: collected modules in 2778 ms
+2. Create a feature branch:
 
-                   | EN  
--------------------+-----
-  Pages            | 31  
-  Paginator pages  |  0  
-  Non-page files   |  8  
-  Static files     |  5  
-  Processed images | 19  
-  Aliases          |  4  
-  Sitemaps         |  1  
-  Cleaned          |  0  
+   ```bash
+   git checkout -b my-edit
+   ```
 
-Built in 292 ms
-Watching for changes in /Users/myuser/my-repo/{assets,content,data,static}
-Watching for config changes in /Users/myuser/my-repo/config/_default, /Users/myuser/my-repo/go.mod
-Environment: "development"
-Serving pages from memory
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
+3. Edit or create Markdown files in `content/docs/`. See [Front matter reference](#front-matter-reference) below.
+
+4. Preview your changes locally (see below), then commit and push:
+
+   ```bash
+   git add content/docs/your-changed-file.md
+   git commit -m 'Short description of change'
+   git push --set-upstream origin my-edit
+   ```
+
+---
+
+## Preview locally
+
+```bash
+hugo server
 ```
 
-And open http://localhost:1313/ in your browser.
+Or use the provided script for a stricter preview:
 
-Rinse and repeat until your changes look right.
-
-You can also run `./view.sh ` which does `hugo server --disableFastRender --i18n-warnings -p 1316`.
-
-
-## Commit your changes and push to your repo
-
-```text
-$ git status
-On branch my_feature
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   _index.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
-$ git add _index.md
-$ git commit -m 'a useful short description here'
-[my_feature 7701f9c] a useful short description here
- 1 file changed, 37 insertions(+), 34 deletions(-)
-$ git push
-fatal: The current branch my_feature has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin my_feature
-$ git push --set-upstream origin my_feature
-Enumerating objects: 13, done.
-Counting objects: 100% (13/13), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (6/6), done.
-Writing objects: 100% (7/7), 1.82 KiB | 1.82 MiB/s, done.
-Total 7 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
-To github.com:myname/examtools-docs.git
-   700e65d..7701f9c  my_feature -> my_feature
-Enumerating objects: 11, done.
-Counting objects: 100% (11/11), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (6/6), done.
-Writing objects: 100% (6/6), 1.30 KiB | 1.30 MiB/s, done.
-Total 6 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
-remote:
-remote: Create a pull request for 'my_feature' on GitHub by visiting:
-remote:      https://github.com/myname/examtools-docs/pull/new/my_feature
-remote:
-To github.com:myname/examtools-docs.git
- * [new branch]      my_feature -> my_feature
-Branch 'my_feature' set up to track remote branch 'my_feature' from 'origin'.
+```bash
+./view.sh
 ```
 
-## Submit a Pull Request
+Open http://localhost:1313/ in your browser. Hugo rebuilds automatically when you save a file.
 
-Now go to the above URL in your browser and you can submit a PR.
+---
 
-## Alternative approach: Editing in the browser on GithHub
+## Front matter reference
 
-You can also edit pages directly in the web browser on github.com.
+Every content file requires front matter at the top of the file. Minimal example:
 
-A drawback of this approach is you can't test your updates locally via Hugo before submitting them, however a preview
-of the site is generated as part of the Pull Request checks. You can click on the **netlify/examtools-docs/deploy-preview**
-Details to see it.
+```yaml
+---
+title: Page Title
+weight: 3
+---
+```
 
-See the following checklist for an example of this workflow:
+| Field | Required | Description |
+|-------|----------|-------------|
+| `title` | Yes | The page title shown in the sidebar and `<h1>` |
+| `weight` | Yes | Controls sidebar order within the section (lower = higher) |
+| `draft` | No | Set to `true` to hide a page from the published site |
 
-1. Navigate to the page you want to edit and click the edit pencil icon:
+The `date` and `lastmod` fields are populated automatically from the git commit history and do not need to be set manually.
 
-![edit the markdown file](./images/browser-edit.png "edit the markdown file")
+---
 
-2. Since you are making changes to a project that you don't have write access to, this will make a fork of the repo under
-   your GitHub account and start a new feature branch:
+## Submit a pull request
 
-![create a new fork](./images/browser-edit-new-fork.png "create a new fork")
+1. Push your branch to your fork.
+2. Go to https://github.com/HamStudy/examtools-docs and open a pull request from your branch.
+3. A Netlify deploy preview is generated automatically — click the **Details** link next to the `netlify/examtools-docs/deploy-preview` check to preview the live site.
+4. If maintainers request changes, push additional commits to the same branch.
 
-3. Now you can make your changes and then scroll down to the bottom to commit them:
+---
 
-![commit browser-based edit](./images/browser-commit.png "commit browser-based edit")
+## Maintainer: review and merge
 
-4. You can now create a Pull Request (PR) which submits your edit to the hamstudy/examtools-docs project:
+Review the PR, request changes if needed, then merge to `master`.
 
-![submit PR](./images/browser-pr.png "submit PR")
+---
 
-5. After a few minutes, the PR will have run the various checks. One of those generates a preview web site for you to
-   see if your edits look right:
+## Maintainer: publish
 
-![PR Conversation page with netlify preview circled](./images/netlify.png "netlify preview")
+Publishing to https://docs.exam.tools/ happens when `master` is pushed to the `release` branch:
 
-
-At this point, if you are happy with your changes, the ball is in the court of the examtools-docs maintainers. They'll be
-notified of the PR and will either merge and deploy it or ask you for some further edits.
-
-In the latter case, or if you discover that you didn't edit it quite right and need to tweak your changes,
-you can edit some more and submit another commit on the same branch.
-This is a little complicated:
-
-If you clicked the Netlify Preview link, click Back in the browser so you are back at the PR Conversation screen.
-
-1. On the line with the green Open icon, click on the blue link for the "from" _repo_:_patch_. This will put you
-   in your forked repo's feature branch for the PR you just submitted:
-
-![Jump to my repo/patch feature branch](./images/browser-pr-jump-to-repo.png "jump to my feature branch")
-
-2. You'll have to navigate to your copy of the file you were editing, and again click the pencil icon.
-
-![Edit your copy](./images/browser-2nd-edit.png "edit your copy")
-
-3. Once done editing, scroll down to the bottom and Commit Changes for this edit directly to the existing branch:
-
-![Commit your edit](./images/browser-2nd-commit.png "commit your edit")
-
-4. Now navigate back to your PR on the main http://github.com/hamstudy/examtools-docs/pulls repo and you'll see
-   that your 2nd edit commit has been added, the checks have run again, and, you can again click the Netlify
-   details to see your changes.
-
-![2nd commit in PR](./images/browser-2nd-commit-pr.png "2nd commit")
-
-
-
-## Maintainer Only: Review and Merge Pull Request
-
-As a maintainer you can review the PR, request changes, approve, etc. and then merge it to master.
-
-## Maintainer Only: Publish
-
-Publishing to https://docs.exam.tools/ only happens when you push the `master` to the `release` branch.
-
-```text
-cd my-repo
+```bash
 git checkout master
-git pull upstream master
-git push upstream master:release
+git pull origin master
+git push origin master:release
 ```
