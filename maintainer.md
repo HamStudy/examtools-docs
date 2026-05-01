@@ -90,6 +90,12 @@ Or use the provided script for a stricter preview (disables fast render, shows i
 
 Open http://localhost:1316/ in your browser. Hugo rebuilds automatically when you save a file.
 
+> **Note:** Search (Pagefind) is not available during `hugo server`. To test search locally, do a full build and run Pagefind manually:
+> ```bash
+> hugo --gc --minify && npx pagefind --site public
+> ```
+> Then serve the `public/` directory with any static file server.
+
 ---
 
 ## Front matter reference
