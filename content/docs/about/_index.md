@@ -1,6 +1,6 @@
 ---
 title: About ExamTools
-weight: 8
+weight: 9
 ---
 
 - **[About ExamTools](about-examtools)** — The history and mission of the ExamTools platform.

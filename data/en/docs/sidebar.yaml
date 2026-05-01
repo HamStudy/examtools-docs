@@ -79,6 +79,11 @@
     - title: Remote Exam Differences
       url: /docs/remote-exams/remote-differences/
 
+- title: Sandbox and Training
+  pages:
+    - title: Run a Training Session
+      url: /docs/sandbox/training-session/
+
 - title: Reference
   pages:
     - title: Roles and Permissions

@@ -38,4 +38,5 @@ Internet Explorer is not supported.
 ## Related guides
 
 - [New VE quickstart →](../getting-started/new-ve-quickstart)
+- [Run a training session →](../sandbox/training-session)
 - [Glossary →](glossary)

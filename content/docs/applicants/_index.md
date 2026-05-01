@@ -1,6 +1,6 @@
 ---
 title: For Applicants
-weight: 9
+weight: 10
 ---
 
 This documentation is written for Volunteer Examiners. If you are an applicant looking to take a ham radio exam, the best place to start is the team running your session.

@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-weight: 11
+weight: 12
 ---
 
 - **[Account issues](account-issues)** — Problems with login, callsign verification, VEC accreditation, or signatures.
