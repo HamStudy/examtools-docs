@@ -1,0 +1,38 @@
+theme: docura
+
+baseURL: https://docs.exam.tools/
+enableGitInfo: true
+enableRobotsTXT: true
+defaultContentLanguage: en
+
+languages:
+  en:
+    weight: 1
+    label: English
+    locale: en-US
+    contentDir: content
+    title: ExamTools Documentation
+    params:
+      description: Documentation for ExamTools — the modern amateur radio exam platform
+
+module:
+  mounts:
+    - source: content-test
+      target: content
+    - source: content
+      target: content
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+
+params:
+  author:
+    name: ExamTools
+    url: https://exam.tools

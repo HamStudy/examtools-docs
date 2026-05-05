@@ -1,0 +1,41 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ .Page.Params.description | default .Site.Params.description | .RenderString }}">
+<meta name="author" content="{{ .Site.Params.author.name }}">
+
+<title>{{ if .IsHome }}{{ .Site.Title | .RenderString }} · {{ .Site.Params.description | .RenderString }}{{ else }}{{ .Title | .RenderString }} · {{ .Site.Title | .RenderString }}{{ end }}</title>
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Open Graph */}}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title | .RenderString }}{{ else }}{{ .Title | .RenderString }} · {{ .Site.Title | .RenderString }}{{ end }}">
+<meta property="og:description" content="{{ .Page.Params.description | default .Site.Params.description | .RenderString }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ "img/icon/icon-512.png" | absURL }}">
+
+{{/* Twitter/Slack card */}}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title | .RenderString }}{{ else }}{{ .Title | .RenderString }} · {{ .Site.Title | .RenderString }}{{ end }}">
+<meta name="twitter:description" content="{{ .Page.Params.description | default .Site.Params.description | .RenderString }}">
+<meta name="twitter:image" content="{{ "img/icon/icon-512.png" | absURL }}">
+
+{{ with .Params.robots -}}
+<meta name="robots" content="{{ . }}">
+{{- end }}
+
+{{ partial "stylesheets" . }}
+{{ partial "favicons" . }}
+{{ partial "head-meta-theme-colors" . }}
+{{ partial "analytics" . }}
+
+{{ if not .IsHome }}
+  {{ partial "adsense" . }}
+{{ end }}
+
+{{- $customCSS := resources.Get "css/examtools-custom.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.integrity }}">
+
+<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-component-ui.js"></script>

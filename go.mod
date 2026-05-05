@@ -1,5 +1,8 @@
-module github.com/wowchemy/starter-book
+module github.com/hamstudy/examtools-docs
 
-go 1.14
+go 1.22
 
-require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20200902195927-86da39719ccd // indirect
+require (
+	github.com/colinwilson/lotusdocs v0.3.0 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
+)

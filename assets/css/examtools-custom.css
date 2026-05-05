@@ -1,0 +1,285 @@
+/* ExamTools brand overrides for Docura */
+
+:root {
+  --et-gold: #c79100;
+  --et-blue: #0099ff;
+  --et-blue-dark: #007acc;
+  --et-navy: #0d1b2a;
+  --et-navy-mid: #1a2f46;
+
+  --color-anchor: #0099ff;
+  --color-hover: #007acc;
+
+  /* Light-mode: off-white base reduces glare on doc pages */
+  --background: #f6f8fa;
+
+  /* Article lift — shown in light mode, suppressed in dark/night */
+  --et-article-bg: rgba(255, 255, 255, 0.82);
+  --et-article-shadow: 0 1px 6px rgba(0, 0, 0, 0.07), 0 0 0 1px rgba(0, 0, 0, 0.04);
+}
+
+:root[data-color="dark"],
+:root[data-color="night"] {
+  --et-article-bg: transparent;
+  --et-article-shadow: none;
+}
+
+/* ── Site header: dark navy on all pages ──────────────────── */
+
+#site-header {
+  background: var(--et-navy);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+#site-header-brand a {
+  color: #ffffff;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+}
+
+.et-header-logo {
+  height: 30px;
+  /* Invert the near-black text to white; gold converts to a bright yellow — close enough */
+  filter: brightness(0) invert(1) sepia(1) saturate(2) hue-rotate(5deg);
+  display: block;
+}
+
+#site-header-menu a {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#site-header-menu a:hover,
+#site-header-menu a:focus,
+#site-header-menu a.active {
+  color: #ffffff;
+  border-bottom-color: var(--et-gold);
+}
+
+#site-header-controls button,
+#site-header-controls a {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+#site-header-controls .icon {
+  filter: brightness(0) invert(1) opacity(0.75);
+}
+
+/* Keep dropdown menus readable */
+#site-header .dropdown-menu {
+  background: #132338;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+#site-header .dropdown-menu a,
+#site-header .dropdown-menu button {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+#site-header .dropdown-menu a:hover,
+#site-header .dropdown-menu button:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+}
+
+/* ── Subtle watermark on inner doc pages ──────────────────── */
+
+body::before {
+  content: "";
+  background-image: url("/img/sandcastle-drawing.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.018;
+  filter: saturate(0.1) contrast(0.4);
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* ── Home page cover ──────────────────────────────────────── */
+
+.cover {
+  min-height: calc(100svh - var(--site-header-height, 48px));
+  padding: 60px 20px;
+
+  /* Dark navy gradient behind the SVG background */
+  background: var(--et-navy);
+  position: relative;
+  overflow: hidden;
+  color: #e8edf2 !important;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* Exam classroom SVG at low opacity — the "from exam.tools" imagery */
+.cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("/img/classExam2.svg") center/55% no-repeat;
+  opacity: 0.05;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Gradient vignette so edges fade to navy */
+.cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, transparent 30%, var(--et-navy) 80%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* All direct cover children float above the pseudo-elements */
+.cover > * {
+  position: relative;
+  z-index: 1;
+}
+
+.cover h1 {
+  font-family: var(--font-family), sans-serif;
+  font-size: 2.75em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+  margin-bottom: 0.3em;
+  text-align: center;
+}
+
+.cover h2 {
+  font-family: var(--font-family), sans-serif;
+  font-size: 1.15em;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.65);
+  margin-bottom: 2.75rem;
+  text-align: center;
+  max-width: 540px;
+}
+
+/* Callout cards */
+.et-callouts {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2.5rem;
+  width: 100%;
+  max-width: 860px;
+}
+
+.et-callout {
+  flex: 1 1 240px;
+  max-width: 260px;
+  background: rgba(8, 20, 34, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-top: 3px solid var(--et-gold);
+  border-radius: 10px;
+  padding: 1.5rem 1.25rem;
+  text-decoration: none !important;
+  color: #e8edf2 !important;
+  transition: background 0.18s, border-color 0.18s, transform 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.et-callout:hover {
+  background: rgba(0, 55, 115, 0.88);
+  border-color: rgba(0, 153, 255, 0.60);
+  transform: translateY(-3px);
+}
+
+.et-callout-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--et-gold);
+}
+
+.et-callout-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 1.3;
+}
+
+.et-callout-desc {
+  font-size: 0.875rem;
+  color: #8aabb0;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.et-callout-arrow {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--et-blue);
+  font-weight: 500;
+}
+
+/* Browse all link */
+.et-browse-all {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.55) !important;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.et-browse-all:hover {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .cover h1 { font-size: 2em; }
+  .cover h2 { font-size: 1em; }
+  .et-callouts { gap: 1rem; }
+  .et-callout { max-width: 100%; }
+  .cover::before { background-size: 90%; }
+}
+
+/* ── Inner doc pages: article lift (light mode only) ─────── */
+
+#article {
+  background: var(--et-article-bg);
+  box-shadow: var(--et-article-shadow);
+}
+
+/* ── Inner doc pages: article title weight ────────────────── */
+
+#article-header {
+  font-weight: 600;
+}
+
+/* ── Inner doc pages: blockquote gold accent ──────────────── */
+
+#article-content blockquote {
+  border-left-color: var(--et-gold);
+}
+
+/* ── Inner doc pages: sidebar section labels ──────────────── */
+
+.sidebar-section {
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--et-gold);
+}
+
+/* ── Brand link colors in dark and night modes ────────────── */
+
+:root[data-color="dark"],
+:root[data-color="night"] {
+  --color-anchor: var(--et-blue);
+  --color-hover: var(--et-blue-dark);
+}

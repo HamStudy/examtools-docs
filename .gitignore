@@ -4,7 +4,16 @@
 # Hugo
 resources/
 public/
+public-docura/
+public/pagefind/
+hugo_stats.json
+.hugo_build.lock
+assets/jsconfig.json
 .DS_Store
+# Claude memory
+memory/
+MEMORY.md
+
 # editor temp files
 *~
 *#
