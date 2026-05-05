@@ -9,6 +9,19 @@
 
   --color-anchor: #0099ff;
   --color-hover: #007acc;
+
+  /* Light-mode: off-white base reduces glare on doc pages */
+  --background: #f6f8fa;
+
+  /* Article lift — shown in light mode, suppressed in dark/night */
+  --et-article-bg: rgba(255, 255, 255, 0.82);
+  --et-article-shadow: 0 1px 6px rgba(0, 0, 0, 0.07), 0 0 0 1px rgba(0, 0, 0, 0.04);
+}
+
+:root[data-color="dark"],
+:root[data-color="night"] {
+  --et-article-bg: transparent;
+  --et-article-shadow: none;
 }
 
 /* ── Site header: dark navy on all pages ──────────────────── */
@@ -77,7 +90,8 @@ body::before {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  opacity: 0.04;
+  opacity: 0.018;
+  filter: saturate(0.1) contrast(0.4);
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
   z-index: -1;
@@ -108,7 +122,7 @@ body::before {
   position: absolute;
   inset: 0;
   background: url("/img/classExam2.svg") center/55% no-repeat;
-  opacity: 0.10;
+  opacity: 0.05;
   z-index: 0;
   pointer-events: none;
 }
@@ -163,8 +177,8 @@ body::before {
 .et-callout {
   flex: 1 1 240px;
   max-width: 260px;
-  background: rgba(255, 255, 255, 0.06);
-  border: 1px solid rgba(255, 255, 255, 0.13);
+  background: rgba(8, 20, 34, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.22);
   border-top: 3px solid var(--et-gold);
   border-radius: 10px;
   padding: 1.5rem 1.25rem;
@@ -174,11 +188,13 @@ body::before {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .et-callout:hover {
-  background: rgba(0, 153, 255, 0.13);
-  border-color: rgba(0, 153, 255, 0.45);
+  background: rgba(0, 55, 115, 0.88);
+  border-color: rgba(0, 153, 255, 0.60);
   transform: translateY(-3px);
 }
 
@@ -230,6 +246,13 @@ body::before {
   .et-callouts { gap: 1rem; }
   .et-callout { max-width: 100%; }
   .cover::before { background-size: 90%; }
+}
+
+/* ── Inner doc pages: article lift (light mode only) ─────── */
+
+#article {
+  background: var(--et-article-bg);
+  box-shadow: var(--et-article-shadow);
 }
 
 /* ── Inner doc pages: article title weight ────────────────── */
