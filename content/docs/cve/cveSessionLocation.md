@@ -18,10 +18,6 @@ type: book  # Do not modify.
 
 ExamTools uses the selected location of the exam as the location in the final session documents.  For remote exams, only the city, state and zip will be required on the session schedule page.  Please confirm with your VEC, if you are unsure what address to use for your session.
 
-## Warning:
-
-Once you enter an address, you will not have ability to edit or delete it. ExamTools Support can edit addresses on a case-by-case basis for the time being.
-
 ## Create Specific Display Names:
 
 Use a specific location name as a display name.  If you have more than one team lead and/or test location under the same team identifier, create display names that make sense to you and your session schedulers. *Home, church, fire station, library, etc.* are common names.  Choose a proper name or descriptive phrase instead.
