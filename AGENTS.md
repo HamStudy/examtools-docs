@@ -31,6 +31,13 @@ examtools-docs/
 
 Some users of this repo may have access to the HamStudy / ExamTools codebase; when that is the case we should use that codebase to fact check and clarify things. The most likely location if it's present would be `../hamstudy2/`.
 
+## Domain equivalency
+
+Note that the following domains are aliases to each other:
+
+- hamstudy.org / ham.study
+- examtools.org / exam.tools
+
 ## WHERE TO LOOK
 
 | Task | Location | Notes |

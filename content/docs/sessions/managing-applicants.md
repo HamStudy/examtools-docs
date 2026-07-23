@@ -50,7 +50,9 @@ Ve Admins can manually change an applicant's status using the **Status** button 
 
 ## Add an applicant manually
 
-If an applicant has not pre-registered, a Co-Owner can add them on the spot — before or during the session:
+Whenever possible, ask the applicant to register through [HamStudy](https://hamstudy.org/sessions). You can also share the session's registration link by clicking the link icon next to the session title at the top of the session view.
+
+A Co-Owner can add an applicant manually when special circumstances make regular registration impractical. Before adding the applicant, make sure they have agreed to the Privacy Policy. If the applicant is under 13, make sure they have submitted the required COPPA form.
 
 1. Click the **Add Applicant** icon (person with a plus) in the applicant toolbar.
 2. Fill in the applicant's information (FRN or callsign, name, elements desired).

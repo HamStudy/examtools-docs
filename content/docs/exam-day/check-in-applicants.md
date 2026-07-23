@@ -62,11 +62,15 @@ The VE count badge on the applicant row turns amber when fewer than three VEs ar
 
 If an applicant did not pre-register, they can be added in one of two ways:
 
-**Option A — Self-registration via the session link**
+**Option A (preferred) — Self-registration via the session link**
 
 Share the session's registration link with the applicant. They complete registration on their own device, receive a confirmation email with their PIN, and then sign in as normal. The registration link is available by clicking the link icon next to the session title at the top of the session view.
 
 **Option B — Manual addition by a Co-Owner**
+
+You should generally avoid this option - there are legal ambiguities around adding someone into the database without their consent. At the very least, before adding the applicant manually, make sure they have agreed to the Privacy Policy. If the applicant is under 13, make sure they have submitted the required COPPA form. Regular registration handles both requirements.
+
+While we generally only recommend using this option in the Sandbox (for experimentation), if you judge it is needed here is how you do it:
 
 1. Click the **Add Applicant** icon (person with a plus) in the applicant toolbar.
 2. Fill in their information — FRN or callsign, name, and the elements they are testing for.
