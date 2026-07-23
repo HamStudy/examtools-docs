@@ -1,6 +1,8 @@
 ---
 title: What is ExamTools?
 weight: 1
+aliases:
+  - /docs/general/
 ---
 
 ExamTools is a web-based platform for administering amateur radio license exams. It supports the full exam lifecycle — from scheduling a session and registering applicants to proctoring exams, signing forms, and submitting results to your VEC.

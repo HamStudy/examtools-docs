@@ -1,6 +1,8 @@
 ---
 title: Paper Exams Overview
 weight: 1
+aliases:
+  - /docs/cve/cvein-personexamprocess/
 ---
 
 ExamTools can generate randomized paper exams for any license element. Each exam is unique — questions are drawn from the FCC question pool and arranged in a different order for every copy.
