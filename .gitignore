@@ -1,5 +1,11 @@
-# IDEs
+# IDEs and agentic tools
 .idea/
+.codebuddy
+.claude
+.agents
+.opencode
+.playwright-cli
+output/playwright
 
 # Hugo
 resources/
@@ -18,4 +24,3 @@ MEMORY.md
 *~
 *#
 .bak
-
