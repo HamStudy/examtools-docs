@@ -23,7 +23,7 @@ weight: 3
 
 **GradeCam** — A bubble-sheet scanning tool integrated into ExamTools. Uses a device camera to read completed answer sheets and score them automatically.
 
-**HamStudy** — The amateur radio study platform at hamstudy.org. ExamTools uses the same account system as HamStudy — one login works for both.
+**HamStudy** — The amateur radio study platform at hamstudy.org. HamStudy and ExamTools share a production user database, so the same account and password work on both sites. Changing the password on either site changes it for both.
 
 **NCVEC** — National Conference of Volunteer Examiner Coordinators; the body that creates and maintains the FCC amateur radio question pools and NCVEC Form 605.
 
@@ -52,5 +52,4 @@ weight: 3
 **VEC (Volunteer Examiner Coordinator)** — A national organization that accredits VEs and receives exam results. ExamTools is VEC-agnostic and works with multiple VECs. See the [FCC list of VECs](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service/volunteer-examiner-coordinators).
 
 **Volunteer Examiner** — The base session permission level in ExamTools. Can sign forms, authorize candidates, and self-assign to applicants. Label shown in the session VE permission dropdown. See also: *VE*. See [Roles and Permissions →](roles-and-permissions).
-
 

@@ -9,7 +9,7 @@ weight: 1
 
 1. Confirm you are signing in at the correct URL: [exam.tools](https://exam.tools) (production) or [examtools.dev](https://examtools.dev) / [sandbox.examtools.org](https://sandbox.examtools.org) (sandbox). These are separate systems with separate accounts.
 2. If you forgot your password, go to [exam.tools/reset](https://exam.tools/reset) to reset it.
-3. If you just created your account, check your inbox for a verification email and confirm your address before signing in.
+3. If you just created your account, check your inbox for the account-confirmation email and confirm your address before signing in.
 
 ## My callsign isn't being recognized
 
@@ -27,15 +27,8 @@ VEC accreditation is applied to your account automatically — you do not enter 
 
 **"Your account is verified, but the only VE credentials we know about have expired"** — Your accreditation has lapsed. Contact your VEC to renew.
 
-## My signature isn't saving
-
-1. Make sure you are drawing the signature inside the signature box, not outside it.
-2. Try a different browser. Signature capture can occasionally fail in older browsers.
-3. If using a touchscreen, try using a stylus or switching to a mouse on a desktop browser.
-
 ## Related guides
 
 - [Create an account →](../account-setup/create-account)
-- [Add VEC accreditation →](../account-setup/add-vec-accreditation)
-- [Add a signature →](../account-setup/add-signature)
+- [Confirm your VEC accreditation →](../account-setup/add-vec-accreditation)
 - [Get help →](get-help)

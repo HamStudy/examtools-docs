@@ -3,28 +3,43 @@ title: Create Your Account
 weight: 1
 ---
 
-This guide walks through creating a production ExamTools account and getting your callsign verified. You need to complete this before you can sign forms digitally or participate in computer-based sessions.
+This guide walks through creating a production ExamTools account and getting your callsign verified.
 
-> **Do you need an account?** VEs who will only sign paper forms with a pen do not need an ExamTools account. You only need one if you will be signing forms digitally, proctoring computer-based exams, or running sessions as someone with team lead credentials. When in doubt, ask your team lead.
+## Do you need an account?
+
+You need an ExamTools account to:
+
+- Generate paper exams through ExamTools
+- Grade paper exams with GradeCam in an ExamTools-managed session
+- Start or grade computerized exams in an ExamTools-managed session
+- Record externally or manually graded results in an ExamTools-managed session
+- Create, manage, or finalize an ExamTools session
+- Complete applicants and sign digital ExamTools paperwork
+
+You do not need an account to:
+
+- Administer or manually grade a paper exam when you do not use ExamTools for those tasks or for paperwork
+- Sign paper forms by hand when you do not perform other ExamTools actions
+- Participate in an exam session that is not managed by ExamTools
 
 > **Setting up a sandbox account?** Follow the same steps, but substitute [examtools.dev](https://examtools.dev) for every [exam.tools](https://exam.tools) URL. A sandbox account is separate from your production account and requires its own registration and callsign verification.
 
 ## Prerequisites
 
 - Your FCC callsign (you must already be a licensed amateur radio operator)
-- Access to the FCC Universal Licensing System (ULS) with your FCC username and password
+- Access to FCC License Manager through the Universal Licensing System (ULS), using your FRN and password
 
 ## Part 1: Create the account
 
 1. Go to [exam.tools](https://exam.tools).
 
-   > If you already have a HamStudy account, skip to step 4 — ExamTools and HamStudy share the same login system, so your existing credentials work on both sites.
+   > If you already have a HamStudy account, skip to step 4. HamStudy and ExamTools share a user database, so the same username and password work on both sites. Changing your password on either site changes it for both.
 
 2. Click **Sign Up** and fill in the registration form:
 
-   - **Username** — your login name. Using your callsign is strongly recommended; it makes it easy for team leads to find and add you to sessions.
-   - **Email address** — used for account confirmation and notifications.
-   - **Password** — choose a strong, unique password. You will enter it when signing forms and grading exams, so make it something you can type quickly under mild pressure.
+   - **Username** — the shortest or easiest identifier to use when signing in. Your callsign is recommended because it is easy to remember.
+   - **Email address** — used for account confirmation, notifications, and password resets.
+   - **Password** — choose a strong password you will remember, and do not reuse it on unrelated services. You need it to sign in and to perform certain actions in ExamTools.
 
 3. Check your email for a confirmation message from ExamTools. Click the confirmation link, or enter the confirmation code if the form prompts for it.
 
@@ -42,15 +57,15 @@ This guide walks through creating a production ExamTools account and getting you
 
 ## Part 2: Verify your callsign
 
-Callsign verification is required for all ExamTools accounts. It establishes that the person who created the account actually owns the callsign they registered with.
+Callsign verification is required for all ExamTools accounts. It establishes that the person who created the account controls the callsign they registered with.
 
-The process requires downloading your **Official License Copy** PDF from the FCC ULS — not a scan, not a photo, and not the Reference Copy. The Official Copy contains digital markers that ExamTools uses to validate authenticity.
+The process requires the original, unmodified **Official License Copy** PDF downloaded through FCC License Manager, which is part of the FCC's Universal Licensing System (ULS). Access to that official PDF provides evidence that you control the callsign. Anyone can download a Reference Copy, so it does not provide the same evidence.
 
 ### Get your Official License Copy from the FCC
 
-Follow the [FCC's guide to downloading your Official Copy](https://fccprod.servicenowservices.com/wireless?id=kb_article_view_public&sysparm_article=KB0017039&sys_kb_id=ccd5b0b61bd0a110fdb72f41f54bcb26&spa=1). You need the **Official Copy** specifically — not the Reference Copy, and not a scan or photo of your paper license.
+Follow the [FCC's guide to downloading an official electronic authorization](https://www.fcc.gov/research-reports/guides/common-filing-tasks). Sign in to [FCC License Manager](https://wireless2.fcc.gov/UlsEntry/licManager/login.jsp), download the **Official Copy**, and upload the PDF exactly as provided—not a Reference Copy, scan, photo, or modified file.
 
-> **Official Copy vs. Reference Copy:** Both are available from the FCC ULS, but only the Official Copy contains the embedded digital certificate that ExamTools validates against. The Reference Copy looks similar but will be rejected.
+> **Official Copy vs. Reference Copy:** The Official Copy is available through authenticated FCC License Manager access. A Reference Copy is publicly available through ULS License Search and is not an official FCC license.
 
 ### Submit the verification request in ExamTools
 
@@ -62,15 +77,15 @@ Follow the [FCC's guide to downloading your Official Copy](https://fccprod.servi
 
    ![ExamTools Verify Call Sign dialog showing the upload field, affirmation text, signature area, and Submit Request button](/img/docs/account-setup/profile-verify-callsign-dialog.png)
 
-3. Read and sign the verification form. By signing, you are declaring under penalty of law that you are the owner of this callsign. Falsifying this form constitutes forgery.
+3. Read and sign the verification form. By signing, you are declaring under penalty of law that you are the owner of this callsign. Falsifying this form constitutes forgery and/or fraud. If ExamTools offers to save the signature for later use, saving it is optional and you can change it later.
 
 4. Click **Submit Request**.
 
 ---
 
-## Part 3: Wait for confirmation
+## Part 3: Wait for callsign verification
 
-Account verification is reviewed manually and **can take up to 24 hours**. You will receive an email from ExamTools when your account has been verified.
+Callsign verification is reviewed manually and **can take up to 24 hours**. You will receive an email from ExamTools when verification is complete.
 
 You can still explore ExamTools while you wait, but you will not be able to join sessions or sign forms until verification is complete.
 
@@ -78,7 +93,7 @@ You can still explore ExamTools while you wait, but you will not be able to join
 
 ## After verification
 
-Once you receive the confirmation email:
+Once you receive the callsign-verification email:
 
 - Your VEC credentials will automatically appear in your profile under **Volunteer Examiner Credentials** once your VEC syncs (see [Confirm your VEC accreditation →](add-vec-accreditation))
 - Let your team lead know you are set up and ready to participate in sessions
@@ -94,7 +109,7 @@ Check your spam folder first. If it isn't there after a few minutes, try creatin
 Verification is done manually and occasionally takes longer during busy periods. If it has been more than 48 hours with no response, reach out through the [ExamTools support channel](../troubleshooting/get-help).
 
 **"Official Copy" rejected or callsign not recognized**
-Make sure you uploaded the Official Copy and not the Reference Copy. Both are PDFs available from the ULS, but only the Official Copy has the embedded certificate. If you recently upgraded your license, there may be a short delay before the new license is available as an Official Copy in the ULS.
+Make sure you uploaded the original, unmodified Official Copy downloaded through FCC License Manager, not the publicly available Reference Copy. If you recently upgraded your license, there may be a short delay before the new license is available in License Manager.
 
 **Wrong callsign registered**
 If you entered the wrong callsign during sign-up, update it on your Profile page before submitting a verification request. Submitting a verification for a callsign you do not hold will be rejected.
@@ -104,5 +119,4 @@ If you entered the wrong callsign during sign-up, update it on your Profile page
 ## Next steps
 
 - [Confirm your VEC accreditation →](add-vec-accreditation)
-- [Add your signature →](add-signature)
 - [Why is verification required? →](../faq#why-do-i-have-to-verify-my-callsign)

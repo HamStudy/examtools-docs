@@ -17,7 +17,7 @@ Once your VEC officially confirms your accreditation, they add you to their list
 
 3. Scroll down to **Volunteer Examiner Credentials** and click the arrow on the right to expand it.
 
-   ![ExamTools Profile page showing the Call sign section with a verified callsign, and below it the Volunteer Examiner Credentials and Saved Signature sections collapsed with expand arrows](/img/docs/account-setup/profile-vec-credentials-collapsed.png)
+   ![ExamTools Profile page showing a verified callsign and the Volunteer Examiner Credentials section collapsed with an expand arrow](/img/docs/account-setup/profile-vec-credentials-collapsed.png)
 
 4. Your accreditation should appear here, listing your VEC and whether you hold **Volunteer Examiner** or **Team Lead** status.
 
@@ -41,5 +41,4 @@ Your profile shows your VEC name and your credential type (Volunteer Examiner or
 
 ## Next steps
 
-- [Add your signature →](add-signature)
 - [Return to the new VE quickstart →](../getting-started/new-ve-quickstart)
