@@ -23,8 +23,8 @@ weight: 2
 
 ## Form 605 is stuck / signatures aren't saving
 
-1. All signing VEs must have a [signature profile set up](../account-setup/add-signature) before the session.
-2. Each VE must sign from their own logged-in account — one person cannot sign on behalf of another.
+1. Each VE must sign from their own logged-in account — one person cannot sign on behalf of another.
+2. In the signing dialog, use an existing signature or draw a new one. Saving a newly drawn signature for later use is optional.
 3. If a signature doesn't appear after clicking **Apply Signature**, try refreshing the session page.
 
 ## I accidentally closed a session early

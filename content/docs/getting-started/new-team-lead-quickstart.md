@@ -7,7 +7,7 @@ This guide is for a VE who has been granted team lead (CVE) privileges and needs
 
 ## Prerequisites
 
-- A completed [VE account setup](new-ve-quickstart) (account, VEC accreditation, and signature)
+- A completed [VE account setup](new-ve-quickstart) with a verified account and VEC accreditation
 - Team lead privileges granted by your VEC — see [Become a team lead](../teams/become-team-lead)
 
 ## Step 1: Create your team

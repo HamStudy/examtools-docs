@@ -3,7 +3,7 @@ title: New VE Quickstart
 weight: 2
 ---
 
-This guide gets a brand-new Volunteer Examiner set up in ExamTools. By the end you will have an account, your VEC accreditation confirmed, and your signature profile ready — everything needed to join a session and start proctoring.
+This guide gets a brand-new Volunteer Examiner set up in ExamTools. By the end you will have a verified account and your VEC accreditation confirmed.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Before you start, make sure you have:
 
 ## Step 2: Verify your callsign
 
-Callsign verification is required before you can join sessions or sign forms. You will need your Official License Copy PDF from the FCC ULS.
+Callsign verification is required before you can join sessions or sign forms. You will need the original, unmodified Official License Copy PDF downloaded through FCC License Manager, which is part of the FCC's ULS.
 
 [Verify your callsign →](../account-setup/create-account#part-2-verify-your-callsign)
 
@@ -28,26 +28,18 @@ Your VEC accreditation appears automatically on your profile once your VEC proce
 
 [Confirm your VEC accreditation →](../account-setup/add-vec-accreditation)
 
-## Step 4: Add your signature
-
-ExamTools uses a digital signature for NCVEC Form 605 and exam certificates. You need to set this up before you can sign anything in a session.
-
-[Add your signature profile →](../account-setup/add-signature)
-
 ## Verify you're ready
 
-After completing these steps, visit your profile at [exam.tools/me](https://exam.tools/me). You should see:
+Visit your profile at [exam.tools/me](https://exam.tools/me). Confirm that:
 
 - Your callsign and name displayed correctly
 - Your VEC accreditation listed
-- A signature preview
 
-![ExamTools Profile page showing a verified callsign, Volunteer Examiner Credentials expanded with VEC accreditations and credential types listed, and a Saved Signature section — the complete ready-to-participate state](/img/docs/account-setup/profile-ready-state.png)
-
-If all three are present, you're ready to join a session.
+If both are present, you're ready to participate in an ExamTools-managed session. ExamTools captures signatures during verification and signing workflows; saving a signature for later use is optional.
 
 ## Next steps
 
 - **Tell your team lead you're set up.** They will add you to upcoming sessions.
-- [Learn what happens on exam day →](../exam-day)
+- [Choose the Exam Day Workflow →](../exam-day)
+- **Generating paper exams?** Confirm that you have **Print Exams** permission or eligible team-lead access, then [choose a paper-exam workflow →](../paper-exams).
 - [Explore the sandbox environment →](../reference/environments#production-vs-sandbox)
