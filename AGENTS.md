@@ -31,6 +31,18 @@ examtools-docs/
 
 Some users of this repo may have access to the HamStudy / ExamTools codebase; when that is the case we should use that codebase to fact check and clarify things. The most likely location if it's present would be `../hamstudy2/`.
 
+The application source may contain unfinished or undeployed work. Use it to verify product logic, but do not assume that source-visible UI or behavior is available to users. Before documenting a feature discovered only in source, confirm that it is deployed or released; explicit user knowledge about deployment status overrides assumptions based on the source tree.
+
+## Documentation correction memory
+
+When the user corrects a misunderstanding in documentation work, treat the correction as durable project knowledge, not just a local wording change. In the same change set, add a concise note to the nearest relevant `AGENTS.md`: use the most specific scoped file for section- or layer-specific knowledge and this root file for project-wide knowledge. Do not require the user to repeat the lesson.
+
+Record the underlying fact, product goal, reader perspective, terminology rule, workflow assumption, or other context that would have made the correct documentation obvious. Do not record only a changelog entry such as “changed X to Y.” Generalize enough to prevent the same misunderstanding in related work, but do not turn a one-off wording preference into a broad rule or store secrets, credentials, personal data, or other sensitive information.
+
+Before finishing, apply this test: **Would a future agent who read the note have avoided the misunderstanding that caused the correction?** If not, rewrite the note to capture the causal lesson more clearly.
+
+Keep changes within the requested scope. If verification uncovers a pre-existing issue in another layer, surface it separately and explain why it matters before including a fix, unless the issue must be corrected for the requested work to function.
+
 ## Domain equivalency
 
 Note that the following domains are aliases to each other:
