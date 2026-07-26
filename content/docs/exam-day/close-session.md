@@ -1,6 +1,6 @@
 ---
 title: Finalize the Session
-weight: 5
+weight: 7
 ---
 
 After all applicants are marked complete, a Co-Owner finalizes the session by entering their ExamTools password. Finalization locks the session and prevents further changes.

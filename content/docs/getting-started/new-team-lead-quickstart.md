@@ -28,6 +28,12 @@ From within the session, add the VEs who will proctor on exam day. You need at l
 
 [Add VEs to a session →](../sessions/add-ves-to-session)
 
+## Step 4: Prepare paper exams (optional)
+
+If you will administer paper exams, generate and print them before exam day. Choose the preparation method that matches your VEC process; this is separate from the managed Exam Day workflow.
+
+[Prepare paper exams →](../paper-exams)
+
 ## Verify you're ready
 
 Before your exam day, confirm that:
@@ -38,6 +44,5 @@ Before your exam day, confirm that:
 
 ## Next steps
 
-- [Run the session on exam day →](../exam-day)
-- [Print paper exams →](../paper-exams)
+- [Choose the Exam Day Workflow →](../exam-day)
 - [Understand roles and permissions →](../reference/roles-and-permissions)

@@ -3,14 +3,15 @@ title: Check In Applicants
 weight: 2
 ---
 
-Applicants connect to the session using their PIN and submit a join request. VEs confirm the applicant's identity and approve them to proceed.
+When an applicant needs to connect to the session, they use their PIN to submit a join request. VEs confirm the applicant's identity and approve them to proceed.
 
-This process applies to all exam types. The timing differs:
+Check-in timing depends on the method:
 
-- **Computer exam** — the applicant connects before taking their exam.
-- **GradeCam (paper exam)** — the VE grades the paper answer sheet first; the applicant connects afterward to sign their forms. The answer sheet includes the applicant's PIN, so grading attaches automatically to the correct record.
+- **Computerized exam** — the applicant connects and is checked in before taking the exam.
+- **GradeCam paper exam** — create the applicant record before the test, but the applicant normally connects after the bubble form is scanned and graded. The applicant submits a join request that a VE approves before signing. The answer sheet includes the applicant's PIN, so grading attaches to the correct record.
+- **External grading** — the applicant does not need to be checked in before you use **Record External Exam**. After recording the result, the applicant connects and submits a join request that a VE approves before signing.
 
-A session can include both types, and an individual applicant can take one element on a device and another on paper.
+A session can mix all three methods, and an individual applicant can use different methods for different elements.
 
 ## Prerequisites
 
@@ -19,7 +20,7 @@ A session can include both types, and an individual applicant can take one eleme
 
 ## How applicants connect
 
-Pre-registered applicants received a session PIN in their confirmation email. On exam day they:
+When the session issues PINs, pre-registered applicants receive their session PIN in their confirmation email. On exam day they:
 
 1. Navigate to [exam.tools](https://exam.tools) and sign in with their PIN.
 2. Click **Join Session** to request entry.
@@ -85,7 +86,8 @@ A checked-in applicant shows status **Seen** in the applicant list with at least
 
 ## Next steps
 
-Proceed based on the exam format for each applicant:
+Proceed based on the method and the applicant's current stage:
 
-- **Computer exam:** [Give the exam →](give-exam)
-- **GradeCam (paper exam):** [Grade with GradeCam →](../paper-exams/run-paper-exam-day)
+- **Computerized exam:** [Give a computerized exam →](give-exam)
+- **GradeCam exam:** [Give a GradeCam exam →](gradecam-exam)
+- **External grading:** [Give an externally graded exam →](external-exam). The applicant can connect before or after result entry through the normal join-request path.

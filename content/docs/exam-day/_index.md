@@ -1,14 +1,28 @@
 ---
-title: Exam Day
+title: Exam Day Workflow
 weight: 5
+aliases:
+  - /docs/paper-exams/run-paper-exam-day/
 ---
 
-Step-by-step guides for running a session from start to finish.
+Use this workflow for an ExamTools-managed session. Choose an exam method for each applicant and element; a session can mix methods, including for the same applicant.
 
-- **[Start the session](open-session)** — Start the session so applicants can sign in.
-- **[Check in applicants](check-in-applicants)** — Verify identity and add applicants to the active session.
-- **[Give the exam](give-exam)** — Administer a computer-based exam: authorize start, monitor progress, and grade.
-- **[Complete an applicant](complete-applicant)** — Collect signatures on Form 605 and CSCE, mark the applicant complete, and email their CSCE.
-- **[Finalize the session](close-session)** — Lock results and close the session.
+## Start every managed session
 
-> **GradeCam or paper exams?** See the [Paper Exams](../paper-exams) section. Sessions can mix computer and GradeCam exams — even for the same applicant.
+1. [Start the session](open-session).
+2. Ensure each applicant has a record in the session through registration or as a walk-in.
+
+## Choose a method for each applicant and element
+
+- **[Computerized exam](give-exam)** — The applicant answers in a browser, and ExamTools grades and records the result.
+- **[GradeCam exam](gradecam-exam)** — The applicant uses a printed exam and bubble form. A VE scans the form, and ExamTools grades and records the result.
+- **[Externally graded exam](external-exam)** — The exam is administered and graded outside ExamTools. A VE records the result in the session for digital paperwork.
+
+These methods can be used in the same session or for different elements taken by the same applicant.
+
+## Finish every managed session
+
+1. [Complete each applicant](complete-applicant).
+2. [Finalize the session](close-session) after every applicant is finalized.
+
+> **Generating or printing only?** This is not an Exam Day workflow and does not require an ExamTools session. Use the [Paper Exams preparation guides](../paper-exams) instead.

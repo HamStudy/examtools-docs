@@ -11,9 +11,9 @@ A **session** in ExamTools is a scheduled exam event where one or more applicant
 2. **Configure settings** — Add location, set visibility, finalize notes
 3. **Add VEs** — Assign the VEs who will be working the session
 4. **Start session** — On exam day, click **Start Session** to open for applicants
-5. **Check in applicants** — Authorize applicants to join and begin testing
+5. **Connect applicants when needed** — Computerized applicants check in before testing; GradeCam and externally graded applicants can connect after result entry for signing
 6. **Administer exams** — VEs proctor and sign; applicants complete their element(s)
-7. **Finalize session** — Review all results, then click **Finalize Session** (requires team lead password)
+7. **Finalize session** — Review all results, then click **Finalize Session** (the currently signed-in Co-Owner enters their own ExamTools password; do not share passwords)
 8. **Submit to VEC** — Export session documents and deliver to your VEC
 
 ## Session types

@@ -3,11 +3,12 @@ title: Paper Exams
 weight: 6
 ---
 
-ExamTools can generate printed paper exams that you administer on-site. Results are recorded automatically (GradeCam) or entered manually after grading.
+Use this section to generate, print, and manually grade paper exams. Exam-day administration belongs in the [Exam Day Workflow](../exam-day), where computerized, GradeCam, and externally graded exams have separate guides.
 
-- **[Paper exams overview](paper-exams-overview)** — When and why to use paper exams, and how the two grading methods differ.
-- **[Generate and print](generate-and-print)** — Create the exam PDFs and bubble forms, then print them.
-- **[Run a paper exam session](run-paper-exam-day)** — Exam day workflow when using printed exams.
-- **[Grade with GradeCam](grade-with-gradecam)** — Scan bubble forms with a device camera; ExamTools grades automatically.
-- **[Grade manually](grade-manually)** — Compare answer sheets to the answer key by hand.
-- **[Record paper exam results](enter-paper-results)** — Enter scores into ExamTools after manual grading.
+## Choose a preparation method
+
+- **[Prepare a GradeCam exam](generate-and-print#gradecam-bubble-forms)** — Generate booklets in **Scan with GradeCam** mode and print one bubble form per applicant.
+- **[Generate exams with a Pre-determined Key](generate-predetermined-key-exams)** — Print exams that match an established ARRL or VEC answer key or overlay format.
+- **[Generate randomized exams for manual grading](generate-and-print)** — Print randomized booklets with ExamTools-generated answer-key pages.
+
+Generation-only use does not require an ExamTools session. If you will manage results and paperwork in ExamTools, continue with the [Exam Day Workflow →](../exam-day).

@@ -1,6 +1,6 @@
 ---
 title: Generate and Print Exams
-weight: 2
+weight: 3
 ---
 
 Exam PDFs are generated from the **Generate Exams** page, accessible from the sidebar. This is separate from the session view and can be done before exam day.
@@ -9,12 +9,12 @@ Exam PDFs are generated from the **Generate Exams** page, accessible from the si
 
 1. Click **Generate Exams** in the sidebar.
 
-2. Select a **grading method** using the buttons at the top:
+2. Select a **generation mode** using the buttons at the top:
 
    ![Generate Exams page showing Manual Grading, Pre-determined Key, and Scan with GradeCam method tabs above the exam generation options form](/img/docs/paper-exams/paper-generate-page.png)
 
-   - **Manual Grading** — produces an exam booklet and a separate answer key PDF for hand grading
-   - **Pre-determined Key** — generates exams based on a fixed answer key you select
+   - **Manual Grading** — produces randomized exam booklets with answer-key pages in the output PDF for hand grading.
+   - **Pre-determined Key** — rearranges answer choices so the correct-answer positions follow a saved key you select. Use this mode with an established paper key and manual grading. It does not require an ExamTools session.
    - **Scan with GradeCam™** — produces an exam booklet; bubble forms for scanning are downloaded separately (see below)
 
 3. Select the **Question Pool** for the license element you are testing.
@@ -25,15 +25,22 @@ Exam PDFs are generated from the **Generate Exams** page, accessible from the si
 
 5. Adjust any other options as needed:
    - **Text Size** — controls the font size in the printed booklet
-   - **Print answer keys?** — (GradeCam only) includes answer keys in the output
+   - **Print answer key** — available for Pre-determined Key and GradeCam; includes answer-key pages in the output PDF. Manual Grading includes them automatically.
+   - **Print answer sheet** — available for Manual Grading and Pre-determined Key; includes a printable answer sheet in the output PDF. GradeCam uses the separate bubble forms described below.
    - **Omit questions with figures** — excludes questions that require a diagram
    - **Output Format** — PDF (default) or TEXT (ZIP)
 
    ![Exam generation options showing Text Size dropdown, Question Pool selector, number of exams slider, Omit questions with figures toggle, and PDF/Text output format buttons](/img/docs/paper-exams/paper-generate-options.png)
 
-6. Click **Generate**. ExamTools builds a unique, randomized exam for each copy and downloads the file.
+6. Click **Generate**. ExamTools selects questions from the chosen pool and downloads the requested output. In Pre-determined Key mode, it arranges the correct-answer positions to match the selected key.
 
 > **Keep the answer key secure.** Do not distribute it before or during the exam.
+
+---
+
+## Use a Pre-determined Key
+
+For exams that must match an established answer key or template, follow [Generate Exams with a Pre-determined Key](generate-predetermined-key-exams). That guide covers creating static keys, selecting output options, generation-only use, and manual-grading follow-up.
 
 ---
 
@@ -47,7 +54,7 @@ On the Generate Exams page, scroll to **Supplemental resources** and download th
 - **50-question form** — for Amateur Extra exams
 - **35/50 combo form** — works for all elements
 
-Print one bubble form per applicant (plus extras). Bubble forms are not pre-assigned to applicants — the applicant fills in their own **Applicant ID** (their PIN) and **Exam ID** (from their booklet) by bubbling the digits, and also bubbles the element (T, G, or E).
+Print one bubble form per applicant (plus extras). Bubble forms are not pre-assigned to applicants. For GradeCam, each applicant must bubble their **Applicant ID** (their PIN), the **Exam ID** from their booklet, and the element (T, G, or E).
 
 ![GradeCam bubble form showing Applicant Name, Applicant ID, and Exam ID fields at the top, element bubbles (T/G/E), and numbered answer bubble rows 1–50](/img/docs/paper-exams/paper-gradecam-form.png)
 
@@ -72,6 +79,7 @@ Before exam day, check a printed copy:
 
 ## Next steps
 
-- [Run a paper exam session →](run-paper-exam-day)
-- [Grade with GradeCam →](grade-with-gradecam)
+- [Generate exams with a Pre-determined Key →](generate-predetermined-key-exams)
+- [Give a GradeCam exam →](../exam-day/gradecam-exam)
+- [Give an externally graded exam →](../exam-day/external-exam)
 - [Grade manually →](grade-manually)

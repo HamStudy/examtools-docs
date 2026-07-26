@@ -3,7 +3,7 @@ title: Applicant Reference
 weight: 1
 ---
 
-This page covers the parts of ExamTools that applicants interact with directly: finding a session, registering, entering your PIN, and using the online exam interface.
+This page is for applicants whose session uses ExamTools for grading or digital paperwork. It covers finding a session, registering, connecting with your session PIN, and using the online exam interface.
 
 **For anything not covered here — timing, location, what to bring, results, paperwork — contact the VE team running your session.** Their contact information is in the confirmation email you received when you registered. Every team runs their sessions differently, and only they can answer questions specific to your exam.
 
@@ -26,7 +26,7 @@ Click **Register** on the session listing that works for you. You will typically
 - Your FRN (FCC Registration Number) — required if you already hold a license
 - Your current callsign, if you have one
 
-After registering you will receive a confirmation email. That email contains the team's contact information — save it, as it is your primary point of contact for anything related to your session.
+After registering for an ExamTools-managed session, you will receive a confirmation email containing the team's contact information and your session PIN. Save it, as the team is your primary point of contact for anything related to your session.
 
 > If you need to cancel or have questions about your registration, contact the team directly using the information in your confirmation email. ExamTools support cannot modify session registrations on a team's behalf.
 
@@ -36,7 +36,7 @@ After registering you will receive a confirmation email. That email contains the
 
 A PIN is a short numeric code that connects you to your specific exam in the ExamTools system.
 
-**How you get it:** Your PIN is provided by a Volunteer Examiner at your session, either in person or via the session's communication channel. It is not sent in advance.
+**How you get it:** Your registration confirmation email includes your session PIN. Use it to connect to your ExamTools session on exam day.
 
 **How you use it:** When you open the exam interface, you will be prompted to enter your PIN before the exam loads. Type it exactly as given and press **Enter** or tap **Submit**.
 
@@ -52,17 +52,17 @@ A PIN is a short numeric code that connects you to your specific exam in the Exa
 The ExamTools exam interface runs in a web browser — no app installation required.
 
 **Navigating questions:**
-- Questions are displayed one at a time
-- Use **Previous** and **Next** to move through the exam
+- All questions appear on one scrollable page as individual cards
+- Unanswered questions appear as numbered chips in the toolbar; select a chip to scroll to that question
 - Your answers are saved automatically as you go
 
 **Reviewing and submitting:**
-- You can revisit any question before submitting
-- When you are satisfied with your answers, click **Submit Exam**
-- You will be asked to confirm before the exam is finalized
+- You can revisit any question before grading
+- When all questions are answered, click **Grade Exam**
+- If questions are unanswered, click **Stop and Grade Exam**, then confirm that unanswered questions will be marked wrong
 
 **After you submit:**
-A summary screen shows your responses. Your VEs will review the result and inform you whether you passed. Do not close the browser until a VE has confirmed they have your results.
+You see a waiting screen while the VEs authorize grading. After grading, your results page shows the result and score. Do not close the browser until a VE tells you what to do next.
 
 ---
 

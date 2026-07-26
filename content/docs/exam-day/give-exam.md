@@ -1,19 +1,20 @@
 ---
-title: Give the Exam
+title: Give a Computerized Exam
 weight: 3
 ---
 
-Exams in ExamTools can be given in two ways:
+Use this page to administer an ExamTools computerized exam. The applicant answers in a browser and ExamTools records the result automatically.
 
-- **On a device (computer-based)** — The applicant takes the exam on their own device through the ExamTools applicant portal. The rest of this page covers this workflow.
-- **On paper, graded with GradeCam** — The applicant answers a printed bubble sheet. A VE scans it with a device camera to grade it automatically. See the [Paper Exams](../paper-exams) section for this workflow.
+Computerized, GradeCam, and externally graded exams can be used in the same session. An applicant can also take different elements using different methods. See the [Exam Day Workflow](.) to choose another method.
 
-Both methods can be used in the same session, and an individual applicant can take different elements by different methods.
+When ExamTools grades an exam in the browser, it can collect anonymous question-performance data that can be shared with the Question Pool Committee (QPC) to help improve question pools.
 
 ## Prerequisites
 
 - An active session (status: **In progress**)
 - The applicant [checked in](check-in-applicants) and at least three VEs assigned to them
+
+> **Important:** For in-person sessions, use team-controlled devices whenever possible. Avoid applicant-owned devices unless your team and VEC procedures provide for inspection and supervision, because ExamTools does not lock down or monitor other software on the device.
 
 ## Share the applicant login link (optional)
 
@@ -113,3 +114,4 @@ When the applicant confirms, they advance to the form-signing flow.
 
 - [Complete the applicant →](complete-applicant)
 - [Check in the next applicant →](check-in-applicants)
+- [Choose another exam method →](.)

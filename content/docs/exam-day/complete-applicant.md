@@ -1,6 +1,6 @@
 ---
 title: Complete an Applicant
-weight: 4
+weight: 6
 ---
 
 After all of an applicant's exams are complete, the applicant and each assigned VE sign the NCVEC Form 605 and CSCE. Once all signatures are collected, the applicant is marked complete and their CSCE can be emailed to them.
@@ -10,7 +10,9 @@ After all of an applicant's exams are complete, the applicant and each assigned 
 - The applicant's exams are all graded or voided
 - The applicant is in **Ready to sign** status
 
-> **GradeCam applicants:** Applicants who took a paper exam graded with GradeCam have not yet signed into ExamTools. Before they can sign their forms, they must connect to the session with their PIN and have a VE approve their join request — the same process described in [Check In Applicants](check-in-applicants). Direct them to sign in with their PIN once grading is complete.
+> **Mixed-method sessions:** Confirm that the applicant has completed every intended element, whether computerized, GradeCam, or externally graded, before sending them to sign. All methods use this same signing and completion workflow.
+
+> **Applicants who have not connected yet:** After grading or result entry, select **Copy Applicant Login Link** from the applicant's PIN menu. Verify the recipient and send the link directly to the applicant through a private channel. The applicant opens the link and submits the normal join request, which a VE approves. After connecting, the applicant selects **Finish and Sign Forms**. See [Check In Applicants](check-in-applicants).
 
 ---
 
