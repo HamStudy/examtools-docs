@@ -13,6 +13,12 @@
       "skillPath": "skills/documentation/SKILL.md",
       "computedHash": "72842d603897930998639bfd6e9d002a4eeb1f45080ac885495a56c4e843dbe5"
     },
+    "git-commit": {
+      "source": "HamStudy/git-commit-skill",
+      "sourceType": "github",
+      "skillPath": "skills/git-commit/SKILL.md",
+      "computedHash": "a90fcc06c5a781b70d1e6358def788dd33abb83c72d504efc38a292e9d080eca"
+    },
     "hugo": {
       "source": "hamstudy/gohugo-skill",
       "sourceType": "github",
