@@ -8,10 +8,6 @@
 {{ $dataLocale := index hugo.Data .Site.Language.Lang }}
 {{ if isset $dataLocale .Section }}
   {{ $data := index hugo.Data .Site.Language.Lang .Section "sidebar"}}
-  {{- $url := split .Permalink "/" -}}
-  {{- $urlPageSlug := index $url (sub (len $url) 2) -}}
-
-  {{ $isSectionIndex := eq $urlPageSlug .Section }}
   {{ $isActivePagePassed := false }}
   {{ $isNextPagePassed := false }}
 
@@ -21,17 +17,13 @@
     {{ end }}
 
     {{- range $page := $group.pages -}}
-      {{- $pageSlug := $page.title | urlize -}}
-      {{- $isActivePage := or $isSectionIndex (eq $urlPageSlug $pageSlug) -}}
+      {{- /* Keep Prev/Next URLs consistent with the local sidebar override, where explicit data URLs are authoritative. */ -}}
+      {{- $pageHref := $page.url | default (printf "/%s/%s/" $.Section ($page.title | urlize)) -}}
+      {{- $isActivePage := eq $.RelPermalink $pageHref -}}
 
       {{ if $isActivePagePassed }}
         {{ $nextPageTitle = $page.title }}
-
-        {{ if eq .Site.Language.Lang .Site.DefaultContentLanguage }}
-          {{ $nextPageHref = printf "/%s/%s/" $.Section $pageSlug }}
-        {{ else }}
-          {{ $nextPageHref = printf "/%s/%s/%s/" $.Site.Language.Lang $.Section $pageSlug }}
-        {{ end}}
+        {{ $nextPageHref = $pageHref }}
 
         {{ $isNextPagePassed = true }}
         {{break}}
@@ -41,12 +33,7 @@
 
       {{ else }}
         {{ $prevPageTitle = $page.title }}
-
-        {{ if eq .Site.Language.Lang .Site.DefaultContentLanguage }}
-          {{ $prevPageHref = printf "/%s/%s/" $.Section $pageSlug }}
-        {{ else }}
-          {{ $prevPageHref = printf "/%s/%s/%s/" $.Site.Language.Lang $.Section $pageSlug }}
-        {{ end}}
+        {{ $prevPageHref = $pageHref }}
 
       {{ end }}
     {{ end}}

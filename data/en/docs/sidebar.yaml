@@ -13,8 +13,8 @@
       url: /docs/account-setup/create-account/
     - title: Confirm Your VEC Accreditation
       url: /docs/account-setup/add-vec-accreditation/
-    - title: Add Your Signature
-      url: /docs/account-setup/add-signature/
+    - title: Update Your Signature
+      url: /docs/account-setup/update-signature/
     - title: Change Your Callsign
       url: /docs/account-setup/callsign-change/
 
@@ -48,12 +48,18 @@
 
 - title: Exam Day
   pages:
+    - title: Exam Day Workflow
+      url: /docs/exam-day/
     - title: Start the Session
       url: /docs/exam-day/open-session/
     - title: Check In Applicants
       url: /docs/exam-day/check-in-applicants/
-    - title: Give the Exam
+    - title: Give a Computerized Exam
       url: /docs/exam-day/give-exam/
+    - title: Give a GradeCam Exam
+      url: /docs/exam-day/gradecam-exam/
+    - title: Give an Externally Graded Exam
+      url: /docs/exam-day/external-exam/
     - title: Complete an Applicant
       url: /docs/exam-day/complete-applicant/
     - title: Finalize the Session
@@ -63,16 +69,12 @@
   pages:
     - title: Paper Exams Overview
       url: /docs/paper-exams/paper-exams-overview/
+    - title: Generate Exams with a Pre-determined Key
+      url: /docs/paper-exams/generate-predetermined-key-exams/
     - title: Generate and Print Exams
       url: /docs/paper-exams/generate-and-print/
-    - title: Grade with GradeCam
-      url: /docs/paper-exams/grade-with-gradecam/
     - title: Grade Manually
       url: /docs/paper-exams/grade-manually/
-    - title: Run a Paper Exam Session
-      url: /docs/paper-exams/run-paper-exam-day/
-    - title: Record Paper Exam Results
-      url: /docs/paper-exams/enter-paper-results/
 
 - title: Remote Exams
   pages:

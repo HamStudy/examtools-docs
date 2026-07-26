@@ -37,6 +37,7 @@ layouts/
 
 - Override-by-filename: any file here shadows the same path in `themes/docura/layouts/`. Copy the theme file first, then modify — do not invent new block names.
 - Templates read nav from `data/en/docs/sidebar.yaml`, not from Hugo's page collections — template changes touching nav must keep that contract.
+- This project extends Docura sidebar data with explicit `url` values because many titles do not match their content slugs. `sidebar.html` and `article-footer.html` must both treat those URLs as authoritative so sidebar and Prev/Next navigation stay aligned.
 - Custom classes use `et-` prefix (e.g. `et-callout`, `et-browse-all`); styles live in `assets/css/examtools-custom.css`.
 
 ## ANTI-PATTERNS
